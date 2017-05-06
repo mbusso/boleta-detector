@@ -17,29 +17,12 @@ import org.opencv.android.CameraBridgeViewBase.CvCameraViewFrame;
 import org.opencv.android.CameraBridgeViewBase.CvCameraViewListener2;
 import org.opencv.android.LoaderCallbackInterface;
 import org.opencv.android.OpenCVLoader;
-import org.opencv.core.Core;
-import org.opencv.core.CvType;
 import org.opencv.core.Mat;
-import org.opencv.core.MatOfRect;
-import org.opencv.core.Point;
-import org.opencv.core.Rect;
-import org.opencv.core.Scalar;
-import org.opencv.core.Size;
-import org.opencv.imgproc.Imgproc;
 import org.opencv.objdetect.CascadeClassifier;
-import org.opencv.objdetect.Objdetect;
-
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-
 
 public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private static final String    TAG                 = "OCVSample::Activity";
-    private static final Scalar    FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
-    public static final int        JAVA_DETECTOR       = 0;
     private static final int TM_SQDIFF = 0;
     private static final int TM_SQDIFF_NORMED = 1;
     private static final int TM_CCOEFF = 2;
@@ -65,13 +48,8 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private Mat                    mRgba;
     private Mat                    mGray;
-    private File                   mCascadeFile;
-    private File                   mCascadeFileEye;
     private CascadeClassifier      mJavaDetector;
-    private CascadeClassifier      mJavaDetectorEye;
 
-
-    private int                    mDetectorType       = JAVA_DETECTOR;
     private String[]               mDetectorName;
 
     private float                  mRelativeFaceSize   = 0.2f;
@@ -91,31 +69,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
                 case LoaderCallbackInterface.SUCCESS:
                 {
                     Log.i(TAG, "OpenCV loaded successfully");
-                    try {
-                        // load cascade file from application resources
-                        InputStream is = getResources().openRawResource(R.raw.banana_classifier);
-                        File cascadeDir = getDir("cascade", Context.MODE_PRIVATE);
-                        mCascadeFile = new File(cascadeDir, "banana_classifier.xml");
-                        FileOutputStream os = new FileOutputStream(mCascadeFile);
-
-                        byte[] buffer = new byte[4096];
-                        int bytesRead;
-                        while ((bytesRead = is.read(buffer)) != -1) {
-                            os.write(buffer, 0, bytesRead);
-                        }
-                        is.close();
-                        os.close();
-                        mJavaDetector = new CascadeClassifier(mCascadeFile.getAbsolutePath());
-                        if (mJavaDetector.empty()) {
-                            Log.e(TAG, "Failed to load cascade classifier");
-                            mJavaDetector = null;
-                        } else
-                            Log.i(TAG, "Loaded cascade classifier from " + mCascadeFile.getAbsolutePath());
-                        cascadeDir.delete();
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                        Log.e(TAG, "Failed to load cascade. Exception thrown: " + e);
-                    }
+                    mJavaDetector = Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG);
                     mOpenCvCameraView.enableFpsMeter();
                     mOpenCvCameraView.setCameraIndex(0);
                     mOpenCvCameraView.enableView();
@@ -130,7 +84,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     public MainActivity() {
         mDetectorName = new String[2];
-        mDetectorName[JAVA_DETECTOR] = "Java";
+        mDetectorName[Detector.JAVA_DETECTOR] = "Java";
 
         Log.i(TAG, "Instantiated new " + this.getClass());
     }
@@ -245,29 +199,13 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
             if (Math.round(height * mRelativeFaceSize) > 0) {
                 mAbsoluteFaceSize = Math.round(height * mRelativeFaceSize);
             }
-
         }
 
         if (mZoomWindow == null || mZoomWindow2 == null)
             CreateAuxiliaryMats();
 
-        MatOfRect faces = new MatOfRect();
+        Detector.detect(TAG, mJavaDetector, mGray, mRgba, mAbsoluteFaceSize);
 
-        if (mDetectorType == JAVA_DETECTOR) {
-            if (mJavaDetector != null)
-                mJavaDetector.detectMultiScale(mGray, faces, 1.1, 2, 2, // TODO: objdetect.CV_HAAR_SCALE_IMAGE
-                        new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
-        }
-        else {
-            Log.e(TAG, "Detection method is not selected!");
-        }
-
-        Rect[] facesArray = faces.toArray();
-        for (int i = 0; i < facesArray.length; i++)
-        {	Imgproc.rectangle(mRgba, facesArray[i].tl(), facesArray[i].br(),
-                FACE_RECT_COLOR, 3);
-            Rect r = facesArray[i];
-        }
         return mRgba;
     }
 
