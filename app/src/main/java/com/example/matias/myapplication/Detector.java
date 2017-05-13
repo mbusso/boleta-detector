@@ -3,8 +3,10 @@ package com.example.matias.myapplication;
 import android.content.res.Resources;
 import android.util.Log;
 
+import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.core.MatOfRect;
+import org.opencv.core.Point;
 import org.opencv.core.Rect;
 import org.opencv.core.Scalar;
 import org.opencv.core.Size;
@@ -68,6 +70,7 @@ public class Detector {
                 int flag = 0;
 
                 for (CascadeClassifier classifier: classifiers) {
+                    //TODO: cada classifier tiene que tener un faces
                     classifier.detectMultiScale(mGray, faces1, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
                 }
             }
@@ -86,7 +89,10 @@ public class Detector {
         for (int i = 0; i < facesArray.length; i++) {
             Imgproc.rectangle(mRgba, facesArray[i].tl(), facesArray[i].br(),
                     FACE_RECT_COLOR, 3);
+            Imgproc.putText(mRgba, "Hola", new Point(100,100), Core.FONT_ITALIC, 1.0,FACE_RECT_COLOR);
             Rect r = facesArray[i];
+
+
         }
     }
 }
