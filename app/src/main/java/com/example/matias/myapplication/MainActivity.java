@@ -20,6 +20,9 @@ import org.opencv.android.OpenCVLoader;
 import org.opencv.core.Mat;
 import org.opencv.objdetect.CascadeClassifier;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private static final String    TAG                 = "OCVSample::Activity";
@@ -48,7 +51,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private Mat                    mRgba;
     private Mat                    mGray;
-    private CascadeClassifier      mJavaDetector;
+    private List <CascadeClassifier> classifiers = new ArrayList<CascadeClassifier>();
 
     private String[]               mDetectorName;
 
@@ -69,7 +72,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
                 case LoaderCallbackInterface.SUCCESS:
                 {
                     Log.i(TAG, "OpenCV loaded successfully");
-                    mJavaDetector = Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG);
+                    classifiers.add(Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG, R.raw.banana_classifier, "banana_classifier.xml"));
                     mOpenCvCameraView.enableFpsMeter();
                     mOpenCvCameraView.setCameraIndex(0);
                     mOpenCvCameraView.enableView();
@@ -204,7 +207,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
         if (mZoomWindow == null || mZoomWindow2 == null)
             CreateAuxiliaryMats();
 
-        Detector.detect(TAG, mJavaDetector, mGray, mRgba, mAbsoluteFaceSize);
+        Detector.detect(TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize);
 
         return mRgba;
     }
