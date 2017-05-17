@@ -78,17 +78,17 @@ public class Detector {
             Log.e(TAG, "Detection method is not selected!");
         }
 
-        bla(faces1, mRgba);
-        bla(faces2, mRgba);
+        bla(faces1, "zamora", new Point(100,100), mRgba);
+        bla(faces2, "lilita", new Point(50, 50),mRgba);
     }
 
-    private static void bla(MatOfRect faces, Mat mRgba) {
+    private static void bla(MatOfRect faces, String label, Point point, Mat mRgba) {
         final Scalar FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
         Rect[] facesArray = faces.toArray();
         for (int i = 0; i < facesArray.length; i++) {
             Imgproc.rectangle(mRgba, facesArray[i].tl(), facesArray[i].br(),
                     FACE_RECT_COLOR, 3);
-            Imgproc.putText(mRgba, "Hola", new Point(100,100), Core.FONT_ITALIC, 1.0,FACE_RECT_COLOR);
+            Imgproc.putText(mRgba, label, point, Core.FONT_ITALIC, 1.0,FACE_RECT_COLOR);
             Rect r = facesArray[i];
 
 
