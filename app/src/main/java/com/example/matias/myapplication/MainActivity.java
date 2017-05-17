@@ -72,7 +72,8 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
                 case LoaderCallbackInterface.SUCCESS:
                 {
                     Log.i(TAG, "OpenCV loaded successfully");
-                    classifiers.add(Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG, R.raw.banana_classifier, "banana_classifier.xml"));
+                    classifiers.add(Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml"));
+                    classifiers.add(Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
                     mOpenCvCameraView.enableFpsMeter();
                     mOpenCvCameraView.setCameraIndex(0);
                     mOpenCvCameraView.enableView();

@@ -69,10 +69,9 @@ public class Detector {
                 int minNeighbors = 2;
                 int flag = 0;
 
-                for (CascadeClassifier classifier: classifiers) {
-                    //TODO: cada classifier tiene que tener un faces
-                    classifier.detectMultiScale(mGray, faces1, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
-                }
+                classifiers.get(0).detectMultiScale(mGray, faces1, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
+                classifiers.get(1).detectMultiScale(mGray, faces2, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
+
             }
         }
         else {
