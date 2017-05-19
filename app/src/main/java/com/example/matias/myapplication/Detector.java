@@ -1,9 +1,14 @@
 package com.example.matias.myapplication;
 
 import android.content.res.Resources;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.util.Log;
 
+import org.opencv.android.Utils;
 import org.opencv.core.Core;
+import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import org.opencv.core.MatOfRect;
 import org.opencv.core.Point;
@@ -18,6 +23,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by matias on 06/05/17.
@@ -57,7 +63,7 @@ public class Detector {
         return null;
     }
 
-    public static void detect(String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize) {
+    public static void detect(String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize, Bitmap bMap) {
         int mDetectorType = JAVA_DETECTOR;
 
         MatOfRect faces1 = new MatOfRect();
@@ -78,11 +84,11 @@ public class Detector {
             Log.e(TAG, "Detection method is not selected!");
         }
 
-        bla(faces1, "zamora", new Point(100,100), mRgba);
-        bla(faces2, "lilita", new Point(50, 50),mRgba);
+        bla(faces1, "zamora", new Point(100,100), mRgba, bMap);
+        bla(faces2, "lilita", new Point(50, 50),mRgba, bMap);
     }
 
-    private static void bla(MatOfRect faces, String label, Point point, Mat mRgba) {
+    private static void bla(MatOfRect faces, String label, Point point, Mat mRgba, Bitmap bMap) {
         final Scalar FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
         Rect[] facesArray = faces.toArray();
         for (int i = 0; i < facesArray.length; i++) {
@@ -90,8 +96,17 @@ public class Detector {
                     FACE_RECT_COLOR, 3);
             Imgproc.putText(mRgba, label, point, Core.FONT_ITALIC, 1.0,FACE_RECT_COLOR);
             Rect r = facesArray[i];
-
-
+            displayImage(mRgba, bMap);
         }
+    }
+
+    private static void displayImage(Mat mRgba, Bitmap bMap) {
+        //Mat submat = mRgba.submat(0,50, 0, 50);
+        Mat submat = new Mat();
+
+        Bitmap b = Bitmap.createBitmap(864, 480,  Bitmap.Config.ARGB_8888);
+        b.eraseColor(Color.RED);
+        Utils.bitmapToMat(b, submat);
+        submat.copyTo(mRgba);
     }
 }

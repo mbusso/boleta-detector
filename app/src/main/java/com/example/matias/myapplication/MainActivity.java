@@ -2,6 +2,8 @@ package com.example.matias.myapplication;
 
 import android.app.Activity;
 import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -208,7 +210,8 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
         if (mZoomWindow == null || mZoomWindow2 == null)
             CreateAuxiliaryMats();
 
-        Detector.detect(TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize);
+        //Bitmap bMap= BitmapFactory.decodeResource(getResources(),R.drawable.boleta);
+        Detector.detect(TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize, null);
 
         return mRgba;
     }
