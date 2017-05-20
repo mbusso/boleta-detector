@@ -23,7 +23,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
-import java.util.Map;
+
 
 /**
  * Created by matias on 06/05/17.
@@ -101,12 +101,11 @@ public class Detector {
     }
 
     private static void displayImage(Mat mRgba, Bitmap bMap) {
-        //Mat submat = mRgba.submat(0,50, 0, 50);
-        Mat submat = new Mat();
-
-        Bitmap b = Bitmap.createBitmap(864, 480,  Bitmap.Config.ARGB_8888);
+        Mat bitmapMat = new Mat();
+        Bitmap b = Bitmap.createBitmap(50, 50, Bitmap.Config.ARGB_8888);
         b.eraseColor(Color.RED);
-        Utils.bitmapToMat(b, submat);
-        submat.copyTo(mRgba);
+
+        Utils.bitmapToMat(b, bitmapMat);
+        bitmapMat.copyTo(mRgba.submat(0, 50, 0, 50));
     }
 }
