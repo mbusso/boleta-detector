@@ -210,8 +210,8 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
         if (mZoomWindow == null || mZoomWindow2 == null)
             CreateAuxiliaryMats();
 
-        //Bitmap bMap= BitmapFactory.decodeResource(getResources(),R.drawable.boleta);
-        Detector.detect(TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize, null);
+        Bitmap bMap= BitmapFactory.decodeResource(getResources(),R.drawable.minionsmall);
+        Detector.detect(TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize, bMap);
 
         return mRgba;
     }

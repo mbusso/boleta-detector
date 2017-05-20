@@ -102,10 +102,7 @@ public class Detector {
 
     private static void displayImage(Mat mRgba, Bitmap bMap) {
         Mat bitmapMat = new Mat();
-        Bitmap b = Bitmap.createBitmap(50, 50, Bitmap.Config.ARGB_8888);
-        b.eraseColor(Color.RED);
-
-        Utils.bitmapToMat(b, bitmapMat);
-        bitmapMat.copyTo(mRgba.submat(0, 50, 0, 50));
+        Utils.bitmapToMat(bMap, bitmapMat);
+        bitmapMat.copyTo(mRgba.submat(0, bMap.getHeight(), 0, bMap.getWidth()));
     }
 }
