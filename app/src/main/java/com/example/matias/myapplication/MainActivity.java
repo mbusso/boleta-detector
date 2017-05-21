@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.SeekBar;
@@ -25,7 +26,7 @@ import org.opencv.objdetect.CascadeClassifier;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends Activity implements CvCameraViewListener2 {
+public class MainActivity extends Activity implements CvCameraViewListener2, View.OnTouchListener {
 
     private static final String    TAG                 = "OCVSample::Activity";
     private static final int TM_SQDIFF = 0;
@@ -79,6 +80,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
                     mOpenCvCameraView.enableFpsMeter();
                     mOpenCvCameraView.setCameraIndex(0);
                     mOpenCvCameraView.enableView();
+                    mOpenCvCameraView.setOnTouchListener(MainActivity.this);
                 } break;
                 default:
                 {
@@ -267,4 +269,9 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
         learn_frames = 0;
     }
 
+    @Override
+    public boolean onTouch(View v, MotionEvent event) {
+        Detector.deliverTouchEvent(mRgba, event.getX(), event.getY());
+        return false;
+    }
 }

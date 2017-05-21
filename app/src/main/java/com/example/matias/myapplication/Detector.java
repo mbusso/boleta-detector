@@ -105,4 +105,8 @@ public class Detector {
         Utils.bitmapToMat(bMap, bitmapMat);
         bitmapMat.copyTo(mRgba.submat(0, bMap.getHeight(), 0, bMap.getWidth()));
     }
+
+    public static void deliverTouchEvent(Mat mRgba, float x, float y) {
+        Imgproc.putText(mRgba, "Touched", new Point(130, 130), Core.FONT_ITALIC, 1.0, new Scalar(0, 255, 0, 255));
+    }
 }
