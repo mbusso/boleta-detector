@@ -32,6 +32,9 @@ import java.util.List;
 public class Detector {
 
     public static final int        JAVA_DETECTOR       = 0;
+    private static int count = 0;
+    private static Rect[] resultsAux = new Rect[]{};
+
 
     public static CascadeClassifier create(Resources resources, File directory, String TAG, int raw_banana_classifier, String filename) {
         try {
@@ -64,12 +67,9 @@ public class Detector {
     }
 
     public static void detect(String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize, Bitmap bMap) {
-        int mDetectorType = JAVA_DETECTOR;
-
         MatOfRect faces1 = new MatOfRect();
         MatOfRect faces2 = new MatOfRect();
 
-        if (mDetectorType == JAVA_DETECTOR) {
             if (classifiers != null) {
                 double scaleFactor = 1.1;
                 int minNeighbors = 2;
@@ -77,12 +77,7 @@ public class Detector {
 
                 classifiers.get(0).detectMultiScale(mGray, faces1, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
                 classifiers.get(1).detectMultiScale(mGray, faces2, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
-
             }
-        }
-        else {
-            Log.e(TAG, "Detection method is not selected!");
-        }
 
         bla(faces1, "zamora", new Point(100,100), mRgba, bMap);
         bla(faces2, "lilita", new Point(50, 50),mRgba, bMap);
@@ -91,11 +86,26 @@ public class Detector {
     private static void bla(MatOfRect faces, String label, Point point, Mat mRgba, Bitmap bMap) {
         final Scalar FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
         Rect[] facesArray = faces.toArray();
-        for (int i = 0; i < facesArray.length; i++) {
-            Imgproc.rectangle(mRgba, facesArray[i].tl(), facesArray[i].br(),
-                    FACE_RECT_COLOR, 3);
-            Imgproc.putText(mRgba, label, point, Core.FONT_ITALIC, 1.0,FACE_RECT_COLOR);
-            Rect r = facesArray[i];
+        if(facesArray.length >0) {
+            resultsAux = facesArray.clone();
+            drawResults(facesArray, label, point, mRgba, bMap, FACE_RECT_COLOR);
+            count = 0;
+        }
+        else {
+            if (count <= 30 ) {
+                drawResults(resultsAux, label, point, mRgba, bMap, FACE_RECT_COLOR);
+                count ++;
+            } else {
+                resultsAux = new Rect[]{};
+                count = 0;
+            }
+        }
+    }
+
+    private static void drawResults(Rect[] results, String label, Point point, Mat mRgba, Bitmap bMap, Scalar FACE_RECT_COLOR) {
+        for (int i = 0; i < results.length; i++) {
+            //Imgproc.rectangle(mRgba, rect.tl(), rect.br(), FACE_RECT_COLOR, 3);
+            Imgproc.putText(mRgba, label, point, Core.FONT_ITALIC, 1.0, FACE_RECT_COLOR);
             displayImage(mRgba, bMap);
         }
     }

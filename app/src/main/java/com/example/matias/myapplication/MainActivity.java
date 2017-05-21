@@ -117,8 +117,12 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
     public void onCameraViewStopped() {
         mGray.release();
         mRgba.release();
-        mZoomWindow.release();
-        mZoomWindow2.release();
+        if(mZoomWindow != null) {
+            mZoomWindow.release();
+        }
+        if(mZoomWindow2 != null) {
+            mZoomWindow2.release();
+        }
     }
 
     public Mat onCameraFrame(CvCameraViewFrame inputFrame) {
