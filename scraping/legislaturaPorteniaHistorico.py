@@ -5,6 +5,7 @@ def main():
 	candidateSurname = "abbas"
 	tree = ET.parse('GetDiputadosHistorico.xml')
 	historicalCandidate = findHistoricalCandidate(tree.getroot(),candidateSurname)
+	print historicalCandidate
 	
 
 
