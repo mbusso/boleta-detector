@@ -1,8 +1,10 @@
 import xml.etree.ElementTree as ET
+import unicodedata
+import json
 
 
 def main():
-	candidateSurname = "abbas"
+	candidateSurname = u"Sanchez Andia"
 	tree = ET.parse('GetDiputadosHistorico.xml')
 	historicalCandidate = findHistoricalCandidate(tree.getroot(),candidateSurname)
 	print historicalCandidate
@@ -13,7 +15,7 @@ def main():
 def findHistoricalCandidate(root, surname):
 	results = []
 	for child in root:
-		if(child[1].text.lower() == surname.lower()):
+		if(normalize(child[1].text) == normalize(surname)):
 			data = {}
 			data["id_legislador"] = child[0].text
 			data["apellido"] = child[1].text
@@ -27,7 +29,10 @@ def findHistoricalCandidate(root, surname):
 	if(len(results) == 0) :
 		return {}
 
-	return results[0]
+	return json.dumps(results[0], ensure_ascii=False)
+
+def normalize(string):
+	return unicodedata.normalize('NFKD', unicode(string)).encode('ASCII', 'ignore').lower()
 
 
 if __name__ == "__main__":
