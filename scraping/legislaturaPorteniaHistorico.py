@@ -8,7 +8,7 @@ def main():
 	tree = ET.parse('GetDiputadosHistorico.xml')
 	historicalCandidate = findHistoricalCandidate(tree.getroot(),candidateSurname)
 	if(historicalCandidate):
-		findInfo(historicalCandidate["id_legislador"]) #TODO: PARSE DATA
+		print findInfo(historicalCandidate["id_legislador"])
 
 def findHistoricalCandidate(root, surname):
 	results = []
@@ -34,10 +34,29 @@ def normalize(string):
 
 
 def findInfo(legisladorId):
+	content = makeRequest(legisladorId)
+	root = ET.fromstring(content)
+	candidate = root[0]
+	data = {}
+	data["apellido"] = candidate[0].text
+	data["nombre"] = candidate[1].text
+	data["id_legislador"] = candidate[6].text
+	data["fecha_inicio_mandato"] = candidate[9].text
+	data["fecha_fin_mandato"] = candidate[10].text
+	data["cantidad_exptes_autor"] = candidate[33].text 
+	data["cantidad_exptes_coautor"] = candidate[34].text 
+	data["cantidad_mandatos"] = candidate[35].text 
+	return data
+
+
+	
+
+def makeRequest(legisladorId):
 	payload = "id_legislador={}".format(legisladorId)
 	headers = {'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'}
 	r = requests.post("https://parlamentaria.legislatura.gov.ar/webservices/Json.asmx/GetDiputadosyCargosActivosPorId_Legislador", payload, headers=headers)
-	print r.text
+	r.encoding = 'utf-8'
+	return r.text.encode('utf-8')
 
 if __name__ == "__main__":
     main()
