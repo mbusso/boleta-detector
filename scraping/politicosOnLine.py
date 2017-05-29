@@ -20,7 +20,7 @@ def main():
 def parse_candidates(soup):
 	contents = soup.find(id="klout-top").find_all("tr")
 	candidates = []
-	for tr in contents[1: len(contents) -1]:
+	for tr in contents[1: len(contents)]:
 		tds = tr.find_all("td")
 		data = {}
 		data['img'] = tr.find_all("td")[0].contents[0]["src"]

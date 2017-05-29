@@ -293,6 +293,12 @@
 	"img": "http://pbs.twimg.com/profile_images/790192312974471168/axnDK-aD_normal.jpg",
 	"amountOfFollowers": "76.006"
 }, {
+	"description": "Madre, compañera, laburante, bostera, peronista sin fronteras. Ministra d Economía d la Prov. d Buenos Aires. Vivo en La Plata, duermo en Buenos Aires",
+	"href": "http://www.politicosonline.com/sbatakis",
+	"name": "Silvina Batakis",
+	"img": "http://pbs.twimg.com/profile_images/862369698469609476/eg5tT3oy_normal.jpg",
+	"amountOfFollowers": "27.309"
+}, {
 	"description": "Fiscal General - Especialista Delincuencia Informática - Comisión Nac. Cibercimen - Prof. Posgrado UCA",
 	"href": "http://www.politicosonline.com/saenzricardo",
 	"name": "Ricardo Sáenz",
@@ -586,6 +592,12 @@
 	"name": "Dip.Gerardo Milman",
 	"img": "http://pbs.twimg.com/profile_images/678375385420185602/ALaFJIsp_normal.jpg",
 	"amountOfFollowers": "10.550"
+}, {
+	"description": "Soy de Chivilcoy. Diputado Nacional. Me gusta la política, el arte... y el fútbol ! Mi mujer se llama Florencia y mis hijas Rosario y Agustina.",
+	"href": "http://www.politicosonline.com/ferrarigustavo",
+	"name": "Gustavo Ferrari",
+	"img": "http://pbs.twimg.com/profile_images/539896138535829504/DsydPAWX_normal.jpeg",
+	"amountOfFollowers": "21.923"
 }, {
 	"description": "Sociólogo y docente universitario. Dirigente Nacional del PTS",
 	"href": "http://www.politicosonline.com/chipicastillo",
@@ -881,6 +893,12 @@
 	"img": "http://pbs.twimg.com/profile_images/555726873938759680/I9h9NWx6_normal.jpeg",
 	"amountOfFollowers": "10.430"
 }, {
+	"description": "",
+	"href": "http://www.politicosonline.com/GonzaloAtanasof",
+	"name": "Gonzalo Atanasof",
+	"img": "http://pbs.twimg.com/profile_images/753357787862794240/AgJOwhOi_normal.jpg",
+	"amountOfFollowers": "4.660"
+}, {
 	"description": "Diputado Provincial",
 	"href": "http://www.politicosonline.com/GabrielBruera",
 	"name": "Gabriel Bruera",
@@ -1174,6 +1192,12 @@
 	"name": "santiago martorelli",
 	"img": "http://pbs.twimg.com/profile_images/819539535168208897/bxiC7tgy_normal.jpg",
 	"amountOfFollowers": "4.404"
+}, {
+	"description": "Diputado Provincial (FPV-PJ) 6ta Sección Electoral, Buenos Aires. Abogado, 3 hijos, Fútbol Independiente, Villa Mitre,Básquet, Estudiantes Bahía Blanca.",
+	"href": "http://www.politicosonline.com/ivanbudassi",
+	"name": "Iván Budassi",
+	"img": "http://pbs.twimg.com/profile_images/742561566797746176/21dd3Esh_normal.jpg",
+	"amountOfFollowers": "13.326"
 }, {
 	"description": "Secretario Parlamentario Bloque PROYECTO SUR y Secretario Gral. del PSA\r\nPrensa: Gabriela Papagni 223-15-5394053 (prensamariomazzitelli@gmail.com)",
 	"href": "http://www.politicosonline.com/mariomazzitelli",
@@ -1469,6 +1493,12 @@
 	"img": "http://pbs.twimg.com/profile_images/641948042669727744/CvNYus9q_normal.jpg",
 	"amountOfFollowers": "3.204"
 }, {
+	"description": "Licenciado en Economía\r\nDirector Ejecutivo de Arba\r\nAgencia de Recaudación de Buenos Aires.",
+	"href": "http://www.politicosonline.com/MartinDiBella",
+	"name": "Martín Di Bella",
+	"img": "http://pbs.twimg.com/profile_images/676927189804281856/Eod2ezLJ_normal.jpg",
+	"amountOfFollowers": "5.270"
+}, {
 	"description": "Dirigente Peronista. Actualmente presido la COPPPAL y el Instituto de Altos Estudios Juan Perón.\r\n",
 	"href": "http://www.politicosonline.com/cafieroantonio",
 	"name": "Antonio Cafiero",
@@ -1666,4 +1696,10 @@
 	"name": "Alejandra Blanco",
 	"img": "http://pbs.twimg.com/profile_images/491367458151092225/wOECJyYH_normal.jpeg",
 	"amountOfFollowers": "310"
+}, {
+	"description": "Jorge Selser, diputado de la Ciudad Autónoma de Bs. As. ",
+	"href": "http://www.politicosonline.com/jorge_selser",
+	"name": "Jorge Selser",
+	"img": "http://pbs.twimg.com/profile_images/1129678993/1_normal.jpg",
+	"amountOfFollowers": "868"
 }]
