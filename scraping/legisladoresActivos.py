@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import json
+import requests
 
 
 def main():
@@ -7,6 +8,7 @@ def main():
 	tree = ET.parse('GetDiputadosActivosNuevo.xml')
 	historicalCandidate = findHistoricalCandidate(tree.getroot(),candidateSurname)
 	print historicalCandidate
+	downloadFile(historicalCandidate["foto"])
 	
 
 def findHistoricalCandidate(root, surname):
@@ -28,7 +30,13 @@ def findHistoricalCandidate(root, surname):
 	if(len(results) == 0) :
 		return {}
 
-	return json.dumps(results[0], ensure_ascii=False)
+	return results[0]
+
+def downloadFile(url):
+	r  = requests.get(url)
+	tokens = url.split("/")
+	with open(tokens[len(tokens)-1], "wb") as output:
+    		output.write(r.content)
 
 
 if __name__ == "__main__":
