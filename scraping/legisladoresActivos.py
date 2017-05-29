@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+import json
 
 
 def main():
@@ -8,15 +9,13 @@ def main():
 	print historicalCandidate
 	
 
-
-
 def findHistoricalCandidate(root, surname):
 	results = []
 	for child in root:
 		if(child[0].text.lower() == surname.lower()):
 			data = {}
 			data["apellido"] = child[0].text
-			data["nombre"] = str(child[1].text
+			data["nombre"] = child[1].text
 			data["idLegislador"] = child[6].text
 			data["fechaInicioMandato"] = child[9].text
 			data["fechaFinMandato"] = child[10].text
@@ -29,7 +28,7 @@ def findHistoricalCandidate(root, surname):
 	if(len(results) == 0) :
 		return {}
 
-	return results[0]
+	return json.dumps(results[0], ensure_ascii=False)
 
 
 if __name__ == "__main__":
