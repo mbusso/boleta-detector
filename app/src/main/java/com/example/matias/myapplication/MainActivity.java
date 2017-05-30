@@ -9,6 +9,8 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 import org.opencv.android.BaseLoaderCallback;
 import org.opencv.android.CameraBridgeViewBase;
@@ -81,6 +83,28 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
 
         mOpenCvCameraView = (CameraBridgeViewBase) findViewById(R.id.fd_activity_surface_view);
         mOpenCvCameraView.setCvCameraViewListener(this);
+
+        candidateListView();
+    }
+
+    private void candidateListView() {
+        ListView listView = (ListView) findViewById(R.id.candidateList);
+
+        // Defined Array values to show in ListView
+        String[] values = new String[] { "Android List View",
+                "Adapter implementation",
+                "Simple List View In Android",
+                "Create List View Android",
+                "Android Example",
+                "List View Source Code",
+                "List View Array Adapter",
+                "Android Example List View"
+        };
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+                android.R.layout.simple_list_item_1, android.R.id.text1, values);
+
+        listView.setAdapter(adapter);
     }
 
     @Override
