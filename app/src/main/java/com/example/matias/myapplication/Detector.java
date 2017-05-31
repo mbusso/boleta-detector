@@ -66,7 +66,7 @@ public class Detector {
         return null;
     }
 
-    public static void detect(String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize, Bitmap bMap) {
+    public static void detect(MainActivity mainActivity, String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize, Bitmap bMap) {
         MatOfRect faces1 = new MatOfRect();
         MatOfRect faces2 = new MatOfRect();
 
@@ -79,14 +79,15 @@ public class Detector {
                 classifiers.get(1).detectMultiScale(mGray, faces2, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
             }
 
-        bla(faces1, "zamora", new Point(100,100), mRgba, bMap);
-        bla(faces2, "lilita", new Point(50, 50),mRgba, bMap);
+        bla(mainActivity,faces1, "zamora", new Point(100,100), mRgba, bMap);
+        bla(mainActivity, faces2, "lilita", new Point(50, 50),mRgba, bMap);
     }
 
-    private static void bla(MatOfRect faces, String label, Point point, Mat mRgba, Bitmap bMap) {
+    private static void bla(MainActivity mainActivity, MatOfRect faces, String label, Point point, Mat mRgba, Bitmap bMap) {
         final Scalar FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
         Rect[] facesArray = faces.toArray();
         if(facesArray.length >0) {
+            mainActivity.displayList();
             resultsAux = facesArray.clone();
             drawResults(facesArray, label, point, mRgba, bMap, FACE_RECT_COLOR);
             count = 0;
@@ -98,6 +99,7 @@ public class Detector {
             } else {
                 resultsAux = new Rect[]{};
                 count = 0;
+                mainActivity.hideList();
             }
         }
     }
