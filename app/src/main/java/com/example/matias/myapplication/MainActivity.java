@@ -104,7 +104,9 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, android.R.id.text1, values);
 
+        listView.setVisibility(View.GONE);
         listView.setAdapter(adapter);
+
     }
 
     @Override
@@ -165,7 +167,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
             CreateAuxiliaryMats();
 
         Bitmap bMap= BitmapFactory.decodeResource(getResources(),R.drawable.minionsmall);
-        Detector.detect(TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize, bMap);
+        Detector.detect(this, TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize, bMap);
 
         return mRgba;
     }
@@ -190,5 +192,27 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
     public boolean onTouch(View v, MotionEvent event) {
         Detector.deliverTouchEvent(mRgba, event.getX(), event.getY());
         return false;
+    }
+
+    public void displayList() {
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                ListView listView = (ListView) findViewById(R.id.candidateList);
+                listView.setVisibility(View.VISIBLE);
+            }
+        });
+
+    }
+
+    public void hideList() {
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                ListView listView = (ListView) findViewById(R.id.candidateList);
+                listView.setVisibility(View.GONE);
+            }
+        });
+
     }
 }
