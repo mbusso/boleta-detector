@@ -2,14 +2,10 @@ package com.example.matias.myapplication;
 
 import android.app.Activity;
 import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import org.opencv.android.BaseLoaderCallback;
@@ -24,7 +20,7 @@ import org.opencv.objdetect.CascadeClassifier;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends Activity implements CvCameraViewListener2, View.OnTouchListener {
+public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private static final String    TAG                 = "OCVSample::Activity";
 
@@ -55,7 +51,6 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
                     mOpenCvCameraView.enableFpsMeter();
                     mOpenCvCameraView.setCameraIndex(0);
                     mOpenCvCameraView.enableView();
-                    mOpenCvCameraView.setOnTouchListener(MainActivity.this);
                 } break;
                 default:
                 {
@@ -164,8 +159,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
         if (mZoomWindow == null || mZoomWindow2 == null)
             CreateAuxiliaryMats();
 
-        Bitmap bMap= BitmapFactory.decodeResource(getResources(),R.drawable.minionsmall);
-        Detector.detect(this, TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize, bMap);
+        Detector.detect(this, TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize);
 
         return mRgba;
     }
@@ -184,12 +178,6 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
                     + cols / 10, cols);
         }
 
-    }
-
-    @Override
-    public boolean onTouch(View v, MotionEvent event) {
-        Detector.deliverTouchEvent(mRgba, event.getX(), event.getY());
-        return false;
     }
 
     public void displayList() {

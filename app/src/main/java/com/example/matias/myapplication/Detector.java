@@ -66,7 +66,7 @@ public class Detector {
         return null;
     }
 
-    public static void detect(MainActivity mainActivity, String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize, Bitmap bMap) {
+    public static void detect(MainActivity mainActivity, String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize) {
         MatOfRect faces1 = new MatOfRect();
         MatOfRect faces2 = new MatOfRect();
 
@@ -79,22 +79,20 @@ public class Detector {
                 classifiers.get(1).detectMultiScale(mGray, faces2, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
             }
 
-        bla(mainActivity,faces1, "zamora", new Point(100,100), mRgba, bMap);
-        bla(mainActivity, faces2, "lilita", new Point(50, 50),mRgba, bMap);
+        bla(mainActivity,faces1, "zamora", new Point(100,100), mRgba);
+        bla(mainActivity, faces2, "lilita", new Point(50, 50), mRgba);
     }
 
-    private static void bla(MainActivity mainActivity, MatOfRect faces, String label, Point point, Mat mRgba, Bitmap bMap) {
+    private static void bla(MainActivity mainActivity, MatOfRect faces, String label, Point point, Mat mRgba) {
         final Scalar FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
         Rect[] facesArray = faces.toArray();
         if(facesArray.length >0) {
             mainActivity.displayList();
             resultsAux = facesArray.clone();
-            drawResults(facesArray, label, point, mRgba, bMap, FACE_RECT_COLOR);
             count = 0;
         }
         else {
             if (count <= 30 ) {
-                drawResults(resultsAux, label, point, mRgba, bMap, FACE_RECT_COLOR);
                 count ++;
             } else {
                 resultsAux = new Rect[]{};
@@ -104,21 +102,4 @@ public class Detector {
         }
     }
 
-    private static void drawResults(Rect[] results, String label, Point point, Mat mRgba, Bitmap bMap, Scalar FACE_RECT_COLOR) {
-        for (int i = 0; i < results.length; i++) {
-            //Imgproc.rectangle(mRgba, rect.tl(), rect.br(), FACE_RECT_COLOR, 3);
-            //Imgproc.putText(mRgba, label, point, Core.FONT_ITALIC, 1.0, FACE_RECT_COLOR);
-            //displayImage(mRgba, bMap);
-        }
-    }
-
-    private static void displayImage(Mat mRgba, Bitmap bMap) {
-        Mat bitmapMat = new Mat();
-        Utils.bitmapToMat(bMap, bitmapMat);
-        bitmapMat.copyTo(mRgba.submat(0, bMap.getHeight(), 0, bMap.getWidth()));
-    }
-
-    public static void deliverTouchEvent(Mat mRgba, float x, float y) {
-        Imgproc.putText(mRgba, "Touched", new Point(130, 130), Core.FONT_ITALIC, 1.0, new Scalar(0, 255, 0, 255));
-    }
 }
