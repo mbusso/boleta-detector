@@ -91,21 +91,19 @@ public class MainActivity extends Activity implements CvCameraViewListener2, Vie
         ListView listView = (ListView) findViewById(R.id.candidateList);
 
         // Defined Array values to show in ListView
-        String[] values = new String[] { "Android List View",
-                "Adapter implementation",
-                "Simple List View In Android",
-                "Create List View Android",
-                "Android Example",
-                "List View Source Code",
-                "List View Array Adapter",
-                "Android Example List View"
+        String[] values = new String[] { "Pepe1",
+                "Pepe2",
+                "Pepe3",
+                "Pepe4",
+                "Pepe5",
+                "Pepe6",
+                "Pepe7",
+                "Pepe8"
         };
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, android.R.id.text1, values);
+        listView.setAdapter(new CustomAdapter(this, values));
 
         listView.setVisibility(View.GONE);
-        listView.setAdapter(adapter);
 
     }
 

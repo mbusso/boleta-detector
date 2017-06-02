@@ -107,8 +107,8 @@ public class Detector {
     private static void drawResults(Rect[] results, String label, Point point, Mat mRgba, Bitmap bMap, Scalar FACE_RECT_COLOR) {
         for (int i = 0; i < results.length; i++) {
             //Imgproc.rectangle(mRgba, rect.tl(), rect.br(), FACE_RECT_COLOR, 3);
-            Imgproc.putText(mRgba, label, point, Core.FONT_ITALIC, 1.0, FACE_RECT_COLOR);
-            displayImage(mRgba, bMap);
+            //Imgproc.putText(mRgba, label, point, Core.FONT_ITALIC, 1.0, FACE_RECT_COLOR);
+            //displayImage(mRgba, bMap);
         }
     }
 
