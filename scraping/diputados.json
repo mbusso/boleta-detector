@@ -1,1800 +1,2057 @@
 [{
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/nabdaladem.jpg",
+	"apellido": "Abdala De Matarazzo",
 	"partido": "FRENTE CIVICO POR SANTIAGO",
 	"distrito": "Santiago Del Estero",
 	"finMandato": "09/12/2017",
-	"nombre": "Abdala De Matarazzo, Norma Amanda",
+	"nombre": "Norma Amanda",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aabraham.jpg",
+	"apellido": "Abraham",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2017",
-	"nombre": "Abraham, Alejandro",
+	"nombre": "Alejandro",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/sacerenza.jpg",
+	"apellido": "Acerenza",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Acerenza, Samanta Maria Celeste",
+	"nombre": "Samanta Maria Celeste",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/galbornoz.jpg",
+	"apellido": "Albornoz",
 	"partido": "UCR",
 	"distrito": "Jujuy",
 	"finMandato": "09/12/2017",
-	"nombre": "Albornoz, Gabriela Romina",
+	"nombre": "Gabriela Romina",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/galegre.jpg",
+	"apellido": "Alegre",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Alegre, Gilberto Oscar",
+	"nombre": "Gilberto Oscar",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ralfonsin.jpg",
+	"apellido": "Alfonsin",
 	"partido": "UCR",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Alfonsin, Ricardo Luis",
+	"nombre": "Ricardo Luis",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/halonso.jpg",
+	"apellido": "Alonso",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Alonso, Horacio Fernando",
+	"nombre": "Horacio Fernando",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/malvarezr.jpg",
+	"apellido": "Alvarez Rodriguez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Alvarez Rodriguez, Maria Cristina",
+	"nombre": "Maria Cristina",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/eamadeo.jpg",
+	"apellido": "Amadeo",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Amadeo, Eduardo Pablo",
+	"nombre": "Eduardo Pablo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/barenas.jpg",
+	"apellido": "Arenas",
 	"partido": "COMPROMISO FEDERAL",
 	"distrito": "San Luis",
 	"finMandato": "09/12/2017",
-	"nombre": "Arenas, Berta Hortensia",
+	"nombre": "Berta Hortensia",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aargumedo.jpg",
+	"apellido": "Argumedo",
 	"partido": "PROYECTO SUR - UNEN",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Argumedo, Alcira Susana",
+	"nombre": "Alcira Susana",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/garrieta.jpg",
+	"apellido": "Arrieta",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Arrieta, Gustavo Hector",
+	"nombre": "Gustavo Hector",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/baustin.jpg",
+	"apellido": "Austin",
 	"partido": "UCR",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Austin, Brenda Lis",
+	"nombre": "Brenda Lis",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ebalbo.jpg",
+	"apellido": "Balbo",
 	"partido": "UNION PRO",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2019",
-	"nombre": "Balbo, Elva Susana",
+	"nombre": "Elva Susana",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hbaldassi.jpg",
+	"apellido": "Baldassi",
 	"partido": "UNION PRO",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Baldassi, Hector",
+	"nombre": "Hector",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/kbanfi.jpg",
+	"apellido": "Banfi",
 	"partido": "UCR",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Banfi, Karina",
+	"nombre": "Karina",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lbardeggia.jpg",
+	"apellido": "Bardeggia",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Rio Negro",
 	"finMandato": "09/12/2017",
-	"nombre": "Bardeggia, Luis Maria",
+	"nombre": "Luis Maria",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mbarletta.jpg",
+	"apellido": "Barletta",
 	"partido": "UCR",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Barletta, Mario Domingo",
+	"nombre": "Mario Domingo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jbarreto.jpg",
+	"apellido": "Barreto",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2017",
-	"nombre": "Barreto, Jorge Ruben",
+	"nombre": "Jorge Ruben",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lbasterra.jpg",
+	"apellido": "Basterra",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Formosa",
 	"finMandato": "09/12/2019",
-	"nombre": "Basterra, Luis Eugenio",
+	"nombre": "Luis Eugenio",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mbazze.jpg",
+	"apellido": "Bazze",
 	"partido": "UCR",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Bazze, Miguel Angel",
+	"nombre": "Miguel Angel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/sbermejo.jpg",
+	"apellido": "Bermejo",
 	"partido": "TRABAJO Y DIGNIDAD",
 	"distrito": "Chubut",
 	"finMandato": "09/12/2017",
-	"nombre": "Bermejo, Sixto Osvaldo",
+	"nombre": "Sixto Osvaldo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/rbernabey.jpg",
+	"apellido": "Bernabey",
 	"partido": "BRIGADIER GENERAL JUAN BAUTISTA BUSTOS",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Bernabey, Ramon Ernesto",
+	"nombre": "Ramon Ernesto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/abesada.jpg",
+	"apellido": "Besada",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Besada, Alicia Irma",
+	"nombre": "Alicia Irma",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gbevilacqua.jpg",
+	"apellido": "Bevilacqua",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Bevilacqua, Gustavo",
+	"nombre": "Gustavo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ibianchi.jpg",
+	"apellido": "Bianchi",
 	"partido": "COMPROMISO FEDERAL",
 	"distrito": "San Luis",
 	"finMandato": "09/12/2019",
-	"nombre": "Bianchi, Ivana Maria",
+	"nombre": "Ivana Maria",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hbinner.jpg",
+	"apellido": "Binner",
 	"partido": "PARTIDO SOCIALISTA",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Binner, Hermes Juan",
+	"nombre": "Hermes Juan",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lborsani.jpg",
+	"apellido": "Borsani",
 	"partido": "UCR",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2019",
-	"nombre": "Borsani, Luis Gustavo",
+	"nombre": "Luis Gustavo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dbossio.jpg",
+	"apellido": "Bossio",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Bossio, Diego Luis",
+	"nombre": "Diego Luis",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mbrezzo.jpg",
+	"apellido": "Brezzo",
 	"partido": "UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Brezzo, Maria Eugenia",
+	"nombre": "Maria Eugenia",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mbritez.jpg",
+	"apellido": "Britez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Misiones",
 	"finMandato": "09/12/2019",
-	"nombre": "Britez, Maria Cristina",
+	"nombre": "Maria Cristina",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ebrizueladelmoral.jpg",
+	"apellido": "Brizuela Del Moral",
 	"partido": "FRENTE CIVICO Y SOCIAL DE CATAMARCA",
 	"distrito": "Catamarca",
 	"finMandato": "09/12/2017",
-	"nombre": "Brizuela Del Moral, Eduardo Segundo",
+	"nombre": "Eduardo Segundo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jbrugge.jpg",
+	"apellido": "BrÃ¼gge",
 	"partido": "UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "BrÃ¼gge, Juan Fernando",
+	"nombre": "Juan Fernando",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/sbuil.jpg",
+	"apellido": "Buil",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Buil, Sergio Omar",
+	"nombre": "Sergio Omar",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mburgos.jpg",
+	"apellido": "Burgos",
 	"partido": "UCR",
 	"distrito": "Jujuy",
 	"finMandato": "09/12/2017",
-	"nombre": "Burgos, Maria Gabriela",
+	"nombre": "Maria Gabriela",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jcabandie.jpg",
+	"apellido": "Cabandie",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Cabandie, Juan",
+	"nombre": "Juan",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ecaceres.jpg",
+	"apellido": "Caceres",
 	"partido": "UNION PRO",
 	"distrito": "San Juan",
 	"finMandato": "09/12/2017",
-	"nombre": "Caceres, Eduardo Augusto",
+	"nombre": "Eduardo Augusto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/acalleri.jpg",
+	"apellido": "Calleri",
 	"partido": "UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Calleri, Agustin Santiago",
+	"nombre": "Agustin Santiago",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gcamano.jpg",
+	"apellido": "CamaÃ±o",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "CamaÃ±o, Graciela",
+	"nombre": "Graciela",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/rcarlotto.jpg",
+	"apellido": "Carlotto",
 	"partido": "PERONISMO PARA LA VICTORIA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Carlotto, Remo Gerardo",
+	"nombre": "Remo Gerardo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gcarmona.jpg",
+	"apellido": "Carmona",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2019",
-	"nombre": "Carmona, Guillermo Ramon",
+	"nombre": "Guillermo Ramon",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/acarol.jpg",
+	"apellido": "Carol",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Tierra Del Fuego",
 	"finMandato": "09/12/2019",
-	"nombre": "Carol, Analuz Ailen",
+	"nombre": "Analuz Ailen",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ecarrio.jpg",
+	"apellido": "Carrio",
 	"partido": "COALICION CIVICA",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Carrio, Elisa Maria Avelina",
+	"nombre": "Elisa Maria Avelina",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ccarrizo.jpg",
+	"apellido": "Carrizo",
 	"partido": "UCR",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Carrizo, Ana Carla",
+	"nombre": "Ana Carla",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mscarrizo.jpg",
+	"apellido": "Carrizo",
 	"partido": "UCR",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Carrizo, Maria Soledad",
+	"nombre": "Maria Soledad",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ncarrizo.jpg",
+	"apellido": "Carrizo",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2017",
-	"nombre": "Carrizo, Nilda Mabel",
+	"nombre": "Nilda Mabel",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jcasanas.jpg",
+	"apellido": "CasaÃ±as",
 	"partido": "DEL BICENTENARIO",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2017",
-	"nombre": "CasaÃ±as, Juan Francisco",
+	"nombre": "Juan Francisco",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gcaselles.jpg",
+	"apellido": "Caselles",
 	"partido": "PARTIDO BLOQUISTA DE SAN JUAN",
 	"distrito": "San Juan",
 	"finMandato": "09/12/2019",
-	"nombre": "Caselles, Graciela Maria",
+	"nombre": "Graciela Maria",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ccastagneto.jpg",
+	"apellido": "Castagneto",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Castagneto, Carlos Daniel",
+	"nombre": "Carlos Daniel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/scastro.jpg",
+	"apellido": "Castro",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "San Juan",
 	"finMandato": "09/12/2017",
-	"nombre": "Castro, Sandra Daniela",
+	"nombre": "Sandra Daniela",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/fcaviglia.jpg",
+	"apellido": "Caviglia",
 	"partido": "JUNTOS POR ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Caviglia, Franco Agustin",
+	"nombre": "Franco Agustin",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aciampini.jpg",
+	"apellido": "Ciampini",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Neuquen",
 	"finMandato": "09/12/2019",
-	"nombre": "Ciampini, Jose Alberto",
+	"nombre": "Jose Alberto",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aciciliani.jpg",
+	"apellido": "Ciciliani",
 	"partido": "PARTIDO SOCIALISTA",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Ciciliani, Alicia Mabel",
+	"nombre": "Alicia Mabel",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lcigogna.jpg",
+	"apellido": "Cigogna",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Cigogna, Luis Francisco Jorge",
+	"nombre": "Luis Francisco Jorge",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mcleri.jpg",
+	"apellido": "Cleri",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Cleri, Marcos",
+	"nombre": "Marcos",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mcloss.jpg",
+	"apellido": "Closs",
 	"partido": "FRENTE DE LA CONCORDIA MISIONERO",
 	"distrito": "Misiones",
 	"finMandato": "09/12/2019",
-	"nombre": "Closs, Maurice Fabian",
+	"nombre": "Maurice Fabian",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/econesa.jpg",
+	"apellido": "Conesa",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Conesa, Eduardo Raul",
+	"nombre": "Eduardo Raul",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dconti.jpg",
+	"apellido": "Conti",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Conti, Diana Beatriz",
+	"nombre": "Diana Beatriz",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/acopes.jpg",
+	"apellido": "Copes",
 	"partido": "DEMOCRATA PROGRESISTA",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Copes, Ana Isabel",
+	"nombre": "Ana Isabel",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ecosta.jpg",
+	"apellido": "Costa",
 	"partido": "UCR",
 	"distrito": "Santa Cruz",
 	"finMandato": "09/12/2017",
-	"nombre": "Costa, Eduardo Raul",
+	"nombre": "Eduardo Raul",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/vcouly.jpg",
+	"apellido": "Couly",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Couly, Veronica Carolina",
+	"nombre": "Veronica Carolina",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gcousinet.jpg",
+	"apellido": "Cousinet",
 	"partido": "LIBRES DEL SUR",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2017",
-	"nombre": "Cousinet, Graciela",
+	"nombre": "Graciela",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mcremer.jpg",
+	"apellido": "Cremer De Busti",
 	"partido": "UNION POR ENTRE RIOS",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2017",
-	"nombre": "Cremer De Busti, Maria Cristina",
+	"nombre": "Maria Cristina",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hdaer.jpg",
+	"apellido": "Daer",
 	"partido": "BLOQUE DE LOS TRABAJADORES",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Daer, Hector Ricardo",
+	"nombre": "Hector Ricardo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jdagostino.jpg",
+	"apellido": "D'agostino",
 	"partido": "UCR",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2017",
-	"nombre": "D'agostino, Jorge Marcelo",
+	"nombre": "Jorge Marcelo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jdavid.jpg",
+	"apellido": "David",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Salta",
 	"finMandato": "09/12/2019",
-	"nombre": "David, Nestor Javier",
+	"nombre": "Nestor Javier",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jdemendiguren.jpg",
+	"apellido": "De Mendiguren",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "De Mendiguren, Jose Ignacio",
+	"nombre": "Jose Ignacio",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/edepedro.jpg",
+	"apellido": "De Pedro",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "De Pedro, Eduardo Enrique",
+	"nombre": "Eduardo Enrique",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ldeponti.jpg",
+	"apellido": "De Ponti",
 	"partido": "PERONISMO PARA LA VICTORIA",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "De Ponti, Lucila Maria",
+	"nombre": "Lucila Maria",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jdevido.jpg",
+	"apellido": "De Vido",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "De Vido, Julio",
+	"nombre": "Julio",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/edepetri.jpg",
+	"apellido": "Depetri",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Depetri, Edgardo Fernando",
+	"nombre": "Edgardo Fernando",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ddistefano.jpg",
+	"apellido": "Di Stefano",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Misiones",
 	"finMandato": "09/12/2019",
-	"nombre": "Di Stefano, Daniel",
+	"nombre": "Daniel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jditullio.jpg",
+	"apellido": "Di Tullio",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Di Tullio, Juliana",
+	"nombre": "Juliana",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jdiazr.jpg",
+	"apellido": "Diaz Roig",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Formosa",
 	"finMandato": "09/12/2017",
-	"nombre": "Diaz Roig, Juan Carlos",
+	"nombre": "Juan Carlos",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jdindart.jpg",
+	"apellido": "Dindart",
 	"partido": "UCR",
 	"distrito": "Corrientes",
 	"finMandato": "09/12/2019",
-	"nombre": "Dindart, Julian",
+	"nombre": "Julian",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/cdonate.jpg",
+	"apellido": "DoÃ±ate",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Rio Negro",
 	"finMandato": "09/12/2019",
-	"nombre": "DoÃ±ate, Claudio Martin",
+	"nombre": "Claudio Martin",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/vdondap.jpg",
+	"apellido": "Donda Perez",
 	"partido": "LIBRES DEL SUR",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Donda Perez, Victoria Analia",
+	"nombre": "Victoria Analia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gdurandc.jpg",
+	"apellido": "Durand Cornejo",
 	"partido": "UNION PRO",
 	"distrito": "Salta",
 	"finMandato": "09/12/2017",
-	"nombre": "Durand Cornejo, Guillermo Mario",
+	"nombre": "Guillermo Mario",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ldure.jpg",
+	"apellido": "Dure",
 	"partido": "PARTIDO SOCIALISTA",
 	"distrito": "Formosa",
 	"finMandato": "09/12/2017",
-	"nombre": "Dure, Lucila Beatriz",
+	"nombre": "Lucila Beatriz",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aechegaray.jpg",
+	"apellido": "Echegaray",
 	"partido": "UCR",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Echegaray, Alejandro Carlos Augusto",
+	"nombre": "Alejandro Carlos Augusto",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mehcosor.jpg",
+	"apellido": "Ehcosor",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Ehcosor, Maria Azucena",
+	"nombre": "Maria Azucena",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gestevez.jpg",
+	"apellido": "Estevez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Estevez, Gabriela Beatriz",
+	"nombre": "Gabriela Beatriz",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/efabiani.jpg",
+	"apellido": "Fabiani",
 	"partido": "JUNTOS POR ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Fabiani, Eduardo Alberto",
+	"nombre": "Eduardo Alberto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gfernandezm.jpg",
+	"apellido": "Fernandez Mendia",
 	"partido": "JUSTICIALISTA",
 	"distrito": "La Pampa",
 	"finMandato": "09/12/2017",
-	"nombre": "Fernandez Mendia, Gustavo Rodolfo",
+	"nombre": "Gustavo Rodolfo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aferreyra.jpg",
+	"apellido": "Ferreyra",
 	"partido": "PERONISMO PARA LA VICTORIA",
 	"distrito": "Corrientes",
 	"finMandato": "09/12/2019",
-	"nombre": "Ferreyra, Araceli",
+	"nombre": "Araceli",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/sfrana.jpg",
+	"apellido": "Frana",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Frana, Silvina Patricia",
+	"nombre": "Silvina Patricia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jfranco.jpg",
+	"apellido": "Franco",
 	"partido": "FRENTE DE LA CONCORDIA MISIONERO",
 	"distrito": "Misiones",
 	"finMandato": "09/12/2019",
-	"nombre": "Franco, Jorge Daniel",
+	"nombre": "Jorge Daniel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ffurlan.jpg",
+	"apellido": "Furlan",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Furlan, Francisco Abel",
+	"nombre": "Francisco Abel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/agaillard.jpg",
+	"apellido": "Gaillard",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2017",
-	"nombre": "Gaillard, Ana Carolina",
+	"nombre": "Ana Carolina",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mgallardo.jpg",
+	"apellido": "Gallardo",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2017",
-	"nombre": "Gallardo, Miriam Graciela",
+	"nombre": "Miriam Graciela",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mgarcia.jpg",
+	"apellido": "Garcia",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Garcia, Maria Teresa",
+	"nombre": "Maria Teresa",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ngarre.jpg",
+	"apellido": "Garre",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Garre, Nilda Celia",
+	"nombre": "Nilda Celia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/fgarreton.jpg",
+	"apellido": "Garreton",
 	"partido": "UNION PRO",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2019",
-	"nombre": "Garreton, Facundo",
+	"nombre": "Facundo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ygayol.jpg",
+	"apellido": "Gayol",
 	"partido": "UNION PRO",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2019",
-	"nombre": "Gayol, Yanina Celeste",
+	"nombre": "Yanina Celeste",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lgervasoni.jpg",
+	"apellido": "Gervasoni",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2017",
-	"nombre": "Gervasoni, Lautaro",
+	"nombre": "Lautaro",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/pgimenez.jpg",
+	"apellido": "Gimenez",
 	"partido": "UCR",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2017",
-	"nombre": "Gimenez, Patricia Viviana",
+	"nombre": "Patricia Viviana",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jgioja.jpg",
+	"apellido": "Gioja",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "San Juan",
 	"finMandato": "09/12/2019",
-	"nombre": "Gioja, Jose Luis",
+	"nombre": "Jose Luis",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jgiordano.jpg",
+	"apellido": "Giordano",
 	"partido": "IZQUIERDA SOCIALISTA - FRENTE DE IZQUIERDA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Giordano, Juan Carlos",
+	"nombre": "Juan Carlos",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dgiustozzi.jpg",
+	"apellido": "Giustozzi",
 	"partido": "JUNTOS POR ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Giustozzi, Ruben Dario",
+	"nombre": "Ruben Dario",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hgoicoechea.jpg",
+	"apellido": "Goicoechea",
 	"partido": "UCR",
 	"distrito": "Chaco",
 	"finMandato": "09/12/2019",
-	"nombre": "Goicoechea, Horacio",
+	"nombre": "Horacio",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mgomezb.jpg",
+	"apellido": "Gomez Bull",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Santa Cruz",
 	"finMandato": "09/12/2017",
-	"nombre": "Gomez Bull, Mauricio Ricardo",
+	"nombre": "Mauricio Ricardo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/agonzalez.jpg",
+	"apellido": "Gonzalez",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Gonzalez, Alvaro Gustavo",
+	"nombre": "Alvaro Gustavo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jvgonzalez.jpg",
+	"apellido": "Gonzalez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Gonzalez, Josefina Victoria",
+	"nombre": "Josefina Victoria",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/agrana.jpg",
+	"apellido": "Grana",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Grana, Adrian Eduardo",
+	"nombre": "Adrian Eduardo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dgranados.jpg",
+	"apellido": "Granados",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Granados, Dulce",
+	"nombre": "Dulce",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/agrandinetti.jpg",
+	"apellido": "Grandinetti",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Grandinetti, Alejandro Ariel",
+	"nombre": "Alejandro Ariel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lgrosso.jpg",
+	"apellido": "Grosso",
 	"partido": "PERONISMO PARA LA VICTORIA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Grosso, Leonardo",
+	"nombre": "Leonardo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mguerin.jpg",
+	"apellido": "Guerin",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Guerin, Maria Isabel",
+	"nombre": "Maria Isabel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hgutierrez.jpg",
+	"apellido": "Gutierrez",
 	"partido": "UCR",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Gutierrez, Hector Maria",
+	"nombre": "Hector Maria",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aguzman.jpg",
+	"apellido": "Guzman",
 	"partido": "PERONISMO PARA LA VICTORIA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Guzman, Andres Ernesto",
+	"nombre": "Andres Ernesto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/sguzman.jpg",
+	"apellido": "Guzman",
 	"partido": "FRENTE NORTE",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Guzman, Sandro Adrian",
+	"nombre": "Sandro Adrian",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/cheller.jpg",
+	"apellido": "Heller",
 	"partido": "SOLIDARIO SI",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Heller, Carlos Salomon",
+	"nombre": "Carlos Salomon",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mhernandez.jpg",
+	"apellido": "Hernandez",
 	"partido": "UCR",
 	"distrito": "Formosa",
 	"finMandato": "09/12/2019",
-	"nombre": "Hernandez, Martin Osvaldo",
+	"nombre": "Martin Osvaldo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jherrera.jpg",
+	"apellido": "Herrera",
 	"partido": "FRENTE CIVICO POR SANTIAGO",
 	"distrito": "Santiago Del Estero",
 	"finMandato": "09/12/2019",
-	"nombre": "Herrera, Jose Alberto",
+	"nombre": "Jose Alberto",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lherrera.jpg",
+	"apellido": "Herrera",
 	"partido": "JUSTICIALISTA",
 	"distrito": "La Rioja",
 	"finMandato": "09/12/2019",
-	"nombre": "Herrera, Luis Beder",
+	"nombre": "Luis Beder",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ahers.jpg",
+	"apellido": "Hers Cabral",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Hers Cabral, Anabella Ruth",
+	"nombre": "Anabella Ruth",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/shorne.jpg",
+	"apellido": "Horne",
 	"partido": "PERONISMO PARA LA VICTORIA",
 	"distrito": "Rio Negro",
 	"finMandato": "09/12/2019",
-	"nombre": "Horne, Silvia Renee",
+	"nombre": "Silvia Renee",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/shuczak.jpg",
+	"apellido": "Huczak",
 	"partido": "UNION PRO",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2019",
-	"nombre": "Huczak, Stella Maris",
+	"nombre": "Stella Maris",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jhuss.jpg",
+	"apellido": "Huss",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2019",
-	"nombre": "Huss, Juan Manuel",
+	"nombre": "Juan Manuel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/sigon.jpg",
+	"apellido": "Igon",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Chubut",
 	"finMandato": "09/12/2019",
-	"nombre": "Igon, Santiago Nicolas",
+	"nombre": "Santiago Nicolas",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lincicco.jpg",
+	"apellido": "Incicco",
 	"partido": "UNION PRO",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Incicco, Lucas Ciriaco",
+	"nombre": "Lucas Ciriaco",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/eisa.jpg",
+	"apellido": "Isa",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Salta",
 	"finMandato": "09/12/2017",
-	"nombre": "Isa, Evita Nelida",
+	"nombre": "Evita Nelida",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mhjuarez.jpg",
+	"apellido": "Juarez",
 	"partido": "FRENTE CIVICO POR SANTIAGO",
 	"distrito": "Santiago Del Estero",
 	"finMandato": "09/12/2017",
-	"nombre": "Juarez, Manuel Humberto",
+	"nombre": "Manuel Humberto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mjuarez.jpg",
+	"apellido": "Juarez",
 	"partido": "FRENTE CIVICO Y SOCIAL DE CATAMARCA",
 	"distrito": "Catamarca",
 	"finMandato": "09/12/2017",
-	"nombre": "Juarez, Myrian Del Valle",
+	"nombre": "Myrian Del Valle",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/akicillof.jpg",
+	"apellido": "Kicillof",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Kicillof, Axel",
+	"nombre": "Axel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mkirchner.jpg",
+	"apellido": "Kirchner",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Santa Cruz",
 	"finMandato": "09/12/2019",
-	"nombre": "Kirchner, Maximo Carlos",
+	"nombre": "Maximo Carlos",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/pkosiner.jpg",
+	"apellido": "Kosiner",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Salta",
 	"finMandato": "09/12/2019",
-	"nombre": "Kosiner, Pablo Francisco Juan",
+	"nombre": "Pablo Francisco Juan",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dkroneberger.jpg",
+	"apellido": "Kroneberger",
 	"partido": "UCR",
 	"distrito": "La Pampa",
 	"finMandato": "09/12/2019",
-	"nombre": "Kroneberger, Daniel Ricardo",
+	"nombre": "Daniel Ricardo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ckunkel.jpg",
+	"apellido": "Kunkel",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Kunkel, Carlos Miguel",
+	"nombre": "Carlos Miguel",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/elagoria.jpg",
+	"apellido": "Lagoria",
 	"partido": "TRABAJO Y DIGNIDAD",
 	"distrito": "Chubut",
 	"finMandato": "09/12/2017",
-	"nombre": "Lagoria, Elia Nelly",
+	"nombre": "Elia Nelly",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/alarroque.jpg",
+	"apellido": "Larroque",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Larroque, Andres",
+	"nombre": "Andres",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/llaspina.jpg",
+	"apellido": "Laspina",
 	"partido": "UNION PRO",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Laspina, Luciano Andres",
+	"nombre": "Luciano Andres",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mlavagna.jpg",
+	"apellido": "Lavagna",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Lavagna, Marco",
+	"nombre": "Marco",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dlipovetzky.jpg",
+	"apellido": "Lipovetzky",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Lipovetzky, Daniel Andres",
+	"nombre": "Daniel Andres",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mlitza.jpg",
+	"apellido": "Litza",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Litza, Monica Edith",
+	"nombre": "Monica Edith",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/allanosm.jpg",
+	"apellido": "Llanos",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Chubut",
 	"finMandato": "09/12/2019",
-	"nombre": "Llanos, Ana",
+	"nombre": "Ana",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mlopardo.jpg",
+	"apellido": "Lopardo",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Lopardo, Maria Paula",
+	"nombre": "Maria Paula",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/llopezk.jpg",
+	"apellido": "Lopez Koenig",
 	"partido": "UNION PRO",
 	"distrito": "Neuquen",
 	"finMandato": "09/12/2019",
-	"nombre": "Lopez Koenig, Leandro Gaston",
+	"nombre": "Leandro Gaston",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/plopez.jpg",
+	"apellido": "Lopez",
 	"partido": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
 	"distrito": "Salta",
 	"finMandato": "09/12/2017",
-	"nombre": "Lopez, Pablo Sebastian",
+	"nombre": "Pablo Sebastian",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/slospennato.jpg",
+	"apellido": "Lospennato",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Lospennato, Silvia Gabriela",
+	"nombre": "Silvia Gabriela",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ilotto.jpg",
+	"apellido": "Lotto",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Formosa",
 	"finMandato": "09/12/2019",
-	"nombre": "Lotto, Ines Beatriz",
+	"nombre": "Ines Beatriz",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/llusquinos.jpg",
+	"apellido": "LusquiÃ±os",
 	"partido": "COMPROMISO FEDERAL",
 	"distrito": "San Luis",
 	"finMandato": "09/12/2017",
-	"nombre": "LusquiÃ±os, Luis Bernardo",
+	"nombre": "Luis Bernardo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/omacias.jpg",
+	"apellido": "Macias",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Corrientes",
 	"finMandato": "09/12/2019",
-	"nombre": "Macias, Oscar Alberto",
+	"nombre": "Oscar Alberto",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/tmadera.jpg",
+	"apellido": "Madera",
 	"partido": "JUSTICIALISTA",
 	"distrito": "La Rioja",
 	"finMandato": "09/12/2017",
-	"nombre": "Madera, Teresita",
+	"nombre": "Teresita",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mmaquieyra.jpg",
+	"apellido": "Maquieyra",
 	"partido": "UNION PRO",
 	"distrito": "La Pampa",
 	"finMandato": "09/12/2017",
-	"nombre": "Maquieyra, Martin",
+	"nombre": "Martin",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hmarcucci.jpg",
+	"apellido": "Marcucci",
 	"partido": "UCR",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Marcucci, Hugo Maria",
+	"nombre": "Hugo Maria",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gmartinezc.jpg",
+	"apellido": "Martinez Campos",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Chaco",
 	"finMandato": "09/12/2017",
-	"nombre": "Martinez Campos, Gustavo Jose",
+	"nombre": "Gustavo Jose",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lmartinez.jpg",
+	"apellido": "Martinez Villada",
 	"partido": "COALICION CIVICA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Martinez Villada, Leonor Maria",
+	"nombre": "Leonor Maria",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/amartinez.jpg",
+	"apellido": "Martinez",
 	"partido": "UNION PRO",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Martinez, Ana Laura",
+	"nombre": "Ana Laura",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dmartinez.jpg",
+	"apellido": "Martinez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Neuquen",
 	"finMandato": "09/12/2017",
-	"nombre": "Martinez, Norman Dario",
+	"nombre": "Norman Dario",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/oamartinez.jpg",
+	"apellido": "Martinez",
 	"partido": "MOVIMIENTO SOLIDARIO POPULAR",
 	"distrito": "Tierra Del Fuego",
 	"finMandato": "09/12/2017",
-	"nombre": "Martinez, Oscar Anselmo",
+	"nombre": "Oscar Anselmo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/samartinez.jpg",
+	"apellido": "Martinez",
 	"partido": "UCR",
 	"distrito": "Jujuy",
 	"finMandato": "09/12/2019",
-	"nombre": "Martinez, Silvia Alejandra",
+	"nombre": "Silvia Alejandra",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/smartinez.jpg",
+	"apellido": "Martinez",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Martinez, Soledad",
+	"nombre": "Soledad",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mmasin.jpg",
+	"apellido": "Masin",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Chaco",
 	"finMandato": "09/12/2019",
-	"nombre": "Masin, Maria Lucila",
+	"nombre": "Maria Lucila",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/smassa.jpg",
+	"apellido": "Massa",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Massa, Sergio Tomas",
+	"nombre": "Sergio Tomas",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/vmassetani.jpg",
+	"apellido": "Massetani",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Massetani, Vanesa Laura",
+	"nombre": "Vanesa Laura",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/fmasso.jpg",
+	"apellido": "Masso",
 	"partido": "LIBRES DEL SUR",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2017",
-	"nombre": "Masso, Federico Augusto",
+	"nombre": "Federico Augusto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/nmassot.jpg",
+	"apellido": "Massot",
 	"partido": "UNION PRO",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Massot, Nicolas Maria",
+	"nombre": "Nicolas Maria",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lmazure.jpg",
+	"apellido": "Mazure",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Mazure, Liliana Amalia",
+	"nombre": "Liliana Amalia",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mmendoza.jpg",
+	"apellido": "Mendoza",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Mendoza, Mayra Soledad",
+	"nombre": "Mayra Soledad",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/smendoza.jpg",
+	"apellido": "Mendoza",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Chaco",
 	"finMandato": "09/12/2017",
-	"nombre": "Mendoza, Sandra Marcela",
+	"nombre": "Sandra Marcela",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/vmercado.jpg",
+	"apellido": "Mercado",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Catamarca",
 	"finMandato": "09/12/2019",
-	"nombre": "Mercado, Veronica",
+	"nombre": "Veronica",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/dmestre.jpg",
+	"apellido": "Mestre",
 	"partido": "UCR",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Mestre, Diego Matias",
+	"nombre": "Diego Matias",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/pmiranda.jpg",
+	"apellido": "Miranda",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2019",
-	"nombre": "Miranda, Pedro Ruben",
+	"nombre": "Pedro Ruben",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/kmolina.jpg",
+	"apellido": "Molina",
 	"partido": "UNION PRO",
 	"distrito": "La Rioja",
 	"finMandato": "09/12/2019",
-	"nombre": "Molina, Karina Alejandra",
+	"nombre": "Karina Alejandra",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mmonfort.jpg",
+	"apellido": "Monfort",
 	"partido": "UCR",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2019",
-	"nombre": "Monfort, Marcelo Alejandro",
+	"nombre": "Marcelo Alejandro",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/emonzo.jpg",
+	"apellido": "Monzo",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Monzo, Emilio",
+	"nombre": "Emilio",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mmorales.jpg",
+	"apellido": "Morales",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Santiago Del Estero",
 	"finMandato": "09/12/2019",
-	"nombre": "Morales, Mariana Elizabet",
+	"nombre": "Mariana Elizabet",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/cmoreau.jpg",
+	"apellido": "Moreau",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Moreau, Cecilia",
+	"nombre": "Cecilia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/cmoreno.jpg",
+	"apellido": "Moreno",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Moreno, Carlos Julio",
+	"nombre": "Carlos Julio",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/fmoyano.jpg",
+	"apellido": "Moyano",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Moyano, Juan Facundo",
+	"nombre": "Juan Facundo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mnanniv.jpg",
+	"apellido": "Nanni",
 	"partido": "UCR",
 	"distrito": "Salta",
 	"finMandato": "09/12/2019",
-	"nombre": "Nanni, Miguel",
+	"nombre": "Miguel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gnavarro.jpg",
+	"apellido": "Navarro",
 	"partido": "FRENTE CIVICO POR SANTIAGO",
 	"distrito": "Santiago Del Estero",
 	"finMandato": "09/12/2019",
-	"nombre": "Navarro, Graciela",
+	"nombre": "Graciela",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/anazario.jpg",
+	"apellido": "Nazario",
 	"partido": "UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Nazario, Adriana Monica",
+	"nombre": "Adriana Monica",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mnegri.jpg",
+	"apellido": "Negri",
 	"partido": "UCR",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Negri, Mario Raul",
+	"nombre": "Mario Raul",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jnunez.jpg",
+	"apellido": "NuÃ±ez",
 	"partido": "UNION PRO",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "NuÃ±ez, Jose Carlos",
+	"nombre": "Jose Carlos",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/coliva.jpg",
+	"apellido": "Oliva",
 	"partido": "FRENTE CIVICO POR SANTIAGO",
 	"distrito": "Santiago Del Estero",
 	"finMandato": "09/12/2017",
-	"nombre": "Oliva, Cristian Rodolfo",
+	"nombre": "Cristian Rodolfo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/holivares.jpg",
+	"apellido": "Olivares",
 	"partido": "UCR",
 	"distrito": "La Rioja",
 	"finMandato": "09/12/2019",
-	"nombre": "Olivares, Hector Enrique",
+	"nombre": "Hector Enrique",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aolmedo.jpg",
+	"apellido": "Olmedo",
 	"partido": "SALTA SOMOS TODOS",
 	"distrito": "Salta",
 	"finMandato": "09/12/2019",
-	"nombre": "Olmedo, Alfredo Horacio",
+	"nombre": "Alfredo Horacio",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jforellana.jpg",
+	"apellido": "Orellana",
 	"partido": "PRIMERO TUCUMAN",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2019",
-	"nombre": "Orellana, Jose Fernando",
+	"nombre": "Jose Fernando",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mpasso.jpg",
+	"apellido": "Passo",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Passo, Marcela Fabiana",
+	"nombre": "Marcela Fabiana",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lpastori.jpg",
+	"apellido": "Pastori",
 	"partido": "UCR",
 	"distrito": "Misiones",
 	"finMandato": "09/12/2017",
-	"nombre": "Pastori, Luis Mario",
+	"nombre": "Luis Mario",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mpastoriza.jpg",
+	"apellido": "Pastoriza",
 	"partido": "FRENTE CIVICO POR SANTIAGO",
 	"distrito": "Santiago Del Estero",
 	"finMandato": "09/12/2019",
-	"nombre": "Pastoriza, Mirta Ameliana",
+	"nombre": "Mirta Ameliana",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jpatino.jpg",
+	"apellido": "PatiÃ±o",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "PatiÃ±o, Jose Luis",
+	"nombre": "Jose Luis",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jpedrini.jpg",
+	"apellido": "Pedrini",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Chaco",
 	"finMandato": "09/12/2017",
-	"nombre": "Pedrini, Juan Manuel",
+	"nombre": "Juan Manuel",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mpenalozam.jpg",
+	"apellido": "PeÃ±aloza Marianetti",
 	"partido": "COMPROMISO CON SAN JUAN",
 	"distrito": "San Juan",
 	"finMandato": "09/12/2019",
-	"nombre": "PeÃ±aloza Marianetti, Maria Florencia",
+	"nombre": "Maria Florencia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jpereyra.jpg",
+	"apellido": "Pereyra",
 	"partido": "CONCERTACION FORJA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Pereyra, Juan Manuel",
+	"nombre": "Juan Manuel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mperez.jpg",
+	"apellido": "Perez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Tierra Del Fuego",
 	"finMandato": "09/12/2017",
-	"nombre": "Perez, Martin Alejandro",
+	"nombre": "Martin Alejandro",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/rperez.jpg",
+	"apellido": "Perez",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Perez, Raul Joaquin",
+	"nombre": "Raul Joaquin",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lpetri.jpg",
+	"apellido": "Petri",
 	"partido": "UCR",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2017",
-	"nombre": "Petri, Luis Alfonso",
+	"nombre": "Luis Alfonso",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/cpitiot.jpg",
+	"apellido": "Pitiot",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Pitiot, Carla Betina",
+	"nombre": "Carla Betina",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/npitrola.jpg",
+	"apellido": "Pitrola",
 	"partido": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Pitrola, Nestor Antonio",
+	"nombre": "Nestor Antonio",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/oplaini.jpg",
+	"apellido": "Plaini",
 	"partido": "CULTURA, EDUCACION Y TRABAJO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Plaini, Francisco Omar",
+	"nombre": "Francisco Omar",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/cpoggi.jpg",
+	"apellido": "Poggi",
 	"partido": "AVANZAR SAN LUIS",
 	"distrito": "San Luis",
 	"finMandato": "09/12/2019",
-	"nombre": "Poggi, Claudio Javier",
+	"nombre": "Claudio Javier",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jpretto.jpg",
+	"apellido": "Pretto",
 	"partido": "UNION PRO",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Pretto, Pedro Javier",
+	"nombre": "Pedro Javier",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/arachq.jpg",
+	"apellido": "Rach Quiroga",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Chaco",
 	"finMandato": "09/12/2019",
-	"nombre": "Rach Quiroga, Analia",
+	"nombre": "Analia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jraffo.jpg",
+	"apellido": "Raffo",
 	"partido": "DIALOGO Y TRABAJO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Raffo, Julio",
+	"nombre": "Julio",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aramos.jpg",
+	"apellido": "Ramos",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2019",
-	"nombre": "Ramos, Alejandro",
+	"nombre": "Alejandro",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/fraverta.jpg",
+	"apellido": "Raverta",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Raverta, Maria Fernanda",
+	"nombre": "Maria Fernanda",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hrecalde.jpg",
+	"apellido": "Recalde",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Recalde, Hector Pedro",
+	"nombre": "Hector Pedro",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jriccardo.jpg",
+	"apellido": "Riccardo",
 	"partido": "UCR",
 	"distrito": "San Luis",
 	"finMandato": "09/12/2017",
-	"nombre": "Riccardo, Jose Luis",
+	"nombre": "Jose Luis",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/srisko.jpg",
+	"apellido": "Risko",
 	"partido": "FRENTE DE LA CONCORDIA MISIONERO",
 	"distrito": "Misiones",
 	"finMandato": "09/12/2017",
-	"nombre": "Risko, Silvia Lucrecia",
+	"nombre": "Silvia Lucrecia",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/orista.jpg",
+	"apellido": "Rista",
 	"partido": "UCR",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2019",
-	"nombre": "Rista, Olga Maria",
+	"nombre": "Olga Maria",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aroberti.jpg",
+	"apellido": "Roberti",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Roberti, Alberto Oscar",
+	"nombre": "Alberto Oscar",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mrodriguez.jpg",
+	"apellido": "Rodriguez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Tierra Del Fuego",
 	"finMandato": "09/12/2019",
-	"nombre": "Rodriguez, Matias David",
+	"nombre": "Matias David",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/rrodriguez.jpg",
+	"apellido": "Rodriguez",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Rodriguez, Rodrigo Martin",
+	"nombre": "Rodrigo Martin",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/croma.jpg",
+	"apellido": "Roma",
 	"partido": "UNION PRO",
 	"distrito": "Tierra Del Fuego",
 	"finMandato": "09/12/2019",
-	"nombre": "Roma, Carlos Gaston",
+	"nombre": "Carlos Gaston",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/oromero.jpg",
+	"apellido": "Romero",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Romero, Oscar Alberto",
+	"nombre": "Oscar Alberto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/hroquel.jpg",
+	"apellido": "Roquel",
 	"partido": "UCR",
 	"distrito": "Santa Cruz",
 	"finMandato": "09/12/2019",
-	"nombre": "Roquel, Hector Alberto",
+	"nombre": "Hector Alberto",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/brossi.jpg",
+	"apellido": "Rossi",
 	"partido": "UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Cordoba",
 	"finMandato": "09/12/2017",
-	"nombre": "Rossi, Blanca Araceli",
+	"nombre": "Blanca Araceli",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/crubin.jpg",
+	"apellido": "Rubin",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Corrientes",
 	"finMandato": "09/12/2017",
-	"nombre": "Rubin, Carlos Gustavo",
+	"nombre": "Carlos Gustavo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/crucci.jpg",
+	"apellido": "Rucci",
 	"partido": "UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Rucci, Claudia Monica",
+	"nombre": "Claudia Monica",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jruiza.jpg",
+	"apellido": "Ruiz Aragon",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Corrientes",
 	"finMandato": "09/12/2019",
-	"nombre": "Ruiz Aragon, Jose Arnaldo",
+	"nombre": "Jose Arnaldo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/asanmartin.jpg",
+	"apellido": "San Martin",
 	"partido": "MOV POP NEUQUINO",
 	"distrito": "Neuquen",
 	"finMandato": "09/12/2017",
-	"nombre": "San Martin, Adrian",
+	"nombre": "Adrian",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/fsanchez.jpg",
+	"apellido": "Sanchez",
 	"partido": "COALICION CIVICA",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Sanchez, Fernando",
+	"nombre": "Fernando",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/wsantillan.jpg",
+	"apellido": "Santillan",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2019",
-	"nombre": "Santillan, Walter Marcelo",
+	"nombre": "Walter Marcelo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gscaglia.jpg",
+	"apellido": "Scaglia",
 	"partido": "UNION PRO",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Scaglia, Gisela",
+	"nombre": "Gisela",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/csliermann.jpg",
+	"apellido": "Schmidt Liermann",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Schmidt Liermann, Cornelia",
+	"nombre": "Cornelia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mschwindt.jpg",
+	"apellido": "Schwindt",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Schwindt, Maria Liliana",
+	"nombre": "Maria Liliana",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/cselva.jpg",
+	"apellido": "Selva",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Selva, Carlos Americo",
+	"nombre": "Carlos Americo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/msemhan.jpg",
+	"apellido": "Semhan",
 	"partido": "UCR",
 	"distrito": "Corrientes",
 	"finMandato": "09/12/2017",
-	"nombre": "Semhan, Maria De Las Mercedes",
+	"nombre": "Maria De Las Mercedes",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/eseminara.jpg",
+	"apellido": "Seminara",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Seminara, Eduardo Jorge",
+	"nombre": "Eduardo Jorge",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/asnopek.jpg",
+	"apellido": "Snopek",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Jujuy",
 	"finMandato": "09/12/2019",
-	"nombre": "Snopek, Alejandro Francisco",
+	"nombre": "Alejandro Francisco",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gsnopek.jpg",
+	"apellido": "Snopek",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Jujuy",
 	"finMandato": "09/12/2019",
-	"nombre": "Snopek, Guillermo",
+	"nombre": "Guillermo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/fsola.jpg",
+	"apellido": "Sola",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Sola, Felipe Carlos",
+	"nombre": "Felipe Carlos",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jsolanas.jpg",
+	"apellido": "Solanas",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Entre Rios",
 	"finMandato": "09/12/2019",
-	"nombre": "Solanas, Julio Rodolfo",
+	"nombre": "Julio Rodolfo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/asoraire.jpg",
+	"apellido": "Soraire",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2019",
-	"nombre": "Soraire, Mirta Alicia",
+	"nombre": "Mirta Alicia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/msorgente.jpg",
+	"apellido": "Sorgente",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Sorgente, Marcelo Adolfo",
+	"nombre": "Marcelo Adolfo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/msoria.jpg",
+	"apellido": "Soria",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Rio Negro",
 	"finMandato": "09/12/2017",
-	"nombre": "Soria, Maria Emilia",
+	"nombre": "Maria Emilia",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ssosa.jpg",
+	"apellido": "Sosa",
 	"partido": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
 	"distrito": "Mendoza",
 	"finMandato": "09/12/2017",
-	"nombre": "Sosa, Soledad",
+	"nombre": "Soledad",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/rspinozzi.jpg",
+	"apellido": "Spinozzi",
 	"partido": "UNION PRO",
 	"distrito": "Santa Fe",
 	"finMandato": "09/12/2017",
-	"nombre": "Spinozzi, Ricardo Adrian",
+	"nombre": "Ricardo Adrian",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mstolbizer.jpg",
+	"apellido": "Stolbizer",
 	"partido": "GEN",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Stolbizer, Margarita Rosa",
+	"nombre": "Margarita Rosa",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jtaboada.jpg",
+	"apellido": "Taboada",
 	"partido": "CHUBUT SOMOS TODOS",
 	"distrito": "Chubut",
 	"finMandato": "09/12/2019",
-	"nombre": "Taboada, Jorge",
+	"nombre": "Jorge",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ltailhade.jpg",
+	"apellido": "Tailhade",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Tailhade, Luis Rodolfo",
+	"nombre": "Luis Rodolfo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/htentor.jpg",
+	"apellido": "Tentor",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Jujuy",
 	"finMandato": "09/12/2017",
-	"nombre": "Tentor, Hector Olindo",
+	"nombre": "Hector Olindo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aterada.jpg",
+	"apellido": "Terada",
 	"partido": "COALICION CIVICA",
 	"distrito": "Chaco",
 	"finMandato": "09/12/2017",
-	"nombre": "Terada, Alicia",
+	"nombre": "Alicia",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/stoledo.jpg",
+	"apellido": "Toledo",
 	"partido": "UCR",
 	"distrito": "Santa Cruz",
 	"finMandato": "09/12/2017",
-	"nombre": "Toledo, Susana Maria",
+	"nombre": "Susana Maria",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ntomassi.jpg",
+	"apellido": "Tomassi",
 	"partido": "JUSTICIALISTA",
 	"distrito": "Catamarca",
 	"finMandato": "09/12/2017",
-	"nombre": "Tomassi, Nestor Nicolas",
+	"nombre": "Nestor Nicolas",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ptonelli.jpg",
+	"apellido": "Tonelli",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Tonelli, Pablo Gabriel",
+	"nombre": "Pablo Gabriel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ptorello.jpg",
+	"apellido": "Torello",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Torello, Pablo",
+	"nombre": "Pablo",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/ftorroba.jpg",
+	"apellido": "Torroba",
 	"partido": "UCR",
 	"distrito": "La Pampa",
 	"finMandato": "09/12/2017",
-	"nombre": "Torroba, Francisco Javier",
+	"nombre": "Francisco Javier",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/rtovares.jpg",
+	"apellido": "Tovares",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "San Juan",
 	"finMandato": "09/12/2017",
-	"nombre": "Tovares, Ramon Alberto",
+	"nombre": "Ramon Alberto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gtroiano.jpg",
+	"apellido": "Troiano",
 	"partido": "PARTIDO SOCIALISTA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Troiano, Gabriela Alejandra",
+	"nombre": "Gabriela Alejandra",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mtundis.jpg",
+	"apellido": "Tundis",
 	"partido": "FEDERAL UNIDOS POR UNA NUEVA ARGENTINA",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2017",
-	"nombre": "Tundis, Mirta",
+	"nombre": "Mirta",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/purroz.jpg",
+	"apellido": "Urroz",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Urroz, Paula Marcela",
+	"nombre": "Paula Marcela",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/gvaldes.jpg",
+	"apellido": "Valdes",
 	"partido": "UCR",
 	"distrito": "Corrientes",
 	"finMandato": "09/12/2017",
-	"nombre": "Valdes, Gustavo Adolfo",
+	"nombre": "Gustavo Adolfo",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mvega.jpg",
+	"apellido": "Vega",
 	"partido": "UCR",
 	"distrito": "La Rioja",
 	"finMandato": "09/12/2017",
-	"nombre": "Vega, Maria Clara Del Valle",
+	"nombre": "Maria Clara Del Valle",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/overag.jpg",
+	"apellido": "Vera Gonzalez",
 	"partido": "COALICION CIVICA",
 	"distrito": "Catamarca",
 	"finMandato": "09/12/2019",
-	"nombre": "Vera Gonzalez, Orieta Cecilia",
+	"nombre": "Orieta Cecilia",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/jvillalonga.jpg",
+	"apellido": "Villalonga",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Villalonga, Juan Carlos",
+	"nombre": "Juan Carlos",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mvillarm.jpg",
+	"apellido": "Villar Molina",
 	"partido": "MOV POP NEUQUINO",
 	"distrito": "Neuquen",
 	"finMandato": "09/12/2017",
-	"nombre": "Villar Molina, Maria Ines",
+	"nombre": "Maria Ines",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/tvillavicencio.jpg",
+	"apellido": "Villavicencio",
 	"partido": "DEL BICENTENARIO",
 	"distrito": "Tucuman",
 	"finMandato": "09/12/2019",
-	"nombre": "Villavicencio, Maria Teresita",
+	"nombre": "Maria Teresita",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/lvolnovich.jpg",
+	"apellido": "Volnovich",
 	"partido": "FRENTE PARA LA VICTORIA - PJ",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Volnovich, Luana",
+	"nombre": "Luana",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/mwechsler.jpg",
+	"apellido": "Wechsler",
 	"partido": "UNION PRO",
 	"distrito": "Ciudad De Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Wechsler, Marcelo German",
+	"nombre": "Marcelo German",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/swisky.jpg",
+	"apellido": "Wisky",
 	"partido": "UNION PRO",
 	"distrito": "Rio Negro",
 	"finMandato": "09/12/2019",
-	"nombre": "Wisky, Sergio Javier",
+	"nombre": "Sergio Javier",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/wwolff.jpg",
+	"apellido": "Wolff",
 	"partido": "UNION PRO",
 	"distrito": "Buenos Aires",
 	"finMandato": "09/12/2019",
-	"nombre": "Wolff, Waldo Ezequiel",
+	"nombre": "Waldo Ezequiel",
 	"inicioMandato": "10/12/2015"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/aziegler.jpg",
+	"apellido": "Ziegler",
 	"partido": "LIBERTAD VALORES Y CAMBIO",
 	"distrito": "Misiones",
 	"finMandato": "09/12/2017",
-	"nombre": "Ziegler, Alex Roberto",
+	"nombre": "Alex Roberto",
 	"inicioMandato": "10/12/2013"
 }, {
 	"img": "http://www4.hcdn.gob.ar/fotos/cuadradas/sziliotto.jpg",
+	"apellido": "Ziliotto",
 	"partido": "JUSTICIALISTA",
 	"distrito": "La Pampa",
 	"finMandato": "09/12/2019",
-	"nombre": "Ziliotto, Sergio Raul",
+	"nombre": "Sergio Raul",
 	"inicioMandato": "10/12/2015"
 }]
