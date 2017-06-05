@@ -7,6 +7,7 @@ def main():
 	source = {}
 	source["diputados"] = readJsonFile('diputados.json')
 	source["senadores"] = readJsonFile('senadores.json')
+	source["twitters"] = readJsonFile('twitters.json')
 	for boleta in boletas:
 	  	process(boleta, source)
 	    
@@ -15,6 +16,8 @@ def process(boleta, source):
 	for candidate in boleta["candidatos"]:
 		diputadoData = findInDiputados(candidate, source["diputados"])
 		senadorData = findInSenadores(candidate, source["senadores"])
+		twitterData = findInTwitters(candidate, source["twitters"])
+		print twitterData
 
 def findInDiputados(candidate, sources):
 	results = []
@@ -31,6 +34,15 @@ def findInSenadores(candidate, sources):
 			senador["imgAsb64"] = getImgAsBase64(senador["img"])
 			results.append(senador)
 	return results
+
+def findInTwitters(candidate, sources):
+	results = []
+	for twitter in sources:
+		if(candidate["apellido"] in twitter["name"]):
+			twitter["imgAsb64"] = getImgAsBase64(twitter["img"])
+			results.append(twitter)
+	return results
+
 
 def getImgAsBase64(url):
 	return base64.b64encode(requests.get(url).content)
