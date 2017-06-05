@@ -16,7 +16,7 @@ def parse_candidates(soup):
 	for i in range(1, len(contents)):
 		data = {}
 		data["nombre"] = contents[i].contents[3].text.encode('utf-8').replace("\t","").replace("  "," ").strip()
-		data["img"] = contents[i].contents[1].find("a").contents[1]["src"]
+		data["img"] = "http://www.senado.gov.ar" + contents[i].contents[1].find("a").contents[1]["src"]
 		data["href"] = contents[i].contents[1].find("a")["href"]
 		data["provincia"] = contents[i].contents[5].text.encode('utf-8').strip(' \t\n\r')
 		data["partido"] = contents[i].contents[7].text.encode('utf-8').strip(' \t\n\r')
