@@ -1,0 +1,10 @@
+[{
+	"boletaId": "123",
+	"candidatos": [{
+		"apellido": "Abraham",
+		"nombre": "Alejandro"
+	}, {
+		"apellido": "Aguilar",
+		"nombre": "Eduardo Alberto"
+	}]
+}]
