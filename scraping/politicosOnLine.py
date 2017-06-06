@@ -24,7 +24,7 @@ def parse_candidates(soup):
 		tds = tr.find_all("td")
 		data = {}
 		data['img'] = tr.find_all("td")[0].contents[0]["src"]
-		data['name'] = tr.find_all("td")[3].contents[0].text.encode('utf-8')
+		data['nombre'] = tr.find_all("td")[3].contents[0].text.encode('utf-8')
 		data['href'] = tr.find_all("td")[3].contents[0]["href"]
 		data['amountOfFollowers'] = tr.find_all("td")[5].text.encode('utf-8')
 		data['description'] = str(tr.find_all("td")[6].text.encode('utf-8'))
