@@ -22,8 +22,8 @@ def parse_candidates(soup):
 		data["apellido"] = nombre[0].strip()
 		data["nombre"] = nombre[1].strip()
 		data["distrito"] = contents[i + 2].text.encode('utf-8').strip()
-		data["inicioMandato"] = contents[i + 3].text.encode('utf-8')
-		data["finMandato"] = contents[i + 4].text.encode('utf-8')
+		data["fechaInicioMandato"] = contents[i + 3].text.encode('utf-8')
+		data["fechaFinMandato"] = contents[i + 4].text.encode('utf-8')
 		data["partido"] = contents[i + 5].text.encode('utf-8')
 		candidates.append(data)
 	return candidates
