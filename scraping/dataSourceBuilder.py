@@ -3,11 +3,11 @@ import base64
 import requests
 
 def main():
-	boletas = readJsonFile('boletas.json')
+	boletas = readJsonFile('sources/boletas.json')
 	source = {}
-	source["diputados"] = readJsonFile('diputados.json')
-	source["senadores"] = readJsonFile('senadores.json')
-	source["twitters"] = readJsonFile('twitters.json')
+	source["diputados"] = readJsonFile('sources/diputados.json')
+	source["senadores"] = readJsonFile('sources/senadores.json')
+	source["twitters"] = readJsonFile('sources/twitters.json')
 	for boleta in boletas:
 	  	process(boleta, source)
 	    

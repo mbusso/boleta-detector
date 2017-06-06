@@ -6,7 +6,7 @@ import json
 def main():
 	soup = get_content("http://www.senado.gov.ar/senadores/listados/listaSenadoRes")
 	candidates = parse_candidates(soup)
-	with open('senadores.json', 'w') as outfile:
+	with open('sources/senadores.json', 'w') as outfile:
 	    json.dump(candidates, outfile, ensure_ascii=False)
 
 

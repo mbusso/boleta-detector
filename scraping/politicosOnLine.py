@@ -13,7 +13,7 @@ def main():
 		print url
 		candidates.extend(parse_candidates(get_content(url)))
 
-	with open('data.json', 'w') as outfile:
+	with open('sources/twitters.json', 'w') as outfile:
 	    json.dump(candidates, outfile, ensure_ascii=False)
 
 
@@ -44,10 +44,3 @@ def get_pagination_numbers(soup):
 
 if __name__ == "__main__":
     main()
-
-
-#http://www.politicosonline.com/ranking?desde=250&orderby=klout
-#sudo apt-get install python-pip
-#sudo pip install beautifulsoup4
-#http://pbs.twimg.com/profile_images/653558348273569792/joxg8DZD_normal.png
-#http://pbs.twimg.com/profile_images/653558348273569792/joxg8DZD.png
