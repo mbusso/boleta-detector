@@ -9,17 +9,24 @@ def main():
 	source["senadores"] = readJsonFile('sources/senadores.json')
 	source["twitters"] = readJsonFile('sources/twitters.json')
 	source["legislaturaPorteniaActivos"] = readJsonFile('sources/legislaturaPorteniaActivos.json')
+	results = []	
 	for boleta in boletas:
-	  	process(boleta, source)
-	    
+		boletaData = {}
+		boletaData["boletaId"] = boleta["boletaId"]
+	  	boletaData["candidatos"] = process(boleta, source)
+	  	results.append(boletaData)
+
+	with open('sources/boletaSource.json', 'w') as outfile:
+	    json.dump(results, outfile, ensure_ascii=False)    
 
 def process(boleta, source):
+	results = []
 	for candidate in boleta["candidatos"]:
-		diputadoData = findInDiputados(candidate, source["diputados"])
-		senadorData = findInSenadores(candidate, source["senadores"])
-		twitterData = findInTwitters(candidate, source["twitters"])
-		legisladoresPorteniosActivos = findInLegislaguraPortenia(candidate, source["legislaturaPorteniaActivos"])
-		print legisladoresPorteniosActivos
+		results.append(findInDiputados(candidate, source["diputados"]))
+		results.append(findInSenadores(candidate, source["senadores"]))
+		results.append(findInTwitters(candidate, source["twitters"]))
+		results.append(findInLegislaguraPortenia(candidate, source["legislaturaPorteniaActivos"]))
+	return results	
 
 def findInDiputados(candidate, sources):
 	results = []
@@ -40,7 +47,7 @@ def findInSenadores(candidate, sources):
 def findInTwitters(candidate, sources):
 	results = []
 	for twitter in sources:
-		if(candidate["apellido"] in twitter["name"]):
+		if(candidate["apellido"] in twitter["nombre"]):
 			twitter["imgAsb64"] = getImgAsBase64(twitter["img"])
 			results.append(twitter)
 	return results
@@ -58,7 +65,7 @@ def getImgAsBase64(url):
 
 def readJsonFile(name):
 	f = open(name, 'r') 
-	data = json.load(f)
+	data = json.load(f, encoding='utf-8')
 	f.close()
 	return data
 
