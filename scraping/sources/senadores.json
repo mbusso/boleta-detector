@@ -1,1 +1,649 @@
-[{"provincia": "Buenos Aires", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/452.png", "fechaInicioMandato": "10/12/2011", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/452", "nombre": "Abal Medina Juan Manuel"}, {"provincia": "Chaco", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/434.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/434", "nombre": "Aguilar Eduardo Alberto"}, {"provincia": "La Rioja", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/419.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente Popular Riojano", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/419", "nombre": "Aguirre Hilda Clelia"}, {"provincia": "Corrientes", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/462.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/462", "nombre": "Almirón Ana Claudia"}, {"provincia": "Tucumán", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/327.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/327", "nombre": "Alperovich José Jorge"}, {"provincia": "Jujuy", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/418.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/418", "nombre": "Barrionuevo Walter Basilio"}, {"provincia": "San Juan", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/362.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Compromiso Federal", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/362", "nombre": "Basualdo Roberto Gustavo"}, {"provincia": "Catamarca", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/427.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/427", "nombre": "Blas Inés Imelda"}, {"provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/453.png", "fechaInicioMandato": "10/12/2013", "partido": "Movimiento Popular Fueguino", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/453", "nombre": "Boyadjian Miriam Ruth"}, {"provincia": "Corrientes", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/463.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Encuentro Corrientes", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/463", "nombre": "Braillard Poccard Néstor Pedro"}, {"provincia": "Misiones", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/422.png", "fechaInicioMandato": "10/12/2011", "partido": "Frente Renovador de la Concordia", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/422", "nombre": "Cabral Salvador"}, {"provincia": "Córdoba", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/460.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Unión por Córdoba", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/460", "nombre": "Caserio Carlos Alberto"}, {"provincia": "Catamarca", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/337.png", "fechaInicioMandato": "10/12/2015", "partido": "Frente Cívico y Social", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/337", "nombre": "Castillo Oscar Aníbal"}, {"provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/448.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/448", "nombre": "Catalán Magni Julio César"}, {"provincia": "Mendoza", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/466.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Cambiemos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/466", "nombre": "Cobos Julio César Cleto"}, {"provincia": "Neuquén", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/440.png", "fechaInicioMandato": "10/12/2013", "partido": "Movimiento Popular Neuquino", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/440", "nombre": "Crexell Carmen Lucila"}, {"provincia": "Entre Ríos", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/438.png", "fechaInicioMandato": "10/12/2013", "partido": "Alianza Unión por Entre Ríos", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/438", "nombre": "De Angeli\n     Alfredo Luis"}, {"provincia": "La Pampa", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/465.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente p/ Victoria (Peronismo Pampeano)", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/465", "nombre": "Durango Norma Haydée"}, {"provincia": "Tucumán", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/451.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Cambiemos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/451", "nombre": "Elías de Perez Silvia Beatriz"}, {"provincia": "Corrientes", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/461.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/461", "nombre": "Espínola Carlos Mauricio"}, {"provincia": "Jujuy", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/356.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/356", "nombre": "Fellner Liliana Beatriz"}, {"provincia": "Mendoza", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/468.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/468", "nombre": "Fernández Sagasti Anabel"}, {"provincia": "Salta", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/444.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/444", "nombre": "Fiore Viñuales María Cristina del Valle"}, {"provincia": "Neuquén", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/382.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/382", "nombre": "Fuentes Marcelo Jorge"}, {"provincia": "Santa Cruz", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/474.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/474", "nombre": "García Virginia María"}, {"provincia": "Río Negro", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/441.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/441", "nombre": "García Larraburu Silvina Marcela"}, {"provincia": "Jujuy", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/473.png", "fechaInicioMandato": "10/12/2015", "partido": "Unión Cívica Radical", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/473", "nombre": "Giacoppo Silvia del Rosario"}, {"provincia": "Misiones", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/421.png", "fechaInicioMandato": "10/12/2011", "partido": "Frente Renovador de la Concordia", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/421", "nombre": "Giménez Sandra Daniela"}, {"provincia": "San Juan", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/424.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/424", "nombre": "Godoy Ruperto Eduardo"}, {"provincia": "Formosa", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/477.png", "fechaInicioMandato": "25/04/2017", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/477", "nombre": "Gonzalez Maria Teresa Margarita"}, {"provincia": "Chubut", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/456.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/456", "nombre": "González Nancy Susana"}, {"provincia": "Entre Ríos", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/379.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/379", "nombre": "Guastavino Pedro Guillermo Ángel"}, {"provincia": "Misiones", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/423.png", "fechaInicioMandato": "10/12/2011", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/423", "nombre": "Irrazábal Juan Manuel"}, {"provincia": "Santiago del Estero", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/389.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente Cívico por Santiago", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/389", "nombre": "Itúrrez de Cappellini Ada Rosa Del Valle"}, {"provincia": "Entre Ríos", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/437.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/437", "nombre": "Kunath Sigrid Elisabeth"}, {"provincia": "Santa Cruz", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/426.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/426", "nombre": "Labado María Ester"}, {"provincia": "Buenos Aires", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/350.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/350", "nombre": "Leguizamón María Laura"}, {"provincia": "Buenos Aires", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/415.png", "fechaInicioMandato": "10/12/2011", "partido": "Frente Amplio Progresista", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/415", "nombre": "Linares Jaime"}, {"provincia": "La Pampa", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/464.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente p/ Victoria (Peronismo Pampeano)", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/464", "nombre": "Lovera Daniel Aníbal"}, {"provincia": "Chubut", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/457.png", "fechaInicioMandato": "10/12/2015", "partido": "Chubut Somos Todos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/457", "nombre": "Luenzo Alfredo Héctor"}, {"provincia": "La Rioja", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/420.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria Riojano", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/420", "nombre": "Luna Mirtha María Teresita"}, {"provincia": "La Pampa", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/344.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Cambiemos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/344", "nombre": "Marino Juan Carlos"}, {"provincia": "Santa Cruz", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/367.png", "fechaInicioMandato": "10/12/2011", "partido": "Unión Cívica Radical", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/367", "nombre": "Martínez Alfredo Anselmo"}, {"provincia": "Córdoba", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/459.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Cambiemos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/459", "nombre": "Martínez Ernesto Félix"}, {"provincia": "Formosa", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/294.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/294", "nombre": "Mayans José Miguel Ángel"}, {"provincia": "La Rioja", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/357.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente Popular Riojano", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/357", "nombre": "Menem Carlos Saúl"}, {"provincia": "Catamarca", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/454.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/454", "nombre": "Mera Dalmacio"}, {"provincia": "Tucumán", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/471.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/471", "nombre": "Mirkin Beatriz Graciela"}, {"provincia": "Santiago del Estero", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/446.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente Popular", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/446", "nombre": "Montenegro Gerardo Antenor"}, {"provincia": "San Luis", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/266.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Compromiso Federal", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/266", "nombre": "Negre de Alonso Liliana Teresita"}, {"provincia": "Río Negro", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/442.png", "fechaInicioMandato": "10/12/2013", "partido": "Alianza Frente Progresista", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/442", "nombre": "Odarda María Magdalena"}, {"provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/475.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/475", "nombre": "Ojeda José Anatolio"}, {"provincia": "Chubut", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/455.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/455", "nombre": "Pais Juan Mario"}, {"provincia": "Neuquén", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/439.png", "fechaInicioMandato": "10/12/2013", "partido": "Movimiento Popular Neuquino", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/439", "nombre": "Pereyra Guillermo Juan"}, {"provincia": "Santa Fe", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/469.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/469", "nombre": "Perotti Omar Ángel"}, {"provincia": "San Luis", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/370.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/370", "nombre": "Pérsico Daniel Raúl"}, {"provincia": "Formosa", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/355.png", "fechaInicioMandato": "10/12/2011", "partido": "Unión Cívica Radical", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/355", "nombre": "Petcoff Naidenoff Luis Carlos"}, {"provincia": "Río Negro", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/311.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/311", "nombre": "Pichetto Miguel Ángel"}, {"provincia": "Chaco", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/435.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/435", "nombre": "Pilatti Vergara María Inés"}, {"provincia": "Ciudad Autónoma de Buenos Aires", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/472.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Unión Pro", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/472", "nombre": "Pinedo Federico"}, {"provincia": "Santa Fe", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/232.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Cambiemos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/232", "nombre": "Reutemann Carlos Alberto"}, {"provincia": "San Juan", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/364.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/364", "nombre": "Riofrío Marina Raquel"}, {"provincia": "Córdoba", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/458.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Cambiemos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/458", "nombre": "Rodríguez Machado Laura Elena"}, {"provincia": "San Luis", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/365.png", "fechaInicioMandato": "10/12/2011", "partido": "Alianza Compromiso Federal", "fechaFinMandato": "09/12/2017", "href": "/senadores/senador/365", "nombre": "Rodríguez Saá Adolfo"}, {"provincia": "Salta", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/35.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente Popular Salteño", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/35", "nombre": "Romero Juan Carlos"}, {"provincia": "Chaco", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/436.png", "fechaInicioMandato": "10/12/2013", "partido": "Unión por Chaco", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/436", "nombre": "Rozas Ángel"}, {"provincia": "Santa Fe", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/470.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Frente para la Victoria", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/470", "nombre": "Sacnun María de los Ángeles"}, {"provincia": "Ciudad Autónoma de Buenos Aires", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/433.png", "fechaInicioMandato": "10/12/2013", "partido": "Alianza Unen", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/433", "nombre": "Solanas Fernando Ezequiel"}, {"provincia": "Salta", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/443.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente para la Victoria", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/443", "nombre": "Urtubey Rodolfo Julio"}, {"provincia": "Ciudad Autónoma de Buenos Aires", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/476.png", "fechaInicioMandato": "11/02/2016", "partido": "Alianza Unión Pro", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/476", "nombre": "Varela Marta"}, {"provincia": "Mendoza", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/467.png", "fechaInicioMandato": "10/12/2015", "partido": "Alianza Cambiemos", "fechaFinMandato": "09/12/2021", "href": "/senadores/senador/467", "nombre": "Verasay Pamela Fernanda"}, {"provincia": "Santiago del Estero", "img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/450.png", "fechaInicioMandato": "10/12/2013", "partido": "Frente Cívico por Santiago", "fechaFinMandato": "09/12/2019", "href": "/senadores/senador/450", "nombre": "Zamora Gerardo"}]
+[{
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Buenos Aires",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/452.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/452",
+	"nombre": "Abal Medina Juan Manuel"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Chaco",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/434.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/434",
+	"nombre": "Aguilar Eduardo Alberto"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "La Rioja",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/419.png",
+	"partido": "Alianza Frente Popular Riojano",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/419",
+	"nombre": "Aguirre Hilda Clelia"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Corrientes",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/462.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/462",
+	"nombre": "Almirón Ana Claudia"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Tucumán",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/327.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/327",
+	"nombre": "Alperovich José Jorge"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Jujuy",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/418.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/418",
+	"nombre": "Barrionuevo Walter Basilio"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "San Juan",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/362.png",
+	"partido": "Alianza Compromiso Federal",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/362",
+	"nombre": "Basualdo Roberto Gustavo"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Catamarca",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/427.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/427",
+	"nombre": "Blas Inés Imelda"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/453.png",
+	"partido": "Movimiento Popular Fueguino",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/453",
+	"nombre": "Boyadjian Miriam Ruth"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Corrientes",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/463.png",
+	"partido": "Alianza Encuentro Corrientes",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/463",
+	"nombre": "Braillard Poccard Néstor Pedro"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Misiones",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/422.png",
+	"partido": "Frente Renovador de la Concordia",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/422",
+	"nombre": "Cabral Salvador"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Córdoba",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/460.png",
+	"partido": "Alianza Unión por Córdoba",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/460",
+	"nombre": "Caserio Carlos Alberto"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Catamarca",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/337.png",
+	"partido": "Frente Cívico y Social",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/337",
+	"nombre": "Castillo Oscar Aníbal"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/448.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/448",
+	"nombre": "Catalán Magni Julio César"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Mendoza",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/466.png",
+	"partido": "Alianza Cambiemos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/466",
+	"nombre": "Cobos Julio César Cleto"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Neuquén",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/440.png",
+	"partido": "Movimiento Popular Neuquino",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/440",
+	"nombre": "Crexell Carmen Lucila"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Entre Ríos",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/438.png",
+	"partido": "Alianza Unión por Entre Ríos",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/438",
+	"nombre": "De Angeli\n     Alfredo Luis"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "La Pampa",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/465.png",
+	"partido": "Alianza Frente p/ Victoria (Peronismo Pampeano)",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/465",
+	"nombre": "Durango Norma Haydée"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Tucumán",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/451.png",
+	"partido": "Alianza Cambiemos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/451",
+	"nombre": "Elías de Perez Silvia Beatriz"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Corrientes",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/461.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/461",
+	"nombre": "Espínola Carlos Mauricio"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Jujuy",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/356.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/356",
+	"nombre": "Fellner Liliana Beatriz"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Mendoza",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/468.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/468",
+	"nombre": "Fernández Sagasti Anabel"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Salta",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/444.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/444",
+	"nombre": "Fiore Viñuales María Cristina del Valle"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Neuquén",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/382.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/382",
+	"nombre": "Fuentes Marcelo Jorge"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Santa Cruz",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/474.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/474",
+	"nombre": "García Virginia María"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Río Negro",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/441.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/441",
+	"nombre": "García Larraburu Silvina Marcela"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Jujuy",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/473.png",
+	"partido": "Unión Cívica Radical",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/473",
+	"nombre": "Giacoppo Silvia del Rosario"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Misiones",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/421.png",
+	"partido": "Frente Renovador de la Concordia",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/421",
+	"nombre": "Giménez Sandra Daniela"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "San Juan",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/424.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/424",
+	"nombre": "Godoy Ruperto Eduardo"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Formosa",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/477.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "25/04/2017",
+	"href": "/senadores/senador/477",
+	"nombre": "Gonzalez Maria Teresa Margarita"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Chubut",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/456.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/456",
+	"nombre": "González Nancy Susana"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Entre Ríos",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/379.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/379",
+	"nombre": "Guastavino Pedro Guillermo Ángel"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Misiones",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/423.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/423",
+	"nombre": "Irrazábal Juan Manuel"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Santiago del Estero",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/389.png",
+	"partido": "Frente Cívico por Santiago",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/389",
+	"nombre": "Itúrrez de Cappellini Ada Rosa Del Valle"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Entre Ríos",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/437.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/437",
+	"nombre": "Kunath Sigrid Elisabeth"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Santa Cruz",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/426.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/426",
+	"nombre": "Labado María Ester"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Buenos Aires",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/350.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/350",
+	"nombre": "Leguizamón María Laura"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Buenos Aires",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/415.png",
+	"partido": "Frente Amplio Progresista",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/415",
+	"nombre": "Linares Jaime"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "La Pampa",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/464.png",
+	"partido": "Alianza Frente p/ Victoria (Peronismo Pampeano)",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/464",
+	"nombre": "Lovera Daniel Aníbal"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Chubut",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/457.png",
+	"partido": "Chubut Somos Todos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/457",
+	"nombre": "Luenzo Alfredo Héctor"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "La Rioja",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/420.png",
+	"partido": "Alianza Frente para la Victoria Riojano",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/420",
+	"nombre": "Luna Mirtha María Teresita"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "La Pampa",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/344.png",
+	"partido": "Alianza Cambiemos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/344",
+	"nombre": "Marino Juan Carlos"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Santa Cruz",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/367.png",
+	"partido": "Unión Cívica Radical",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/367",
+	"nombre": "Martínez Alfredo Anselmo"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Córdoba",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/459.png",
+	"partido": "Alianza Cambiemos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/459",
+	"nombre": "Martínez Ernesto Félix"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Formosa",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/294.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/294",
+	"nombre": "Mayans José Miguel Ángel"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "La Rioja",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/357.png",
+	"partido": "Alianza Frente Popular Riojano",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/357",
+	"nombre": "Menem Carlos Saúl"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Catamarca",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/454.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/454",
+	"nombre": "Mera Dalmacio"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Tucumán",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/471.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/471",
+	"nombre": "Mirkin Beatriz Graciela"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Santiago del Estero",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/446.png",
+	"partido": "Frente Popular",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/446",
+	"nombre": "Montenegro Gerardo Antenor"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "San Luis",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/266.png",
+	"partido": "Alianza Compromiso Federal",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/266",
+	"nombre": "Negre de Alonso Liliana Teresita"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Río Negro",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/442.png",
+	"partido": "Alianza Frente Progresista",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/442",
+	"nombre": "Odarda María Magdalena"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/475.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/475",
+	"nombre": "Ojeda José Anatolio"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Chubut",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/455.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/455",
+	"nombre": "Pais Juan Mario"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Neuquén",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/439.png",
+	"partido": "Movimiento Popular Neuquino",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/439",
+	"nombre": "Pereyra Guillermo Juan"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Santa Fe",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/469.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/469",
+	"nombre": "Perotti Omar Ángel"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "San Luis",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/370.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/370",
+	"nombre": "Pérsico Daniel Raúl"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "Formosa",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/355.png",
+	"partido": "Unión Cívica Radical",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/355",
+	"nombre": "Petcoff Naidenoff Luis Carlos"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Río Negro",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/311.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/311",
+	"nombre": "Pichetto Miguel Ángel"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Chaco",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/435.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/435",
+	"nombre": "Pilatti Vergara María Inés"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Ciudad Autónoma de Buenos Aires",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/472.png",
+	"partido": "Alianza Unión Pro",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/472",
+	"nombre": "Pinedo Federico"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Santa Fe",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/232.png",
+	"partido": "Alianza Cambiemos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/232",
+	"nombre": "Reutemann Carlos Alberto"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "San Juan",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/364.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/364",
+	"nombre": "Riofrío Marina Raquel"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Córdoba",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/458.png",
+	"partido": "Alianza Cambiemos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/458",
+	"nombre": "Rodríguez Machado Laura Elena"
+}, {
+	"fechaFinMandato": "09/12/2017",
+	"provincia": "San Luis",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/365.png",
+	"partido": "Alianza Compromiso Federal",
+	"fechaInicioMandato": "10/12/2011",
+	"href": "/senadores/senador/365",
+	"nombre": "Rodríguez Saá Adolfo"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Salta",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/35.png",
+	"partido": "Frente Popular Salteño",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/35",
+	"nombre": "Romero Juan Carlos"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Chaco",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/436.png",
+	"partido": "Unión por Chaco",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/436",
+	"nombre": "Rozas Ángel"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Santa Fe",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/470.png",
+	"partido": "Alianza Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/470",
+	"nombre": "Sacnun María de los Ángeles"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Ciudad Autónoma de Buenos Aires",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/433.png",
+	"partido": "Alianza Unen",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/433",
+	"nombre": "Solanas Fernando Ezequiel"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Salta",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/443.png",
+	"partido": "Frente para la Victoria",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/443",
+	"nombre": "Urtubey Rodolfo Julio"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Ciudad Autónoma de Buenos Aires",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/476.png",
+	"partido": "Alianza Unión Pro",
+	"fechaInicioMandato": "11/02/2016",
+	"href": "/senadores/senador/476",
+	"nombre": "Varela Marta"
+}, {
+	"fechaFinMandato": "09/12/2021",
+	"provincia": "Mendoza",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/467.png",
+	"partido": "Alianza Cambiemos",
+	"fechaInicioMandato": "10/12/2015",
+	"href": "/senadores/senador/467",
+	"nombre": "Verasay Pamela Fernanda"
+}, {
+	"fechaFinMandato": "09/12/2019",
+	"provincia": "Santiago del Estero",
+	"apellido": "",
+	"img": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/450.png",
+	"partido": "Frente Cívico por Santiago",
+	"fechaInicioMandato": "10/12/2013",
+	"href": "/senadores/senador/450",
+	"nombre": "Zamora Gerardo"
+}]
