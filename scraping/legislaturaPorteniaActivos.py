@@ -19,7 +19,7 @@ def parseData(root):
 		data["idLegislador"] = child[6].text.encode('utf-8')
 		data["fechaInicioMandato"] = child[9].text.encode('utf-8')
 		data["fechaFinMandato"] = child[10].text.encode('utf-8')
-		data["foto"] = child[14].text.encode('utf-8')
+		data["img"] = child[14].text.encode('utf-8')
 		data["cargo"] = child[23].text
 		results.append(data)
 	return results	

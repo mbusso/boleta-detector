@@ -1,481 +1,481 @@
 [{
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_2a0d55f0-4425-4b79-83ab-9412d75f3f6e.jpg",
-	"apellido": "Gorbea",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_2a0d55f0-4425-4b79-83ab-9412d75f3f6e.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30754",
+	"apellido": "Gorbea",
 	"nombre": "María Inés"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_1bec8fd2-04b8-426f-a897-9ecc0b7b7a3b.jpg",
-	"apellido": "Fuks",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_1bec8fd2-04b8-426f-a897-9ecc0b7b7a3b.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30749",
+	"apellido": "Fuks",
 	"nombre": "Gabriel Marcelo"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_381b126b-13c7-48e8-9fd2-49dfca4ddf61.jpg",
-	"apellido": "Quintana",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_381b126b-13c7-48e8-9fd2-49dfca4ddf61.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30711",
+	"apellido": "Quintana",
 	"nombre": "Francisco"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_97b31a95-1f2a-4dd1-a347-12e473bd9b9a.jpg",
-	"apellido": "Muiños",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_97b31a95-1f2a-4dd1-a347-12e473bd9b9a.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30756",
+	"apellido": "Muiños",
 	"nombre": "María Rosa"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f02a3144-d20a-4af1-9b0e-68d7f46e20d4.jpg",
-	"apellido": "Vilardo",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f02a3144-d20a-4af1-9b0e-68d7f46e20d4.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30794",
+	"apellido": "Vilardo",
 	"nombre": "Fernando Pablo"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_a2745e5e-7bcc-4183-a483-a31d1feb7242.jpg",
-	"apellido": "Camps",
 	"fechaInicioMandato": "09/04/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_a2745e5e-7bcc-4183-a483-a31d1feb7242.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30702",
+	"apellido": "Camps",
 	"nombre": "Adrián Rodolfo"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_91f805b6-5b77-4466-9bfb-b0528929f873.jpg",
-	"apellido": "Tomada",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_91f805b6-5b77-4466-9bfb-b0528929f873.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30789",
+	"apellido": "Tomada",
 	"nombre": "Carlos Alfonso"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f947664b-8122-487a-bac7-5e408037ee60.png",
-	"apellido": "Cortina",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f947664b-8122-487a-bac7-5e408037ee60.png",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "510",
+	"apellido": "Cortina",
 	"nombre": "Roy"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_921ead63-5fa5-45d4-8338-30724fb220e4.jpg",
-	"apellido": "Gentilini",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_921ead63-5fa5-45d4-8338-30724fb220e4.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30753",
+	"apellido": "Gentilini",
 	"nombre": "Javier Alberto"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_c10763c9-98a0-4b86-b736-a55cd952204e.jpg",
-	"apellido": "Vera",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_c10763c9-98a0-4b86-b736-a55cd952204e.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30766",
+	"apellido": "Vera",
 	"nombre": "Gustavo Javier"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_6c667ded-5749-474b-aaf1-a8207afa724a.jpg",
-	"apellido": "Ramal",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_6c667ded-5749-474b-aaf1-a8207afa724a.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30743",
+	"apellido": "Ramal",
 	"nombre": "Marcelo"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f25bf276-722b-41a5-8fb9-549609ea13fa.jpg",
-	"apellido": "Palmeyro",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f25bf276-722b-41a5-8fb9-549609ea13fa.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30689",
+	"apellido": "Palmeyro",
 	"nombre": "Claudio Marcelo"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_1fec806e-8368-4c70-a769-a1803dc98649.jpg",
-	"apellido": "Oliveto Lago",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_1fec806e-8368-4c70-a769-a1803dc98649.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30758",
+	"apellido": "Oliveto Lago",
 	"nombre": "Paula"
 }, {
 	"cargo": "PRESIDENTE",
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_b7f983d0-b589-4a19-8ad7-87d88fe61de9.jpg",
-	"apellido": "Ocaña",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_b7f983d0-b589-4a19-8ad7-87d88fe61de9.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30742",
+	"apellido": "Ocaña",
 	"nombre": "María Graciela"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_3fd879c3-555a-461c-bcb1-bf40fba4de4f.png",
-	"apellido": "Abboud",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_3fd879c3-555a-461c-bcb1-bf40fba4de4f.png",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30774",
+	"apellido": "Abboud",
 	"nombre": "Omar Ahmed"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d973ca08-cf47-48b5-ae33-088d0ecaac39.jpg",
-	"apellido": "Acevedo",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d973ca08-cf47-48b5-ae33-088d0ecaac39.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30709",
+	"apellido": "Acevedo",
 	"nombre": "José Luis"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_7e0054f5-d4d7-4a7d-a62c-1460b84f667c.jpg",
-	"apellido": "Andrade",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_7e0054f5-d4d7-4a7d-a62c-1460b84f667c.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30792",
+	"apellido": "Andrade",
 	"nombre": "Javier"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d1bb67e6-719a-4051-ab31-26d70825f8b2.jpg",
-	"apellido": "Arce",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d1bb67e6-719a-4051-ab31-26d70825f8b2.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30745",
+	"apellido": "Arce",
 	"nombre": "Hernán Ariel"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_44935537-b2e6-4b87-ad64-202c0d72eacc.jpg",
-	"apellido": "Arenaza",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_44935537-b2e6-4b87-ad64-202c0d72eacc.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30680",
+	"apellido": "Arenaza",
 	"nombre": "Juan Pablo"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_33396b80-5c09-4d46-a8d0-711f1c92fbf6.jpg",
-	"apellido": "Bauab",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_33396b80-5c09-4d46-a8d0-711f1c92fbf6.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30740",
+	"apellido": "Bauab",
 	"nombre": "Christian"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_dd56e0b4-d08d-48dd-8895-fe1bd612c1e5.jpg",
-	"apellido": "Calciano",
 	"fechaInicioMandato": "18/01/2016",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_dd56e0b4-d08d-48dd-8895-fe1bd612c1e5.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30800",
+	"apellido": "Calciano",
 	"nombre": "Claudia"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_56823662-8d0f-48a4-a208-36dae1033faf.jpg",
-	"apellido": "Calderón",
 	"fechaInicioMandato": "18/01/2016",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_56823662-8d0f-48a4-a208-36dae1033faf.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30801",
+	"apellido": "Calderón",
 	"nombre": "Octavio"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_b1f06a5f-cdec-4d0a-9ba3-9b2bae761750.jpg",
-	"apellido": "Campagnoli",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_b1f06a5f-cdec-4d0a-9ba3-9b2bae761750.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30746",
+	"apellido": "Campagnoli",
 	"nombre": "José Cruz"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d32b6cc6-5972-4337-af37-a1518ea1bf9d.jpg",
-	"apellido": "Conde",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d32b6cc6-5972-4337-af37-a1518ea1bf9d.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30793",
+	"apellido": "Conde",
 	"nombre": "María Andrea"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_fb50b1ea-d3c1-4ad2-8e81-3f9c875ba5ce.jpg",
-	"apellido": "De Las Casas",
 	"fechaInicioMandato": "18/01/2016",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_fb50b1ea-d3c1-4ad2-8e81-3f9c875ba5ce.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30802",
+	"apellido": "De Las Casas",
 	"nombre": "Mercedes"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_cd62c70c-6d54-4476-b2c0-862f1a80ab25.jpg",
-	"apellido": "Del Sol",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_cd62c70c-6d54-4476-b2c0-862f1a80ab25.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30776",
+	"apellido": "Del Sol",
 	"nombre": "Daniel Eduardo"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_ba07cd5b-06ac-4383-befe-d0aec42d2e16.jpg",
-	"apellido": "Depierro",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_ba07cd5b-06ac-4383-befe-d0aec42d2e16.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30788",
+	"apellido": "Depierro",
 	"nombre": "Marcelo Hugo"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_adc25ca1-3bd0-4dfb-b93f-8b409757ca47.jpg",
-	"apellido": "Estebarena",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_adc25ca1-3bd0-4dfb-b93f-8b409757ca47.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30777",
+	"apellido": "Estebarena",
 	"nombre": "Carolina"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_586560e7-cae7-450c-8d8c-b44e4b166744.jpg",
-	"apellido": "Ferraro",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_586560e7-cae7-450c-8d8c-b44e4b166744.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30723",
+	"apellido": "Ferraro",
 	"nombre": "Maximiliano"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_e74ae596-05f2-4e83-81f0-934b0ef26744.jpg",
-	"apellido": "Ferreyra",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_e74ae596-05f2-4e83-81f0-934b0ef26744.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30750",
+	"apellido": "Ferreyra",
 	"nombre": "Pablo Ricardo"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_ea00dda5-00ba-468c-8a61-454a8ffdc8e2.jpg",
-	"apellido": "Fidel",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_ea00dda5-00ba-468c-8a61-454a8ffdc8e2.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30786",
+	"apellido": "Fidel",
 	"nombre": "Natalia"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_7be7032b-e679-4844-9b02-41096fe07bf2.jpg",
-	"apellido": "Forchieri",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_7be7032b-e679-4844-9b02-41096fe07bf2.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30751",
+	"apellido": "Forchieri",
 	"nombre": "Agustín"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_5f3875ef-49ea-4d54-9f6b-bfd872e60584.jpg",
-	"apellido": "García",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_5f3875ef-49ea-4d54-9f6b-bfd872e60584.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30741",
+	"apellido": "García",
 	"nombre": "Cristina"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_2277b8c8-5710-4741-8b54-a61814f9d684.jpg",
-	"apellido": "García",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_2277b8c8-5710-4741-8b54-a61814f9d684.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30694",
+	"apellido": "García",
 	"nombre": "Alejandro"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_9856692e-7c82-4d71-8589-0bf2f6d98e00.jpg",
-	"apellido": "García De García Vilas",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_9856692e-7c82-4d71-8589-0bf2f6d98e00.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30785",
+	"apellido": "García De García Vilas",
 	"nombre": "Diego Mariano"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_3ad9c16b-871a-4502-8a2c-1721ae420556.jpg",
-	"apellido": "Gottero",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_3ad9c16b-871a-4502-8a2c-1721ae420556.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "550",
+	"apellido": "Gottero",
 	"nombre": "Silvia María Eva"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_99560fcc-3318-48eb-9940-cd4b57f90275.jpg",
-	"apellido": "Guouman",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_99560fcc-3318-48eb-9940-cd4b57f90275.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30787",
+	"apellido": "Guouman",
 	"nombre": "Marcelo Alejandro"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_94e5f5b5-0998-46be-95d7-bd9202c1ed75.jpg",
-	"apellido": "Heredia",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_94e5f5b5-0998-46be-95d7-bd9202c1ed75.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30791",
+	"apellido": "Heredia",
 	"nombre": "Claudio Alejandro"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_048b21b9-bb14-4bca-9bdf-9ea9e381c997.jpg",
-	"apellido": "Marias",
 	"fechaInicioMandato": "11/05/2017",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_048b21b9-bb14-4bca-9bdf-9ea9e381c997.jpg",
 	"fechaFinMandato": "10/12/2019",
 	"idLegislador": "30806",
+	"apellido": "Marias",
 	"nombre": "Diego Sebastian"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_8f145e80-a1c0-49e7-bbea-887eaed98b1f.jpg",
-	"apellido": "Marrone",
 	"fechaInicioMandato": "07/12/2016",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_8f145e80-a1c0-49e7-bbea-887eaed98b1f.jpg",
 	"fechaFinMandato": "10/12/2017",
 	"idLegislador": "30804",
+	"apellido": "Marrone",
 	"nombre": "Laura Enda"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_0014f73a-ef6f-4edb-a082-3a4173efb9e1.jpg",
-	"apellido": "Nosiglia",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_0014f73a-ef6f-4edb-a082-3a4173efb9e1.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30757",
+	"apellido": "Nosiglia",
 	"nombre": "Juan Francisco"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_732e1f96-dc92-4e9f-8801-bb2260c6a273.jpg",
-	"apellido": "Penacca",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_732e1f96-dc92-4e9f-8801-bb2260c6a273.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30767",
+	"apellido": "Penacca",
 	"nombre": "Paula"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_3983fb59-2931-4fb6-9cf0-c64b7d1c04e5.JPG",
-	"apellido": "Penayo",
 	"fechaInicioMandato": "03/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_3983fb59-2931-4fb6-9cf0-c64b7d1c04e5.JPG",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30798",
+	"apellido": "Penayo",
 	"nombre": "Esteban Angel"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_eb621139-7036-43ec-b515-0886b0c1d6c1.jpg",
-	"apellido": "Persini",
 	"fechaInicioMandato": "03/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_eb621139-7036-43ec-b515-0886b0c1d6c1.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30796",
+	"apellido": "Persini",
 	"nombre": "Natalia"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_de1c9482-edb6-4f27-b944-ac08c2ededcf.jpg",
-	"apellido": "Petrini",
 	"fechaInicioMandato": "18/01/2016",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_de1c9482-edb6-4f27-b944-ac08c2ededcf.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30803",
+	"apellido": "Petrini",
 	"nombre": "Eduardo"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_90143bef-63c4-49a8-a76b-a1f6de5d06c3.jpg",
-	"apellido": "Pokoik García",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_90143bef-63c4-49a8-a76b-a1f6de5d06c3.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30760",
+	"apellido": "Pokoik García",
 	"nombre": "Lorena Iris"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_8617f07f-f7fd-48ed-8a05-0794a43405c8.jpg",
-	"apellido": "Polledo",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_8617f07f-f7fd-48ed-8a05-0794a43405c8.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30691",
+	"apellido": "Polledo",
 	"nombre": "Carmen"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d469de39-876a-4fc3-a74f-e8c3c70fd281.jpg",
-	"apellido": "Presti",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d469de39-876a-4fc3-a74f-e8c3c70fd281.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30710",
+	"apellido": "Presti",
 	"nombre": "Daniel"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_4a746060-1cf9-46ae-8d1a-b4c5e0bc81e8.jpg",
-	"apellido": "Quattromano",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_4a746060-1cf9-46ae-8d1a-b4c5e0bc81e8.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30724",
+	"apellido": "Quattromano",
 	"nombre": "Roberto"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_72f1d353-61d7-476b-a5f2-7ed0c2d66a4a.jpg",
-	"apellido": "Raposo Varela",
 	"fechaInicioMandato": "03/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_72f1d353-61d7-476b-a5f2-7ed0c2d66a4a.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30797",
+	"apellido": "Raposo Varela",
 	"nombre": "Benigno Emilio"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_c66cd2d7-383e-48cd-808f-e8d254f53157.jpg",
-	"apellido": "Risau",
 	"fechaInicioMandato": "02/03/2017",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_c66cd2d7-383e-48cd-808f-e8d254f53157.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30805",
+	"apellido": "Risau",
 	"nombre": "Clodomiro"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d679629e-7e34-46ec-bf39-09205ea24551.jpg",
-	"apellido": "Roldán Méndez",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_d679629e-7e34-46ec-bf39-09205ea24551.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30762",
+	"apellido": "Roldán Méndez",
 	"nombre": "Victoria Inés"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_843cb6d5-1be5-4ff6-b0ea-581724f6b2bd.jpg",
-	"apellido": "Rossi",
 	"fechaInicioMandato": "10/12/2013",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_843cb6d5-1be5-4ff6-b0ea-581724f6b2bd.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30763",
+	"apellido": "Rossi",
 	"nombre": "Hernán Abel"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_257a8f64-6664-40a4-8186-dbcd2fd95bbe.jpg",
-	"apellido": "Rueda",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_257a8f64-6664-40a4-8186-dbcd2fd95bbe.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30707",
+	"apellido": "Rueda",
 	"nombre": "Lía"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f02f26ab-2395-44d8-b818-bbf84c9cf41d.jpg",
-	"apellido": "Sahonero",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_f02f26ab-2395-44d8-b818-bbf84c9cf41d.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30780",
+	"apellido": "Sahonero",
 	"nombre": "Gabriel Maximiliano"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_c7884a23-1646-47dd-b426-0e9b9a014b50.jpg",
-	"apellido": "Santamarina",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_c7884a23-1646-47dd-b426-0e9b9a014b50.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30781",
+	"apellido": "Santamarina",
 	"nombre": "Eduardo Antonio"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_6e112324-9146-4633-8cdc-3b08ce177cc8.jpg",
-	"apellido": "Tiesso",
 	"fechaInicioMandato": "08/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_6e112324-9146-4633-8cdc-3b08ce177cc8.jpg",
 	"fechaFinMandato": "09/12/2017",
 	"idLegislador": "30799",
+	"apellido": "Tiesso",
 	"nombre": "María Magdalena"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_1d532080-980f-4122-915e-c48dfd4bec4f.jpg",
-	"apellido": "Villalba",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_1d532080-980f-4122-915e-c48dfd4bec4f.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30768",
+	"apellido": "Villalba",
 	"nombre": "Paula Beatriz"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_816eed5e-981f-43ec-95f0-18433acf44f9.jpg",
-	"apellido": "Vischi",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_816eed5e-981f-43ec-95f0-18433acf44f9.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30784",
+	"apellido": "Vischi",
 	"nombre": "María Patricia"
 }, {
 	"cargo": null,
-	"foto": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_cfbd4ca4-c80f-4ea9-a59f-e7d670acfcf6.jpg",
-	"apellido": "Yuan",
 	"fechaInicioMandato": "10/12/2015",
+	"img": "https://parlamentaria.legislatura.gov.ar/uploads/imagenes/legislador/S_cfbd4ca4-c80f-4ea9-a59f-e7d670acfcf6.jpg",
 	"fechaFinMandato": "09/12/2019",
 	"idLegislador": "30782",
+	"apellido": "Yuan",
 	"nombre": "Jian Ping"
 }]
