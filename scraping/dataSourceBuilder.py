@@ -1,6 +1,7 @@
 import json
 import base64
 import requests
+import io
 
 def main():
 	boletas = readJsonFile('sources/boletas.json')
@@ -16,16 +17,13 @@ def main():
 	  	boletaData["candidatos"] = process(boleta, source)
 	  	results.append(boletaData)
 
-	with open('sources/boletaSource.json', 'w') as outfile:
-	    json.dump(results, outfile, ensure_ascii=False)    
+	with io.open('sources/boletaSource.json', 'w', encoding='utf-8') as outfile:
+	    outfile.write(unicode(json.dumps(results, ensure_ascii=False)))
 
 def process(boleta, source):
 	results = []
 	for candidate in boleta["candidatos"]:
-		results.append(findInDiputados(candidate, source["diputados"]))
-		results.append(findInSenadores(candidate, source["senadores"]))
-		results.append(findInTwitters(candidate, source["twitters"]))
-		results.append(findInLegislaguraPortenia(candidate, source["legislaturaPorteniaActivos"]))
+		results = results + findInDiputados(candidate, source["diputados"]) + findInSenadores(candidate, source["senadores"]) + findInTwitters(candidate, source["twitters"]) + findInLegislaguraPortenia(candidate, source["legislaturaPorteniaActivos"])
 	return results	
 
 def findInDiputados(candidate, sources):
@@ -64,8 +62,8 @@ def getImgAsBase64(url):
 	return base64.b64encode(requests.get(url).content)
 
 def readJsonFile(name):
-	f = open(name, 'r') 
-	data = json.load(f, encoding='utf-8')
+	f = io.open(name, 'r', encoding='utf-8')
+	data = json.load(f)
 	f.close()
 	return data
 
