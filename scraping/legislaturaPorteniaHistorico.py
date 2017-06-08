@@ -4,30 +4,26 @@ import requests
 import json
 
 def main():
-	candidateSurname = u"Sanchez Andia"
-	tree = ET.parse('GetDiputadosHistorico.xml')
-	historicalCandidate = findHistoricalCandidate(tree.getroot(),candidateSurname)
-	if(historicalCandidate):
-		print findInfo(historicalCandidate["id_legislador"])
+	data = makeHistoricoRequest('http://parlamentaria.legislatura.gov.ar/webservices/Json.asmx/GetDiputadosHistorico')
+	candidates = parseHistoricalCandidates(ET.fromstring(data))
+	with open('sources/legislaturaPorteniaHistoricos.json', 'w') as outfile:
+	    json.dump(candidates, outfile, ensure_ascii=False)
 
-def findHistoricalCandidate(root, surname):
+def parseHistoricalCandidates(root):
 	results = []
 	for child in root:
-		if(normalize(child[1].text) == normalize(surname)):
 			data = {}
-			data["id_legislador"] = child[0].text
-			data["apellido"] = child[1].text
-			data["nombre"] = child[2].text
-			data["id_autor"] = child[4].text
-			data["cantidad_mandatos"] = child[7].text
+			data["id_legislador"] = child[0].text.encode('utf-8')
+			data["apellido"] = child[1].text.encode('utf-8')
+			if(child[2].text ): 
+				data["nombre"] = child[2].text.encode('utf-8')
+			else:
+				data["nombre"] = ""
+			data["id_autor"] = child[4].text.encode('utf-8')
+			data["cantidad_mandatos"] = child[7].text.encode('utf-8')
 			results.append(data)
 
-	if(len(results) > 1) :
-		print "more than one result for historical candidates {}".format(results)
-	if(len(results) == 0) :
-		return {}
-
-	return results[0]
+	return results
 
 def normalize(string):
 	return unicodedata.normalize('NFKD', unicode(string)).encode('ASCII', 'ignore').lower()
@@ -48,7 +44,11 @@ def findInfo(legisladorId):
 	data["cantidad_mandatos"] = candidate[35].text 
 	return data
 
-
+def makeHistoricoRequest(url):
+	headers = {'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'}
+	r  = requests.post(url,"id_bloque=", headers=headers)
+	r.encoding = 'utf-8'
+	return r.text.encode('utf-8')
 	
 
 def makeRequest(legisladorId):
