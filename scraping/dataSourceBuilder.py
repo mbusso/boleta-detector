@@ -2,6 +2,8 @@ import json
 import base64
 import requests
 import io
+import unicodedata
+import xml.etree.ElementTree as ET
 
 def main():
 	boletas = readJsonFile('sources/boletas.json')
@@ -10,6 +12,7 @@ def main():
 	source["senadores"] = readJsonFile('sources/senadores.json')
 	source["twitters"] = readJsonFile('sources/twitters.json')
 	source["legislaturaPorteniaActivos"] = readJsonFile('sources/legislaturaPorteniaActivos.json')
+	source["legislaturaPorteniaHistoricos"] = readJsonFile('sources/legislaturaPorteniaHistoricos.json')
 	results = []	
 	for boleta in boletas:
 		boletaData = {}
@@ -23,7 +26,7 @@ def main():
 def process(boleta, source):
 	results = []
 	for candidate in boleta["candidatos"]:
-		results = results + findInDiputados(candidate, source["diputados"]) + findInSenadores(candidate, source["senadores"]) + findInTwitters(candidate, source["twitters"]) + findInLegislaguraPortenia(candidate, source["legislaturaPorteniaActivos"])
+		results = results + findInDiputados(candidate, source["diputados"]) + findInSenadores(candidate, source["senadores"]) + findInTwitters(candidate, source["twitters"]) + findInLegislaguraPorteniaActivos(candidate, source["legislaturaPorteniaActivos"]) + findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"])
 	return results	
 
 def findInDiputados(candidate, sources):
@@ -50,7 +53,7 @@ def findInTwitters(candidate, sources):
 			results.append(twitter)
 	return results
 
-def findInLegislaguraPortenia(candidate, sources):
+def findInLegislaguraPorteniaActivos(candidate, sources):
 	results = []
 	for legisladorPortenio in sources:
 		if(candidate["apellido"] in legisladorPortenio["apellido"]):
@@ -58,8 +61,42 @@ def findInLegislaguraPortenia(candidate, sources):
 			results.append(legisladorPortenio)
 	return results
 
+def findInLegislaguraPorteniaHistoricos(candidate, sources):
+	results = []
+	for legisladorPortenio in sources:
+		if(normalize(candidate["apellido"]) in normalize(legisladorPortenio["apellido"])):
+			legisladorHistorico = findInfo(legisladorPortenio["id_legislador"])
+			#legisladorPortenio["imgAsb64"] = getImgAsBase64(legisladorPortenio["img"])
+			results.append(legisladorHistorico)
+	return results
+
 def getImgAsBase64(url):
 	return base64.b64encode(requests.get(url).content)
+
+def normalize(string):
+	return unicodedata.normalize('NFKD', unicode(string)).encode('ASCII', 'ignore').lower()
+
+def findInfo(legisladorId):
+	content = makeRequest(legisladorId)
+	root = ET.fromstring(content)
+	candidate = root[0]
+	data = {}
+	data["apellido"] = candidate[0].text
+	data["nombre"] = candidate[1].text
+	data["id_legislador"] = candidate[6].text
+	data["fecha_inicio_mandato"] = candidate[9].text
+	data["fecha_fin_mandato"] = candidate[10].text
+	data["cantidad_exptes_autor"] = candidate[33].text 
+	data["cantidad_exptes_coautor"] = candidate[34].text 
+	data["cantidad_mandatos"] = candidate[35].text 
+	return data
+
+def makeRequest(legisladorId):
+	payload = "id_legislador={}".format(legisladorId)
+	headers = {'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'}
+	r = requests.post("https://parlamentaria.legislatura.gov.ar/webservices/Json.asmx/GetDiputadosyCargosActivosPorId_Legislador", payload, headers=headers)
+	r.encoding = 'utf-8'
+	return r.text.encode('utf-8')
 
 def readJsonFile(name):
 	f = io.open(name, 'r', encoding='utf-8')
