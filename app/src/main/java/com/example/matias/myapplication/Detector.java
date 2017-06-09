@@ -6,6 +6,9 @@ import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.util.Log;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 import org.opencv.android.Utils;
 import org.opencv.core.Core;
 import org.opencv.core.CvType;
@@ -34,11 +37,13 @@ public class Detector {
     public static final int        JAVA_DETECTOR       = 0;
     private static int count = 0;
     private static Rect[] resultsAux = new Rect[]{};
+    private static JSONArray source;
 
 
     public static CascadeClassifier create(Resources resources, File directory, String TAG, int raw_banana_classifier, String filename) {
         try {
             // load cascade file from application resources
+            source = loadDataSource(resources);
             InputStream is = resources.openRawResource(raw_banana_classifier);
             File cascadeDir = directory;
             File mCascadeFile = new File(cascadeDir, filename);
@@ -66,6 +71,23 @@ public class Detector {
         return null;
     }
 
+    private static JSONArray loadDataSource(Resources resources) {
+        InputStream is = resources.openRawResource(R.raw.boleta_source);
+        int size = 0;
+        try {
+            size = is.available();
+            byte[] buffer = new byte[size];
+            is.read(buffer);
+            is.close();
+            return new JSONArray(new String(buffer, "UTF-8"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
     public static void detect(MainActivity mainActivity, String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize) {
         MatOfRect faces1 = new MatOfRect();
         MatOfRect faces2 = new MatOfRect();
@@ -87,7 +109,11 @@ public class Detector {
         final Scalar FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
         Rect[] facesArray = faces.toArray();
         if(facesArray.length >0) {
-            mainActivity.displayList();
+            try {
+                mainActivity.displayList(source.getJSONObject(0).getJSONArray("candidatos"));
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
             resultsAux = facesArray.clone();
             count = 0;
         }

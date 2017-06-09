@@ -3,6 +3,7 @@ package com.example.matias.myapplication;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,17 +11,21 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 /**
  * Created by matias on 01/06/17.
  */
 
 public class CustomAdapter extends BaseAdapter {
 
-    private final String[] values;
+    private final JSONArray values;
     private final MainActivity activity;
     private final LayoutInflater inflater;
 
-    public CustomAdapter(MainActivity mainActivity, String[] values) {
+    public CustomAdapter(MainActivity mainActivity, JSONArray values) {
         super();
         this.activity = mainActivity;
         this.values = values;
@@ -30,12 +35,17 @@ public class CustomAdapter extends BaseAdapter {
 
     @Override
     public int getCount() {
-        return values.length;
+        return values.length();
     }
 
     @Override
     public Object getItem(int position) {
-        return values[position];
+        try {
+            return values.getJSONObject(position);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     @Override
@@ -45,12 +55,28 @@ public class CustomAdapter extends BaseAdapter {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
+        JSONObject jsonObject = null;
+        try {
+            jsonObject = values.getJSONObject(position);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
         View rowView;
         rowView = inflater.inflate(R.layout.row_list, null);
         ImageView image = (ImageView)rowView.findViewById(R.id.imageView1);
         TextView textView = (TextView) rowView.findViewById(R.id.textView1);
-        textView.setText(values[position]);
-        image.setImageBitmap(BitmapFactory.decodeResource(this.activity.getResources(),R.drawable.minionsmall));
+        try {
+            textView.setText(jsonObject.getString("nombre"));
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        try {
+            byte[] imgAsb64s = Base64.decode(jsonObject.getString("imgAsb64"), Base64.DEFAULT);
+            image.setImageBitmap(BitmapFactory.decodeByteArray(imgAsb64s, 0, imgAsb64s.length));
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
         return rowView;
     }
 }

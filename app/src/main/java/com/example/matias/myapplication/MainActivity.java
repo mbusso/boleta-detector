@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ListView;
 
+import org.json.JSONArray;
 import org.opencv.android.BaseLoaderCallback;
 import org.opencv.android.CameraBridgeViewBase;
 import org.opencv.android.CameraBridgeViewBase.CvCameraViewFrame;
@@ -84,22 +85,8 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private void candidateListView() {
         ListView listView = (ListView) findViewById(R.id.candidateList);
-
-        // Defined Array values to show in ListView
-        String[] values = new String[] { "Pepe1",
-                "Pepe2",
-                "Pepe3",
-                "Pepe4",
-                "Pepe5",
-                "Pepe6",
-                "Pepe7",
-                "Pepe8"
-        };
-
-        listView.setAdapter(new CustomAdapter(this, values));
-
+        listView.setAdapter(new CustomAdapter(this, new JSONArray()));
         listView.setVisibility(View.GONE);
-
     }
 
     @Override
@@ -180,11 +167,12 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     }
 
-    public void displayList() {
+    public void displayList(final JSONArray candidatos) {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
                 ListView listView = (ListView) findViewById(R.id.candidateList);
+                listView.setAdapter(new CustomAdapter(MainActivity.this, candidatos));
                 listView.setVisibility(View.VISIBLE);
             }
         });
