@@ -123,7 +123,7 @@ public class Detector {
             } else {
                 resultsAux = new Rect[]{};
                 count = 0;
-                mainActivity.hideList();
+                //mainActivity.hideList();
             }
         }
     }
