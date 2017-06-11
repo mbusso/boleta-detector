@@ -1,6 +1,7 @@
 package com.example.matias.myapplication;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.util.Base64;
@@ -54,7 +55,7 @@ public class CustomAdapter extends BaseAdapter {
     }
 
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(int position, final View convertView, ViewGroup parent) {
         JSONObject jsonObject = null;
         try {
             jsonObject = values.getJSONObject(position);
@@ -65,6 +66,14 @@ public class CustomAdapter extends BaseAdapter {
         rowView = inflater.inflate(R.layout.row_list, null);
         ImageView image = (ImageView)rowView.findViewById(R.id.imageView1);
         TextView textView = (TextView) rowView.findViewById(R.id.textView1);
+        image.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent mainIntent = new Intent(v.getContext(), CandidateDetailActivity.class);
+                activity.startActivity(mainIntent);
+
+            }
+        });
         try {
             textView.setText(jsonObject.getString("nombre"));
         } catch (JSONException e) {
