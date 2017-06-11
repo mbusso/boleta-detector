@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.os.Bundle;
 import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -65,11 +66,14 @@ public class CustomAdapter extends BaseAdapter {
         View rowView;
         rowView = inflater.inflate(R.layout.row_list, null);
         ImageView image = (ImageView)rowView.findViewById(R.id.imageView1);
-        TextView textView = (TextView) rowView.findViewById(R.id.textView1);
+        final TextView textView = (TextView) rowView.findViewById(R.id.textView1);
         image.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent mainIntent = new Intent(v.getContext(), CandidateDetailActivity.class);
+                Bundle bundle = new Bundle();
+                bundle.putString("name", textView.getText().toString());
+                mainIntent.putExtra("candidateBundle", bundle);
                 activity.startActivity(mainIntent);
 
             }
