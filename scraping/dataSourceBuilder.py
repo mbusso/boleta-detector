@@ -18,17 +18,28 @@ def main():
 	for boleta in boletas:
 		boletaData = {}
 		boletaData["boletaId"] = boleta["boletaId"]
-	  	boletaData["candidatos"] = process(boleta, source)
+	  	boletaData["candidatos"] = process(boleta, source)["matches"]
+	  	boletaData["candidatosNotFound"] = process(boleta, source)["notMatches"]
 	  	results.append(boletaData)
 
 	with io.open('sources/boletaSource.json', 'w', encoding='utf-8') as outfile:
 	    outfile.write(unicode(json.dumps(results, ensure_ascii=False)))
 
 def process(boleta, source):
-	results = []
+	matches = []
+	notMatches = []
+
 	for candidate in boleta["candidatos"]:
-		results = results + findInDiputados(candidate, source["diputados"]) + findInSenadores(candidate, source["senadores"]) + findInTwitters(candidate, source["twitters"]) + findInLegislaguraPorteniaActivos(candidate, source["legislaturaPorteniaActivos"]) + findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"])
-	return results	
+		results = findInDiputados(candidate, source["diputados"]) + findInSenadores(candidate, source["senadores"]) + findInTwitters(candidate, source["twitters"]) + findInLegislaguraPorteniaActivos(candidate, source["legislaturaPorteniaActivos"]) + findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"])
+		if(len(results) > 0):
+			matches = matches + results
+		else:
+			notMatches.append(candidate)
+
+	data = {}
+	data["matches"] = matches
+	data["notMatches"] = notMatches
+	return data
 
 def findInDiputados(candidate, sources):
 	results = []

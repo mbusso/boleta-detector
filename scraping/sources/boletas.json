@@ -1,16 +1,67 @@
 [{
 	"boletaId": "123",
 	"candidatos": [{
-		"apellido": "Abraham",
-		"nombre": "Alejandro"
+		"apellido": "Balsassi",
+		"nombre": "Hector"
 	}, {
-		"apellido": "Aguilar",
-		"nombre": "Eduardo Alberto"
+		"apellido": "Cantard",
+		"nombre": "Albor"
 	}, {
-		"apellido": "Bullrich",
-		"nombre": "Esteban"
+		"apellido": "Abed",
+		"nombre": "Mario"
 	}, {
-		"apellido": "Gorbea",
-		"nombre": "María Inés"
+		"apellido": "Cano",
+		"nombre": "Jose"
+	}, {
+		"apellido": "Benedetti",
+		"nombre": "Atilio"
+	}, {
+		"apellido": "Ayala",
+		"nombre": "Aida"
+	}, {
+		"apellido": "Poggi",
+		"nombre": "Claudio"
+	}, {
+		"apellido": "Basualdo",
+		"nombre": "Roberto"
+	}, {
+		"apellido": "Martinez",
+		"nombre": "Julio"
+	}, {
+		"apellido": "Naidenoff",
+		"nombre": "Luis"
+	}, {
+		"apellido": "Fiad",
+		"nombre": "Mario"
+	}, {
+		"apellido": "Schiavoni",
+		"nombre": "Humberto"
+	}, {
+		"apellido": "Durand Cornejo",
+		"nombre": "Guillermo"
+	}, {
+		"apellido": "Rached",
+		"nombre": "Emilio"
+	}, {
+		"apellido": "Brizuela",
+		"nombre": "Eduardo"
+	}, {
+		"apellido": "Shlereth",
+		"nombre": "David"
+	}, {
+		"apellido": "Torroba",
+		"nombre": "Francisco"
+	}, {
+		"apellido": "Sartor",
+		"nombre": "Daniel"
+	}, {
+		"apellido": "Costa",
+		"nombre": "Eduardo"
+	}, {
+		"apellido": "Menna",
+		"nombre": "Gustavo"
+	}, {
+		"apellido": "Stefani",
+		"nombre": "Hector"
 	}]
 }]

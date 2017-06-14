@@ -1,0 +1,16 @@
+[{
+	"boletaId": "123",
+	"candidatos": [{
+		"apellido": "Abraham",
+		"nombre": "Alejandro"
+	}, {
+		"apellido": "Aguilar",
+		"nombre": "Eduardo Alberto"
+	}, {
+		"apellido": "Bullrich",
+		"nombre": "Esteban"
+	}, {
+		"apellido": "Gorbea",
+		"nombre": "María Inés"
+	}]
+}]
