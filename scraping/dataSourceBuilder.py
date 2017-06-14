@@ -3,6 +3,7 @@ import base64
 import requests
 import io
 import unicodedata
+from modules import matcher
 import xml.etree.ElementTree as ET
 
 def main():
@@ -31,40 +32,40 @@ def process(boleta, source):
 
 def findInDiputados(candidate, sources):
 	results = []
-	for diputado in sources:
-		if(candidate["apellido"] == diputado["apellido"]):
+	for diputado in sources:		
+		if(matcher.match(candidate, diputado)):
 			diputado["imgAsb64"] = getImgAsBase64(diputado["img"])
 			results.append(diputado)
 	return results
 
 def findInSenadores(candidate, sources):
 	results = []
-	for senador in sources:
-		if(candidate["apellido"] in senador["nombre"]):
+	for senador in sources:		
+		if(matcher.match(candidate, senador)):
 			senador["imgAsb64"] = getImgAsBase64(senador["img"])
 			results.append(senador)
 	return results
 
 def findInTwitters(candidate, sources):
 	results = []
-	for twitter in sources:
-		if(candidate["apellido"] in twitter["nombre"]):
+	for twitter in sources:		
+		if(matcher.match(candidate, twitter)):
 			twitter["imgAsb64"] = getImgAsBase64(twitter["img"])
 			results.append(twitter)
 	return results
 
 def findInLegislaguraPorteniaActivos(candidate, sources):
 	results = []
-	for legisladorPortenio in sources:
-		if(candidate["apellido"] in legisladorPortenio["apellido"]):
+	for legisladorPortenio in sources:		
+		if(matcher.match(candidate, legisladorPortenio)):
 			legisladorPortenio["imgAsb64"] = getImgAsBase64(legisladorPortenio["img"])
 			results.append(legisladorPortenio)
 	return results
 
 def findInLegislaguraPorteniaHistoricos(candidate, sources):
 	results = []
-	for legisladorPortenio in sources:
-		if(normalize(candidate["apellido"]) in normalize(legisladorPortenio["apellido"])):
+	for legisladorPortenio in sources:		
+		if(matcher.match(candidate, legisladorPortenio)):
 			legisladorHistorico = findInfo(legisladorPortenio["id_legislador"])
 			#legisladorPortenio["imgAsb64"] = getImgAsBase64(legisladorPortenio["img"])
 			results.append(legisladorHistorico)
@@ -72,9 +73,6 @@ def findInLegislaguraPorteniaHistoricos(candidate, sources):
 
 def getImgAsBase64(url):
 	return base64.b64encode(requests.get(url).content)
-
-def normalize(string):
-	return unicodedata.normalize('NFKD', unicode(string)).encode('ASCII', 'ignore').lower()
 
 def findInfo(legisladorId):
 	content = makeRequest(legisladorId)
