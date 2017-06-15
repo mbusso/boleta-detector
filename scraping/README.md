@@ -13,7 +13,7 @@ http://votaciones.lanacion.com.ar/api/senadores/ranking/2015
 http://votaciones.lanacion.com.ar/api/senadores/ranking/2014
 
 ------LEGISLADORES PROVINCIALES
-Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php
+
 Rio negro: http://www.legisrn.gov.ar/LEGISCON/poralfabetowp.php Faltan fotos
 Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php
 Chubut: http://www.legischubut2.gov.ar/index.php?option=com_content&view=article&id=1254&Itemid=171 (Diputados)
@@ -28,6 +28,7 @@ San Juan (Diputados) http://www.legislaturasanjuan.gob.ar/cuerpo-legislativo/dip
 
 DONE
 Cordoba: http://www.legiscba.gob.ar/legisladores/
+Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php
 
 <cantidad_exptes_autor>283</cantidad_exptes_autor> autor de proyecti
 <cantidad_exptes_coautor>101</cantidad_exptes_coautor> coauotur de proyectos
