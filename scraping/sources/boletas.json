@@ -1,67 +1,5512 @@
-[{
-	"boletaId": "123",
-	"candidatos": [{
-		"apellido": "Baldassi",
-		"nombre": "Hector"
-	}, {
-		"apellido": "Cantard",
-		"nombre": "Albor"
-	}, {
-		"apellido": "Abed",
-		"nombre": "Mario"
-	}, {
-		"apellido": "Cano",
-		"nombre": "Jose"
-	}, {
-		"apellido": "Benedetti",
-		"nombre": "Atilio"
-	}, {
-		"apellido": "Ayala",
-		"nombre": "Aida"
-	}, {
-		"apellido": "Poggi",
-		"nombre": "Claudio"
-	}, {
-		"apellido": "Basualdo",
-		"nombre": "Roberto"
-	}, {
-		"apellido": "Martinez",
-		"nombre": "Julio"
-	}, {
-		"apellido": "Naidenoff",
-		"nombre": "Luis"
-	}, {
-		"apellido": "Fiad",
-		"nombre": "Mario"
-	}, {
-		"apellido": "Schiavoni",
-		"nombre": "Humberto"
-	}, {
-		"apellido": "Durand Cornejo",
-		"nombre": "Guillermo"
-	}, {
-		"apellido": "Rached",
-		"nombre": "Emilio"
-	}, {
-		"apellido": "Brizuela",
-		"nombre": "Eduardo"
-	}, {
-		"apellido": "Shlereth",
-		"nombre": "David"
-	}, {
-		"apellido": "Torroba",
-		"nombre": "Francisco"
-	}, {
-		"apellido": "Sartor",
-		"nombre": "Daniel"
-	}, {
-		"apellido": "Costa",
-		"nombre": "Eduardo"
-	}, {
-		"apellido": "Menna",
-		"nombre": "Gustavo"
-	}, {
-		"apellido": "Stefani",
-		"nombre": "Hector"
-	}]
-}]
+{
+  "": [
+    {
+      "apellido": "Juri",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "",
+      "banca": "",
+      "nombre": "Cecilia",
+      "distrito": ""
+    },
+    {
+      "apellido": "Giménez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "",
+      "banca": "",
+      "nombre": "Omar",
+      "distrito": ""
+    }
+  ],
+  "Partido Federal Fueguino": [
+    {
+      "apellido": "Fadul",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Federal Fueguino",
+      "banca": "DIP",
+      "nombre": "Liliana",
+      "distrito": "Tierra del Fuego"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Federal Fueguino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Tierra del Fuego"
+    }
+  ],
+  "Frente Córdoba Ciudadana": [
+    {
+      "apellido": "Carro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/carro.png",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Pablo",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Fernández",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": " Eduardo",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Córdoba Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    }
+  ],
+  "ECO Cambiemos": [
+    {
+      "apellido": "Regidor",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/regidor.png",
+      "partido": "ECO Cambiemos",
+      "banca": "DIP",
+      "nombre": "Estela",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Brambilla",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "ECO Cambiemos",
+      "banca": "DIP",
+      "nombre": "Sofía",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Revidatti",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "ECO Cambiemos",
+      "banca": "DIP",
+      "nombre": "Alfredo ",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Almirón",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "ECO Cambiemos",
+      "banca": "DIP",
+      "nombre": "Lisandro",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Carballo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "ECO Cambiemos",
+      "banca": "DIP",
+      "nombre": "Natalia",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Novinscky",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "ECO Cambiemos",
+      "banca": "DIP",
+      "nombre": "M. ",
+      "distrito": "Corrientes"
+    }
+  ],
+  "Unidad Ciudadana": [
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    }
+  ],
+  "Frente Ciudadano y Social": [
+    {
+      "apellido": "Pérez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Ciudadano y Social",
+      "banca": "DIP",
+      "nombre": "Martín ",
+      "distrito": "Tierra del Fuego"
+    },
+    {
+      "apellido": "Yutrovic",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Ciudadano y Social",
+      "banca": "DIP",
+      "nombre": "Carolina",
+      "distrito": "Tierra del Fuego"
+    }
+  ],
+  "PJ-FPV": [
+    {
+      "apellido": "Mayans",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/mayans.png",
+      "partido": "PJ-FPV",
+      "banca": "SEN",
+      "nombre": "José",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "González",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ-FPV",
+      "banca": "SEN",
+      "nombre": "Teresa",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "Saramago",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ-FPV",
+      "banca": "DIP",
+      "nombre": "Agustín ",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ-FPV",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Formosa"
+    }
+  ],
+  "Frente Cívico ": [
+    {
+      "apellido": "Ledesma",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ledesma.png",
+      "partido": "Frente Cívico ",
+      "banca": "DIP",
+      "nombre": "C. ",
+      "distrito": "Santiago del Estero"
+    },
+    {
+      "apellido": "Abdala",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Cívico ",
+      "banca": "DIP",
+      "nombre": "Norma",
+      "distrito": "Santiago del Estero"
+    },
+    {
+      "apellido": "Infante",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Cívico ",
+      "banca": "DIP",
+      "nombre": "Hugo ",
+      "distrito": "Santiago del Estero"
+    }
+  ],
+  "Vamos Juntos (Cambiemos)": [
+    {
+      "apellido": "Carrió",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/carrio.png",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Elisa",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Polledo ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Carmen",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Iglesias",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Fernando",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "López",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Juan Manuel ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Olivetto",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Paula",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "García",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Alejandra",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Suárez Lastra",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Facundo",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Picetti",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Joanna",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Enríquez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Jorge",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Holzman",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Patricia ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Giustinian",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Agustín ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Vamos Juntos (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "",
+      "distrito": "CABA"
+    }
+  ],
+  "Frente Todos (PJ)": [
+    {
+      "apellido": "Uñac",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/unac.png",
+      "partido": "Frente Todos (PJ)",
+      "banca": "SEN",
+      "nombre": "Rubén",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "López",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Todos (PJ)",
+      "banca": "SEN",
+      "nombre": "Cristina ",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Allende",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Todos (PJ)",
+      "banca": "DIP",
+      "nombre": "Walberto",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Todos (PJ)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Todos (PJ)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    }
+  ],
+  "FIT": [
+    {
+      "apellido": "Pitrola",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/pitrola.png",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "Néstor",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "D' Atri",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "2 - Andrea",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Del Caño",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/delCanio.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Nicolás",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Del Plá",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/delPla.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Romina ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Giordano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Juan ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Castillo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Cristian ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Cabrera",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Daiana",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Shlotawer",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Mónica ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Ramal",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ramal.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Marcelo ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Marrone",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Laura ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Del Corro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Patricio",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Ma. del Carmen",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Verdú",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Olivero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Liliana",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Musso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Javier",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Crivaro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Octavio",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Signa",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": " Jorgelina",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Sansevich",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Sebastián",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Barbeito",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/barbeito.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Noelia",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "Sosa",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Soledad ",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "Del Plá",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "Miguel",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Ramos",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "Élida",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Latini",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Omar",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Gastón",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/remy.png",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "Remy",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Vilca",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/vilca.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Alejandro",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "López",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/lopez.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Pablo",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Planes",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Daniela",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Quintana",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "julio",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Servin",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/servin.png",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "Fabián",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "SEN",
+      "nombre": "Falta",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "Coronel",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Natalia",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "García",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/garcia.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Juan",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Salas",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Samanta ",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Osatinsky",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/osatinsky.png",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Ariel",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Arreguez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Alejandra ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Veliz",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Juan Luis",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Grassino",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Raquel ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Gómez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Johana",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Lupardo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Claudia",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Falta ",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Dardik",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Norma",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Carrasco",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FIT",
+      "banca": "DIP",
+      "nombre": "Cecilia ",
+      "distrito": "Río Negro "
+    }
+  ],
+  "Somos": [
+    {
+      "apellido": "Montero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Liliana",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": " Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    }
+  ],
+  "Fte. Amplio Formoseño (Cambiemos)": [
+    {
+      "apellido": "Naidenoff",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/naidenoff.png",
+      "partido": "Fte. Amplio Formoseño (Cambiemos)",
+      "banca": "SEN",
+      "nombre": "Luis",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "Piombino",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fte. Amplio Formoseño (Cambiemos)",
+      "banca": "SEN",
+      "nombre": "Elena",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "Arce",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fte. Amplio Formoseño (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Mario",
+      "distrito": "Formosa"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fte. Amplio Formoseño (Cambiemos)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Formosa"
+    }
+  ],
+  "Frente Social y Popular": [
+    {
+      "apellido": "Del Frade",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Carlos",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": " Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Social y Popular",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    }
+  ],
+  "1 País": [
+    {
+      "apellido": "Massa",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/massa.png",
+      "partido": "1 País",
+      "banca": "SEN",
+      "nombre": "Sergio",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Stolbizer",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/stolbizer.png",
+      "partido": "1 País",
+      "banca": "SEN",
+      "nombre": "Margarita",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Solá",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/sola.png",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Felipe",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Tundis",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Mirta",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Arroyo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/arroyo.png",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Daniel ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Jorge ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Sarghini",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Tombolini",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/tombolini.png",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Matías ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Arietto",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Florencia",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Vivanco",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Raquel ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    }
+  ],
+  "Frente Unidad Justicialista": [
+    {
+      "apellido": "Rodríguez Saá",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/saa.png",
+      "partido": "Frente Unidad Justicialista",
+      "banca": "SEN",
+      "nombre": "Adolfo",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Catalfamo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Justicialista",
+      "banca": "SEN",
+      "nombre": "María",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Alume",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Justicialista",
+      "banca": "DIP",
+      "nombre": "Karim",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    }
+  ],
+  "Chaco Merece Más": [
+    {
+      "apellido": "Pértile",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/pertile.png",
+      "partido": "Chaco Merece Más",
+      "banca": "DIP",
+      "nombre": "Elda ",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Mosqueda",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Chaco Merece Más",
+      "banca": "DIP",
+      "nombre": "Juan ",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Martínez Campos",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Chaco Merece Más",
+      "banca": "DIP",
+      "nombre": "Gustavo ",
+      "distrito": "Chaco"
+    }
+  ],
+  "Frente Progresista": [
+    {
+      "apellido": "Contigiani",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/contigiani.png",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Luis",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Bastía",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": " Fabián",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Ciciliani",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Alicia",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Cándido",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Juan Cruz",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    }
+  ],
+  "Unir TDF": [
+    {
+      "apellido": "Sciurano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unir TDF",
+      "banca": "DIP",
+      "nombre": "Federico",
+      "distrito": "Tierra del Fuego"
+    },
+    {
+      "apellido": "Boyadjián",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unir TDF",
+      "banca": "DIP",
+      "nombre": "Miriam",
+      "distrito": "Tierra del Fuego"
+    }
+  ],
+  "Un nuevo País": [
+    {
+      "apellido": "Pardo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Un nuevo País",
+      "banca": "DIP",
+      "nombre": "Ricardo",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Lezcano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Un nuevo País",
+      "banca": "DIP",
+      "nombre": "Patricia",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Monge",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Un nuevo País",
+      "banca": "DIP",
+      "nombre": "Mónica ",
+      "distrito": "Chaco"
+    }
+  ],
+  "Frente Tierra de Unión": [
+    {
+      "apellido": "Colazo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/colazo.png",
+      "partido": "Frente Tierra de Unión",
+      "banca": "DIP",
+      "nombre": "Laura ",
+      "distrito": "Tierra del Fuego"
+    },
+    {
+      "apellido": "Vázquez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Tierra de Unión",
+      "banca": "DIP",
+      "nombre": "Luis",
+      "distrito": "Tierra del Fuego"
+    }
+  ],
+  "Cambiemos San Juan": [
+    {
+      "apellido": "Basualdo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/basualdo.png",
+      "partido": "Cambiemos San Juan",
+      "banca": "SEN",
+      "nombre": "Roberto",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Laciar",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "SEN",
+      "nombre": "Susana",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Rodríguez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "SEN",
+      "nombre": "Carlos ",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "SEN",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Cáceres",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "DIP",
+      "nombre": "Eduardo",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Martinazzo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "DIP",
+      "nombre": "Gimena",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Sánchez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "DIP",
+      "nombre": "Alberto",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos San Juan",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    }
+  ],
+  "Primero Mendoza ": [
+    {
+      "apellido": "Cousinet",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Primero Mendoza ",
+      "banca": "DIP",
+      "nombre": "Graciela",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Primero Mendoza ",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Primero Mendoza ",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Primero Mendoza ",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Primero Mendoza ",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    }
+  ],
+  "Unión por Córdoba": [
+    {
+      "apellido": "Llaryora",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/llaryora.png",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Martín ",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Vigo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Alejandra",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión por Córdoba",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    }
+  ],
+  "Alternativa Popular Riojana": [
+    {
+      "apellido": "Deleonardi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Alternativa Popular Riojana",
+      "banca": "SEN",
+      "nombre": "Rogelio",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Pes",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Alternativa Popular Riojana",
+      "banca": "SEN",
+      "nombre": "María Emilia",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Moreno",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Alternativa Popular Riojana",
+      "banca": "DIP",
+      "nombre": "Gustavo Nicolás ",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Martínez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Alternativa Popular Riojana",
+      "banca": "DIP",
+      "nombre": "Beatriz del Valle ",
+      "distrito": "La Rioja"
+    }
+  ],
+  "Juntos Podemos Más (PJ)": [
+    {
+      "apellido": "Romero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/romero.png",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Jorge",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Castillo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Norma",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Dominguez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Lalo",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Rodriguez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Ángel",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Caruso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Lilian",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Moliné",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Alfredo",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Caram",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Daniel",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Miranda",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Elvira ",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Gimenez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Arturo",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Payes",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Agustín",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Alegre",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Sara",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Abib",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Podemos Más (PJ)",
+      "banca": "DIP",
+      "nombre": "Marcelo ",
+      "distrito": "Corrientes"
+    }
+  ],
+  "Unión para Vivir Mejor Cambiemos": [
+    {
+      "apellido": "Costa",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/costa.png",
+      "partido": "Unión para Vivir Mejor Cambiemos",
+      "banca": "SEN",
+      "nombre": "Eduardo ",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Tapia",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión para Vivir Mejor Cambiemos",
+      "banca": "SEN",
+      "nombre": "M. Belén",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Reyes",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión para Vivir Mejor Cambiemos",
+      "banca": "DIP",
+      "nombre": "Roxana",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Carambia",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión para Vivir Mejor Cambiemos",
+      "banca": "DIP",
+      "nombre": "Antonio ",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Bhem",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unión para Vivir Mejor Cambiemos",
+      "banca": "DIP",
+      "nombre": "Ernesto",
+      "distrito": "Santa Cruz"
+    }
+  ],
+  "Somos Entre Ríos (PJ)": [
+    {
+      "apellido": "Bahillo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/bahillo.png",
+      "partido": "Somos Entre Ríos (PJ)",
+      "banca": "DIP",
+      "nombre": "José",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Cresto",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Entre Ríos (PJ)",
+      "banca": "DIP",
+      "nombre": "Mayda",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Gustavo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Entre Ríos (PJ)",
+      "banca": "DIP",
+      "nombre": "Zavallo",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Gaillard",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Entre Ríos (PJ)",
+      "banca": "DIP",
+      "nombre": "Ana Carolina",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Gieco ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Entre Ríos (PJ)",
+      "banca": "DIP",
+      "nombre": "Claudia ",
+      "distrito": "Entre Ríos"
+    }
+  ],
+  "Convocatoria Abierta por Buenos Aires": [
+    {
+      "apellido": "Lozano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/lozano.png",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Claudio",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Argumedo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/argumedo.png",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Alcira",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Convocatoria Abierta por Buenos Aires",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    }
+  ],
+  "PJ": [
+    {
+      "apellido": "Randazzo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/randazzo.png",
+      "partido": "PJ",
+      "banca": "SEN",
+      "nombre": "F.",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Casamiquela",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ",
+      "banca": "SEN",
+      "nombre": "F.",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Yañez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/yanez2.png",
+      "partido": "PJ",
+      "banca": "SEN",
+      "nombre": "Gastón",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Bucca",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/bucca.png",
+      "partido": "PJ",
+      "banca": "DIP",
+      "nombre": "Eduardo",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Abal Medina",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ",
+      "banca": "DIP",
+      "nombre": "J. Manuel",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Zamarreño",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ",
+      "banca": "DIP",
+      "nombre": "Eugenia",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Romero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ",
+      "banca": "DIP",
+      "nombre": "Sergio",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Sain",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ",
+      "banca": "DIP",
+      "nombre": "Marcelo",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Bianchi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/bianchi.png",
+      "partido": "PJ",
+      "banca": "DIP",
+      "nombre": " Marcela",
+      "distrito": "Buenos Aires"
+    }
+  ],
+  "Frente Popular para la Liberación": [
+    {
+      "apellido": "Falú",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Popular para la Liberación",
+      "banca": "DIP",
+      "nombre": "Edmundo",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Popular para la Liberación",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Popular para la Liberación",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Salta"
+    }
+  ],
+  "Salta Somos Todos": [
+    {
+      "apellido": "Zapata",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Salta Somos Todos",
+      "banca": "DIP",
+      "nombre": "Carlos",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Lazarte",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Salta Somos Todos",
+      "banca": "DIP",
+      "nombre": "Andrea",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Salta Somos Todos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Salta"
+    }
+  ],
+  "Frente Progresista Pampeano ": [
+    {
+      "apellido": "Solana ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/solana.png",
+      "partido": "Frente Progresista Pampeano ",
+      "banca": "DIP",
+      "nombre": "Luis",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Rolheiser",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista Pampeano ",
+      "banca": "DIP",
+      "nombre": "Leandra",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Rolero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista Pampeano ",
+      "banca": "DIP",
+      "nombre": "Carlos",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Passo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista Pampeano ",
+      "banca": "DIP",
+      "nombre": "Juan Carlos",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Sastre",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista Pampeano ",
+      "banca": "DIP",
+      "nombre": "Jimena",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Piazza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista Pampeano ",
+      "banca": "DIP",
+      "nombre": "Marcelo ",
+      "distrito": "La Pampa "
+    }
+  ],
+  "Frente Justicialista ": [
+    {
+      "apellido": "Vitar",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "José",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Weiss",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Ethel",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Cabral",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Hugo",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Hyon",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Pablo ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Jaldo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/jaldo.png",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Osvaldo ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Medina",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Gladys",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Yedlin",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Pablo",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Mendoza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Sandra ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Alberdi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Luis R.",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Leguizamón",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Mercedes",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Pérez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Gustavo ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Reales",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista ",
+      "banca": "DIP",
+      "nombre": "Felisa ",
+      "distrito": "Tucumán"
+    }
+  ],
+  "Partido Humanista": [
+    {
+      "apellido": "Baqué",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/baque.png",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Pablo",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Humanista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    }
+  ],
+  "Izquierda": [
+    {
+      "apellido": "Burgos",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda",
+      "banca": "DIP",
+      "nombre": "Nadia",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Meiners",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda",
+      "banca": "DIP",
+      "nombre": "Luis",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Geist",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda",
+      "banca": "DIP",
+      "nombre": "Gabriel Alfredo ",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Valdez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda",
+      "banca": "DIP",
+      "nombre": "Marianela",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Romero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda",
+      "banca": "DIP",
+      "nombre": "Víctor ",
+      "distrito": "Entre Ríos"
+    }
+  ],
+  "Juntos Somos Río Negro ": [
+    {
+      "apellido": "Gatti",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Somos Río Negro ",
+      "banca": "DIP",
+      "nombre": "Fabián",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Balseiro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Juntos Somos Río Negro ",
+      "banca": "DIP",
+      "nombre": "Mónica ",
+      "distrito": "Río Negro "
+    }
+  ],
+  "Izquierda al frente": [
+    {
+      "apellido": "Ripoll",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ripoll.png",
+      "partido": "Izquierda al frente",
+      "banca": "SEN",
+      "nombre": "Vilma ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Heberling",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/heberling.png",
+      "partido": "Izquierda al frente",
+      "banca": "SEN",
+      "nombre": "Héctor",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Castañeira",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/castaneira.png",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Manuela ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Pacagnini",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Guillermo",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Alonso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Marina",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Fernández",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Tania",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Ayala",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Jorge ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Bodart",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/bodart.png",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Alejandro",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Hidalgo Robles",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/hidalgoRobles.png",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Marina",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Latorre",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "César",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Doudtchitzky",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Marcos ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Salgueiro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Florencia",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Zadunaisky",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Inés",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Tzanoff",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Rubén",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Muñoz",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Violeta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Castro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Oscar",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Lopes",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "10-Maru",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Quinteros",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Eduardo",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Guaraz",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Omar",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Ferrario",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Noelia",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Echeverría",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Luciana",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Mulhall",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": " Eduardo",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Gómez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Raúl",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Di Santi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Julia",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Acosta",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Maru",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Igarzabal",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Majo",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Vacchini",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Gastón",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Roman",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Walter",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Lanza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Eduardo",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Poliak",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "SEN",
+      "nombre": "Emilio",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Nauto",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "SEN",
+      "nombre": "Paula ",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Nauto",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Gustavo",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Aguilar",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Paola",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Morales",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Leonardo",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Carciones",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Martín",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Meza Arroyo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Ximena ",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Otton",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al frente",
+      "banca": "DIP",
+      "nombre": "Prisciola",
+      "distrito": "Neuquén"
+    }
+  ],
+  "Una Rioja (massismo)": [
+    {
+      "apellido": "Bordagaray",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Una Rioja (massismo)",
+      "banca": "DIP",
+      "nombre": "Ismael",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Romero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Una Rioja (massismo)",
+      "banca": "DIP",
+      "nombre": "Lita",
+      "distrito": "La Rioja"
+    }
+  ],
+  "Unidad porteña (FPV/PJ)": [
+    {
+      "apellido": "Filmus",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/filmus.png",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Daniel",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Cerruti",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Gabriela",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Cabandié",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/cabandie.png",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Juan ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Heller",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Carlos",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Marziotta ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Gisela",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "López",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Gustavo ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Hagman",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/hagman.png",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Itaí",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Moreno",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/moreno.png",
+      "partido": "Unidad porteña (FPV/PJ)",
+      "banca": "DIP",
+      "nombre": "Guillermo",
+      "distrito": "CABA"
+    }
+  ],
+  "Frente Cívico y Social Cambiemos": [
+    {
+      "apellido": "Brizuela del Moral",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/delMoral.png",
+      "partido": "Frente Cívico y Social Cambiemos",
+      "banca": "DIP",
+      "nombre": "Eduardo",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Cívico y Social Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Cívico y Social Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    }
+  ],
+  "Movimiento Popular Neuquino ": [
+    {
+      "apellido": "Sapag ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/sapag.png",
+      "partido": "Movimiento Popular Neuquino ",
+      "banca": "DIP",
+      "nombre": "Alma",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Lammel",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Movimiento Popular Neuquino ",
+      "banca": "DIP",
+      "nombre": "Adripan",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Caruso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Movimiento Popular Neuquino ",
+      "banca": "DIP",
+      "nombre": "Guillermo ",
+      "distrito": "Neuquén"
+    }
+  ],
+  "Frente Ciudadano para la Victoria": [
+    {
+      "apellido": "Leavy",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Ciudadano para la Victoria",
+      "banca": "DIP",
+      "nombre": "1 - Sergio",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Giménez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Ciudadano para la Victoria",
+      "banca": "DIP",
+      "nombre": "Nora",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Ameri",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Ciudadano para la Victoria",
+      "banca": "DIP",
+      "nombre": "Juan",
+      "distrito": "Salta"
+    }
+  ],
+  "Izquierda al Frente por el Socialismo": [
+    {
+      "apellido": "Vázquez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente por el Socialismo",
+      "banca": "DIP",
+      "nombre": "Aurelio",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Fierro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente por el Socialismo",
+      "banca": "DIP",
+      "nombre": "Celeste ",
+      "distrito": "Río Negro "
+    }
+  ],
+  "Frente Unidad y Renovación (PJ)": [
+    {
+      "apellido": "Escudero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/escudero.png",
+      "partido": "Frente Unidad y Renovación (PJ)",
+      "banca": "DIP",
+      "nombre": "Sonia",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Posadas",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad y Renovación (PJ)",
+      "banca": "DIP",
+      "nombre": "Matías",
+      "distrito": "Salta"
+    },
+    {
+      "apellido": "Andrés",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad y Renovación (PJ)",
+      "banca": "DIP",
+      "nombre": "Zottos",
+      "distrito": "Salta"
+    }
+  ],
+  "Somos San Juan 1País": [
+    {
+      "apellido": "Ibarra",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ibarra.png",
+      "partido": "Somos San Juan 1País",
+      "banca": "SEN",
+      "nombre": "Mauricio",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Peñaloza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos San Juan 1País",
+      "banca": "SEN",
+      "nombre": "Florencia ",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Munisaga",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos San Juan 1País",
+      "banca": "DIP",
+      "nombre": "Carlos",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos San Juan 1País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos San Juan 1País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    }
+  ],
+  "Movimiento Socialista de los Trabajadores ": [
+    {
+      "apellido": "Albertein",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Movimiento Socialista de los Trabajadores ",
+      "banca": "DIP",
+      "nombre": "Clarisa Lita",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Paliza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Movimiento Socialista de los Trabajadores ",
+      "banca": "DIP",
+      "nombre": "Ángel ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Sanches",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Movimiento Socialista de los Trabajadores ",
+      "banca": "DIP",
+      "nombre": "Blas",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Bilte",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Movimiento Socialista de los Trabajadores ",
+      "banca": "DIP",
+      "nombre": "Luciana ",
+      "distrito": "Tucumán"
+    }
+  ],
+  "Sur en Marcha (Proyecto Sur)": [
+    {
+      "apellido": "Viale",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/viale.png",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Enrique",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Solanas",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/solanas.png",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Damián ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Sur en Marcha (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    }
+  ],
+  "Avancemos ": [
+    {
+      "apellido": "Velázquez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/velazquez.png",
+      "partido": "Avancemos ",
+      "banca": "SEN",
+      "nombre": "Adolfo",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Silva",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avancemos ",
+      "banca": "SEN",
+      "nombre": "Numy",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Losada",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avancemos ",
+      "banca": "DIP",
+      "nombre": "1-María",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Alvarenga",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avancemos ",
+      "banca": "DIP",
+      "nombre": "Gustavo ",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avancemos ",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Misiones"
+    }
+  ],
+  "Frente Chubut Para Todos": [
+    {
+      "apellido": "Arcioni",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/arcioni.png",
+      "partido": "Frente Chubut Para Todos",
+      "banca": "DIP",
+      "nombre": "Mariano",
+      "distrito": "Chubut"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Chubut Para Todos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Chubut"
+    }
+  ],
+  "Fte Renovador de la Concordia Social": [
+    {
+      "apellido": "Closs",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/closs.png",
+      "partido": "Fte Renovador de la Concordia Social",
+      "banca": "SEN",
+      "nombre": "Maurice",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Solari",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fte Renovador de la Concordia Social",
+      "banca": "SEN",
+      "nombre": "Magdalena ",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Ricardo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fte Renovador de la Concordia Social",
+      "banca": "DIP",
+      "nombre": "Wellbach",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Morales",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fte Renovador de la Concordia Social",
+      "banca": "DIP",
+      "nombre": "Flavia",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Proscopio",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fte Renovador de la Concordia Social",
+      "banca": "DIP",
+      "nombre": "Marcelo ",
+      "distrito": "Misiones"
+    }
+  ],
+  "Somos Mendoza (PJ)": [
+    {
+      "apellido": "Félix",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/felix.png",
+      "partido": "Somos Mendoza (PJ)",
+      "banca": "DIP",
+      "nombre": "Omar",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "Tanús",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/tanus.png",
+      "partido": "Somos Mendoza (PJ)",
+      "banca": "DIP",
+      "nombre": "Jorge",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "Jofré",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Mendoza (PJ)",
+      "banca": "DIP",
+      "nombre": "Juan Miguel",
+      "distrito": "Mendoza"
+    }
+  ],
+  "Frente Progresista San Juan": [
+    {
+      "apellido": "Kuchen ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista San Juan",
+      "banca": "SEN",
+      "nombre": "Benjamín",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista San Juan",
+      "banca": "SEN",
+      "nombre": "Falta",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Agüero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista San Juan",
+      "banca": "DIP",
+      "nombre": "Alberto",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Valle",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista San Juan",
+      "banca": "DIP",
+      "nombre": "Vanesa",
+      "distrito": "San Juan"
+    },
+    {
+      "apellido": "Quiroga",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Progresista San Juan",
+      "banca": "DIP",
+      "nombre": "Julia",
+      "distrito": "San Juan"
+    }
+  ],
+  "Frente Amplio Tucumano": [
+    {
+      "apellido": "Koltan",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Amplio Tucumano",
+      "banca": "DIP",
+      "nombre": "Mario",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Alsogaray",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Amplio Tucumano",
+      "banca": "DIP",
+      "nombre": "Joana",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Vega ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Amplio Tucumano",
+      "banca": "DIP",
+      "nombre": "Sebastián",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Ruiz",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Amplio Tucumano",
+      "banca": "DIP",
+      "nombre": "Vicente ",
+      "distrito": "Tucumán"
+    }
+  ],
+  "Frente Unidad Ciudadana": [
+    {
+      "apellido": "Bolatti",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Fabricio",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Marolo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Lilián",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Maciel",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Carlos ",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Martínez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Darío",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Unidad Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Neuquén"
+    }
+  ],
+  "Frente Socialista y Popular": [
+    {
+      "apellido": "De Gennaro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/deGennaro.png",
+      "partido": "Frente Socialista y Popular",
+      "banca": "SEN",
+      "nombre": "Víctor ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Troiano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/troiano.png",
+      "partido": "Frente Socialista y Popular",
+      "banca": "SEN",
+      "nombre": "Gabriela ",
+      "distrito": "Buenos Aires"
+    }
+  ],
+  "Cambiemos": [
+    {
+      "apellido": "Bullrich",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/bullrich.png",
+      "partido": "Cambiemos",
+      "banca": "SEN",
+      "nombre": "Esteban",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "González",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/gonzalez.png",
+      "partido": "Cambiemos",
+      "banca": "SEN",
+      "nombre": "Gladys ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Ocaña",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ocania.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Graciela ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Flores",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/flores.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Héctor ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Montenegro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/montenegro.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Guillermo",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Campagnoli",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/flores.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Marcela",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Quetglas",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Fabio",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Baldassi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/baldassi.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Héctor",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Carrizo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Soledad",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Frizza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Gabriel",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Austin",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Brenda",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Mestre",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Diego",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Córdoba"
+    },
+    {
+      "apellido": "Cantard",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/cantard.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Albor",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Laspina",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": " Luciano",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Lehman",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Lucila",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Boasso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/boasso.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Jorge",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Larriera",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Inés",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Marconi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Roberto",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Najul ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/najul.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "1 - Claudia",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "Petri",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": " Luis",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "Ayala",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ayala.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Aída",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Terada",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/terada.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Alicia",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Blasco",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Ernesto ",
+      "distrito": "Chaco"
+    },
+    {
+      "apellido": "Rached",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/rached.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Emilio",
+      "distrito": "Santiago del Estero"
+    },
+    {
+      "apellido": "Neme",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Natalia",
+      "distrito": "Santiago del Estero"
+    },
+    {
+      "apellido": "Gallardo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Miguel",
+      "distrito": "Santiago del Estero"
+    },
+    {
+      "apellido": "Benedetti",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/benedetti.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Atilio",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Fregonese",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Alicia",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Lacoste",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Jorge ",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Toler",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Mario",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Cabrol",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Cynthia ",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Schiavoni",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/schiavoni.png",
+      "partido": "Cambiemos",
+      "banca": "SEN",
+      "nombre": "H.",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Cardozo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "SEN",
+      "nombre": "Cintia ",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Pastori",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Luis",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Szyszko",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Gabriela",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Jaquet",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Mariana ",
+      "distrito": "Misiones"
+    },
+    {
+      "apellido": "Martínez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/martinez.png",
+      "partido": "Cambiemos",
+      "banca": "SEN",
+      "nombre": "Julio",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Brizuela y Doria",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "SEN",
+      "nombre": "Olga ",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Sahad",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Julio_",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Vega",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Clara",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Torroba",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/torroba.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Francisco ",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta ",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Berhongaray",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Martín",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta ",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Maquieyra",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Martín ",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta ",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Matzen",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/matzen.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Lorena",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Capozzi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Sergio ",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Menna",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/menna.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Gustavo",
+      "distrito": "Chubut"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Chubut"
+    },
+    {
+      "apellido": "Schlereth",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/schlereth.png",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "David",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Carrazco",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Susana",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Scrigner",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos",
+      "banca": "DIP",
+      "nombre": "Paola",
+      "distrito": "Neuquén"
+    }
+  ],
+  "Evolución Ciudadana": [
+    {
+      "apellido": "Lousteau",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/lousteau.png",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Martín ",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Carrizo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/carrizo.png",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Carla",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Lamadrid",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Álvaro",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "Genovesi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Mariano",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Evolución Ciudadana",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "CABA"
+    }
+  ],
+  "Unidad Ciudadana (FPV)": [
+    {
+      "apellido": "Kirchner",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/kirchner.png",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "SEN",
+      "nombre": "Cristina",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Taiana",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "SEN",
+      "nombre": "Jorge",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Vallejos",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/vallejos3.png",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "DIP",
+      "nombre": "Fernanda",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Salvarezza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "DIP",
+      "nombre": "Roberto",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Espinoza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "DIP",
+      "nombre": "Fernando",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Siley",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ditulio.png",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "DIP",
+      "nombre": "Vanesa",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Scioli",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "DIP",
+      "nombre": "Daniel",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Hugo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Ciudadana (FPV)",
+      "banca": "DIP",
+      "nombre": "Yasky",
+      "distrito": "Buenos Aires"
+    }
+  ],
+  "Cambiemos por Salta": [
+    {
+      "apellido": "Grande",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/grande.png",
+      "partido": "Cambiemos por Salta",
+      "banca": "DIP",
+      "nombre": "Martín",
+      "distrito": "Salta"
+    }
+  ],
+  "Somos Catamarca": [
+    {
+      "apellido": "Jalil",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Catamarca",
+      "banca": "DIP",
+      "nombre": "Fernando",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Catamarca",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Catamarca",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    }
+  ],
+  "Izquierda al Frente": [
+    {
+      "apellido": "Ruiz",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "SEN",
+      "nombre": "Víctor",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "SEN",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Gallardo Muñoz",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "DIP",
+      "nombre": "Ítalo",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "SEN",
+      "nombre": "Falta",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "SEN",
+      "nombre": "Falta",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Izquierda al Frente",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "La Rioja"
+    }
+  ],
+  "Frente de Centro Izquierda ": [
+    {
+      "apellido": "Martinez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Centro Izquierda ",
+      "banca": "DIP",
+      "nombre": "Emilio",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Magni",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Centro Izquierda ",
+      "banca": "DIP",
+      "nombre": "Verónica ",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Haddad",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Centro Izquierda ",
+      "banca": "DIP",
+      "nombre": "Marcelo ",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Vera",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Centro Izquierda ",
+      "banca": "DIP",
+      "nombre": "Daniela",
+      "distrito": "Entre Ríos"
+    },
+    {
+      "apellido": "Olivetti",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Centro Izquierda ",
+      "banca": "DIP",
+      "nombre": "Alberto ",
+      "distrito": "Entre Ríos"
+    }
+  ],
+  "Frente Justicialista": [
+    {
+      "apellido": "Fellner",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/fellner.png",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "Liliana ",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Rivarola",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "Rubén",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Snopek",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "Guillermo",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Miguel",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "Tito",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "SEN",
+      "nombre": "",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Mendietta",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Adrián",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Barrionuevo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Walter ",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    }
+  ],
+  "Fuerza Republicana": [
+    {
+      "apellido": "Bussi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fuerza Republicana",
+      "banca": "DIP",
+      "nombre": "Ricardo",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Pecci",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fuerza Republicana",
+      "banca": "DIP",
+      "nombre": "Nádima",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Huesen",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fuerza Republicana",
+      "banca": "DIP",
+      "nombre": "Gerardo ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Chávez ",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Fuerza Republicana",
+      "banca": "DIP",
+      "nombre": "Teresita ",
+      "distrito": "Tucumán"
+    }
+  ],
+  "Frente Justicialista para la Victoria": [
+    {
+      "apellido": "aredes.png",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista para la Victoria",
+      "banca": "DIP",
+      "nombre": "Ricardo",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista para la Victoria",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista para la Victoria",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Catamarca"
+    }
+  ],
+  "Encuentro por Mendoza": [
+    {
+      "apellido": "Ubaldini",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Encuentro por Mendoza",
+      "banca": "DIP",
+      "nombre": "María José",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Encuentro por Mendoza",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Encuentro por Mendoza",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Encuentro por Mendoza",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Encuentro por Mendoza",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Mendoza"
+    }
+  ],
+  "Somos Corrientes": [
+    {
+      "apellido": "Davicino",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Corrientes",
+      "banca": "DIP",
+      "nombre": "Eduardo",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Galarza López",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Corrientes",
+      "banca": "DIP",
+      "nombre": "S.",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "González",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Corrientes",
+      "banca": "DIP",
+      "nombre": "Gonzalo ",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "García Enciso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Corrientes",
+      "banca": "DIP",
+      "nombre": "J.E",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Gatii",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Corrientes",
+      "banca": "DIP",
+      "nombre": "Graciela",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Ayala",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Somos Corrientes",
+      "banca": "DIP",
+      "nombre": "Ramón",
+      "distrito": "Corrientes"
+    }
+  ],
+  "Unidad Popular": [
+    {
+      "apellido": "Martínez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Popular",
+      "banca": "DIP",
+      "nombre": "Oscar",
+      "distrito": "Tierra del Fuego"
+    },
+    {
+      "apellido": "Espinosa",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Unidad Popular",
+      "banca": "DIP",
+      "nombre": "Florencia",
+      "distrito": "Tierra del Fuego"
+    }
+  ],
+  "PJ-La Pampa ": [
+    {
+      "apellido": "Rauschenberger",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/rauschenberger.png",
+      "partido": "PJ-La Pampa ",
+      "banca": "DIP",
+      "nombre": "Ariel",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Delú",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ-La Pampa ",
+      "banca": "DIP",
+      "nombre": "Melina",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Robledo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "PJ-La Pampa ",
+      "banca": "DIP",
+      "nombre": "Franco ",
+      "distrito": "La Pampa "
+    }
+  ],
+  "Frente Renovador": [
+    {
+      "apellido": "Mirolo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/mirolo.png",
+      "partido": "Frente Renovador",
+      "banca": "DIP",
+      "nombre": "Pablo",
+      "distrito": "Santiago del Estero"
+    },
+    {
+      "apellido": "Nediani",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador",
+      "banca": "DIP",
+      "nombre": "Roger",
+      "distrito": "Santiago del Estero"
+    },
+    {
+      "apellido": "Griggio",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador",
+      "banca": "DIP",
+      "nombre": "Paola ",
+      "distrito": "Santiago del Estero"
+    }
+  ],
+  "Cambiemos para el Bicentenario": [
+    {
+      "apellido": "Cano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/cano.png",
+      "partido": "Cambiemos para el Bicentenario",
+      "banca": "DIP",
+      "nombre": "José",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Ávila de Alfaro",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos para el Bicentenario",
+      "banca": "DIP",
+      "nombre": "Beatriz",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Sánchez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos para el Bicentenario",
+      "banca": "DIP",
+      "nombre": "Roberto",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Colombres Garmendia",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos para el Bicentenario",
+      "banca": "DIP",
+      "nombre": "Alberto ",
+      "distrito": "Tucumán"
+    }
+  ],
+  "Iniciativa por la Unión": [
+    {
+      "apellido": "Rauch",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Iniciativa por la Unión",
+      "banca": "DIP",
+      "nombre": "Federico",
+      "distrito": "Tierra del Fuego"
+    },
+    {
+      "apellido": "Andino",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Iniciativa por la Unión",
+      "banca": "DIP",
+      "nombre": "Verónica ",
+      "distrito": "Tierra del Fuego"
+    }
+  ],
+  "Frente Creo (Proyecto Sur)": [
+    {
+      "apellido": "Solanas",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/pinosolanas.png",
+      "partido": "Frente Creo (Proyecto Sur)",
+      "banca": "SEN",
+      "nombre": "Pino ",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Pouso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/pousso2.png",
+      "partido": "Frente Creo (Proyecto Sur)",
+      "banca": "SEN",
+      "nombre": "Josefina",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Micheli",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/micheli.png",
+      "partido": "Frente Creo (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Pablo",
+      "distrito": "Buenos Aires"
+    },
+    {
+      "apellido": "Cafiero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/cafiero.png",
+      "partido": "Frente Creo (Proyecto Sur)",
+      "banca": "DIP",
+      "nombre": "Mario",
+      "distrito": "Buenos Aires"
+    }
+  ],
+  "Cambia Jujuy": [
+    {
+      "apellido": "Fiad",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/fiad.png",
+      "partido": "Cambia Jujuy",
+      "banca": "SEN",
+      "nombre": "Mario",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Giacoppo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambia Jujuy",
+      "banca": "SEN",
+      "nombre": "Silvia",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Burgos",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambia Jujuy",
+      "banca": "DIP",
+      "nombre": "Gabriela",
+      "distrito": "Jujuy"
+    }
+  ],
+  "Proyecto Sur": [
+    {
+      "apellido": "Peralta",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/peralta.png",
+      "partido": "Proyecto Sur",
+      "banca": "SEN",
+      "nombre": "Daniel",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Parejas",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Sur",
+      "banca": "SEN",
+      "nombre": "Ana María",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Pérez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Sur",
+      "banca": "DIP",
+      "nombre": "Osvaldo",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Andrade",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Sur",
+      "banca": "DIP",
+      "nombre": "Jenny",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Sur",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Cruz"
+    }
+  ],
+  "Proyecto Santafesino": [
+    {
+      "apellido": "Giuliano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/giuliano.png",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Diego",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": " Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Granata",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/granata.png",
+      "partido": "Proyecto Santafesino",
+      "banca": "DIP",
+      "nombre": "Amalia",
+      "distrito": "Santa Fe"
+    }
+  ],
+  "Avanzar Cambiemos": [
+    {
+      "apellido": "Poggi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/poggi.png",
+      "partido": "Avanzar Cambiemos",
+      "banca": "SEN",
+      "nombre": "Claudio",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "González Riollo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avanzar Cambiemos",
+      "banca": "SEN",
+      "nombre": "Gabriela",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Ricardo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avanzar Cambiemos",
+      "banca": "DIP",
+      "nombre": "José",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avanzar Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Avanzar Cambiemos",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "San Luis"
+    }
+  ],
+  "Frente Neuquino": [
+    {
+      "apellido": "Rioseco",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/rioseco.png",
+      "partido": "Frente Neuquino",
+      "banca": "DIP",
+      "nombre": "Ramón",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Miras Trabalón",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Neuquino",
+      "banca": "DIP",
+      "nombre": "Asunción",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Tomasini",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Neuquino",
+      "banca": "DIP",
+      "nombre": "Pablo ",
+      "distrito": "Neuquén"
+    }
+  ],
+  "Frente Renovador 1 País": [
+    {
+      "apellido": "Sadir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "SEN",
+      "nombre": "Ignacio",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "SEN",
+      "nombre": "",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Segura",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Pedro",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Jujuy"
+    },
+    {
+      "apellido": "Artaza",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/artaza.png",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Eugenio",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Gortari",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/artaza.png",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Cecilia",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Legarreta",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "J.A",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Romero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Gabriel",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Lagraña",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Silvana",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Romero",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Eva ",
+      "distrito": "Corrientes"
+    },
+    {
+      "apellido": "Sánchez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Carlos",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Reñone",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Silvana",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Pérez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador 1 País",
+      "banca": "DIP",
+      "nombre": "Ricardo ",
+      "distrito": "Neuquén"
+    }
+  ],
+  "Frente Justicialista Riojano": [
+    {
+      "apellido": "Menem",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/menem.png",
+      "partido": "Frente Justicialista Riojano",
+      "banca": "SEN",
+      "nombre": "Carlos",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "López",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista Riojano",
+      "banca": "SEN",
+      "nombre": "Florencia",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Flores",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista Riojano",
+      "banca": "DIP",
+      "nombre": "Danilo",
+      "distrito": "La Rioja"
+    },
+    {
+      "apellido": "Gaitán",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Justicialista Riojano",
+      "banca": "DIP",
+      "nombre": "Silvia",
+      "distrito": "La Rioja"
+    }
+  ],
+  "FPV": [
+    {
+      "apellido": "Ianni",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/ianni.png",
+      "partido": "FPV",
+      "banca": "SEN",
+      "nombre": "Ana María",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Grasso",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "SEN",
+      "nombre": "Pablo",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Vázquez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Juan",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Yerera",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Lorena ",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Cruz"
+    },
+    {
+      "apellido": "Soria",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/soria.png",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "María Emilia",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Chiocconi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Ramón",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Sabatella",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Mario",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Galaverna",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Andrea ",
+      "distrito": "Río Negro "
+    },
+    {
+      "apellido": "Fueyo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/fueyo.png",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Ricardo ",
+      "distrito": "Chubut"
+    },
+    {
+      "apellido": "Definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "FPV",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Chubut"
+    }
+  ],
+  "Frente Renovador Auténtico": [
+    {
+      "apellido": "Domenichelli",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador Auténtico",
+      "banca": "DIP",
+      "nombre": "Mariela Martín",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Arias",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador Auténtico",
+      "banca": "DIP",
+      "nombre": "Víctor",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Zelaya",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador Auténtico",
+      "banca": "DIP",
+      "nombre": "Paola Astrid ",
+      "distrito": "Tucumán"
+    },
+    {
+      "apellido": "Arismendi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente Renovador Auténtico",
+      "banca": "DIP",
+      "nombre": "Manuel ",
+      "distrito": "Tucumán"
+    }
+  ],
+  "Frente por el Socialismo": [
+    {
+      "apellido": "Pilcic",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente por el Socialismo",
+      "banca": "DIP",
+      "nombre": "Ayelén",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "Gómez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente por el Socialismo",
+      "banca": "DIP",
+      "nombre": "Jonatan Ezequiel",
+      "distrito": "La Pampa "
+    },
+    {
+      "apellido": "García",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente por el Socialismo",
+      "banca": "DIP",
+      "nombre": "Matías Agustín",
+      "distrito": "La Pampa "
+    }
+  ],
+  "Frente de Izquierda de los Trabajadores": [
+    {
+      "apellido": "Godoy",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Izquierda de los Trabajadores",
+      "banca": "DIP",
+      "nombre": "Raúl",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "López",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Izquierda de los Trabajadores",
+      "banca": "DIP",
+      "nombre": "Blanca ",
+      "distrito": "Neuquén"
+    },
+    {
+      "apellido": "Giachello",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Frente de Izquierda de los Trabajadores",
+      "banca": "DIP",
+      "nombre": "Pablo ",
+      "distrito": "Neuquén"
+    }
+  ],
+  "Cambiemos TDF ": [
+    {
+      "apellido": "Stefani",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/stefani.png",
+      "partido": "Cambiemos TDF ",
+      "banca": "DIP",
+      "nombre": "Héctor",
+      "distrito": "Tierra del Fuego"
+    },
+    {
+      "apellido": "Randon",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Cambiemos TDF ",
+      "banca": "DIP",
+      "nombre": "Gloria ",
+      "distrito": "Tierra del Fuego"
+    }
+  ],
+  "Partido Justicialista": [
+    {
+      "apellido": "Rossi",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/rossi.png",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Agustín",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "González",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Josefina",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Mounier",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Patricia",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Bogdanich",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Esteban",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Pérez",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Iván ",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Pietropaolo",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Estela ",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Castellanos",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Julio_ ",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Capisano",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Graciela ",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Barindelli",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Lucio ",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "Rodenas",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "A.",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": " Falta",
+      "distrito": "Santa Fe"
+    },
+    {
+      "apellido": "definir",
+      "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/",
+      "partido": "Partido Justicialista",
+      "banca": "DIP",
+      "nombre": "Falta",
+      "distrito": "Santa Fe"
+    }
+  ]
+}

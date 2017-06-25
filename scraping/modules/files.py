@@ -7,4 +7,10 @@ def save_as_json(path, data):
 
 def save_as_json_2(path, data):
 	with io.open(path, 'w', encoding='utf-8') as outfile:
-	    outfile.write(unicode(json.dumps(data, ensure_ascii=False)))	    
+	    outfile.write(unicode(json.dumps(data, ensure_ascii=False)))
+
+def readJsonFile(name):
+	f = io.open(name, 'r', encoding='utf-8')
+	data = json.load(f)
+	f.close()
+	return data	        
