@@ -24,7 +24,15 @@ def map(precandidates):
 		else :
 			result[data["partido"]] = [data]
 
-	return result	
+	output = []
+	for key in result:
+		data = {}
+		data["boletaId"]= key
+		data["candidatos"]= result[key]
+		output.append(data)
+
+
+	return output	
 
 
 if __name__ == "__main__":
