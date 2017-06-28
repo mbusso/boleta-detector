@@ -15,8 +15,8 @@ def parse(soup):
 	 	data["img"] = children[i].find("img")["src"].replace("..", "http://www.legislaturachaco.gov.ar")
 	 	data["additionalInfo"] = children[i].find("a")["href"]
 	 	name = children[i].find("a").text.encode('utf-8')
-	 	data["nombre"] = children[i].find("a").contents[0].encode('utf-8').strip()
-	 	data["apellido"] = children[i].find("a").contents[2].encode('utf-8').strip()
+	 	data["apellido"] = children[i].find("a").contents[0].encode('utf-8').strip()
+	 	data["nombre"] = children[i].find("a").contents[2].encode('utf-8').strip()
 	 	data["partido"] = children[i].find_all("div", class_="tramitenom3")[1].text.encode('utf-8').strip()
 	  	candidates.append(data)
 	return candidates
