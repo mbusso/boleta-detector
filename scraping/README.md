@@ -52,13 +52,13 @@ Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php
 
 
 Estadisticas:
-42 diputados
+44 diputadosNacionales
 0 twitter
-0 senadores
-3 legislaturaPortenia
-10 legislaturaPorteniaHistoricos
-1 legisladoresChacho
-2 legiladoresTucuman
+0 senadoresNacionales
+6 legislaturaPortenia
+15 legislaturaPorteniaHistoricos
+1 legisladoresChaco
+3 legisladoresTucuman
 1 legisladoresCordoba
 
 471 not found
