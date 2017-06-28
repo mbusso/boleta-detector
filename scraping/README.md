@@ -57,7 +57,13 @@ Estadisticas:
 0 senadores
 3 legislaturaPortenia
 10 legislaturaPorteniaHistoricos
-474 not found
+1 legisladoresChacho
+2 legiladoresTucuman
+1 legisladoresCordoba
+
+471 not found
+
+Fix bug sandra mendoza repetida
 
 <cantidad_exptes_autor>283</cantidad_exptes_autor> autor de proyecti
 <cantidad_exptes_coautor>101</cantidad_exptes_coautor> coauotur de proyectos

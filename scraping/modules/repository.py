@@ -15,7 +15,11 @@ def findCandidates(candidates):
 		twitters = __findIn(candidate, source["twitters"], "twitter")
 		legisladoresPortenios = __findIn(candidate, source["legislaturaPorteniaActivos"],"legislaturaPortenia")
 		legisladoresPorteniosHistoricos =  __findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"], "legislaturaPorteniaHistoricos")
-		results =  sum([diputados, senadores, twitters, legisladoresPortenios, legisladoresPorteniosHistoricos], [])
+		legisladoresChaco = __findIn(candidate, source["legisladoresChaco"], "legisladoresChaco")
+		legisladoresTucuman = __findIn(candidate, source["legisladoresTucuman"], "legisladoresTucuman")
+		legisladoresCordoba = __findIn(candidate, source["legisladoresCordoba"], "legisladoresCordoba")
+
+		results =  sum([diputados, senadores, twitters, legisladoresPortenios, legisladoresPorteniosHistoricos, legisladoresChaco, legisladoresCordoba, legisladoresTucuman], [])
 		if(len(results) > 0):
 			matches = matches + results
 		else:
@@ -34,6 +38,9 @@ def __loadAllSources():
 	source["twitters"] = files.readJsonFile('sources/twitters.json')
 	source["legislaturaPorteniaActivos"] = files.readJsonFile('sources/legislaturaPorteniaActivos.json')
 	source["legislaturaPorteniaHistoricos"] = files.readJsonFile('sources/legislaturaPorteniaHistoricos.json')
+	source["legisladoresChaco"] = files.readJsonFile('sources/legisladoresChaco.json')
+	source["legisladoresTucuman"] = files.readJsonFile('sources/legisladoresTucuman.json')
+	source["legisladoresCordoba"] = files.readJsonFile('sources/legisladoresCordoba.json')
 	return source;	
 
 def __findIn(candidate, sources, tag):

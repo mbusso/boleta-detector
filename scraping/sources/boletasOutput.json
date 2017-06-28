@@ -740,8 +740,7 @@
     }, 
     {
         "boletaId": "Somos", 
-        "candidatos": [], 
-        "candidatosNotFound": [
+        "candidatos": [
             {
                 "apellido": "Montero", 
                 "banca": "DIP", 
@@ -749,9 +748,10 @@
                 "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/", 
                 "nombre": "Liliana", 
                 "partido": "Somos", 
-                "source": "empty"
+                "source": "legisladoresCordoba"
             }
-        ]
+        ], 
+        "candidatosNotFound": []
     }, 
     {
         "boletaId": "Fte. Amplio Formoseño (Cambiemos)", 
@@ -1034,6 +1034,15 @@
         "boletaId": "Chaco Merece Más", 
         "candidatos": [
             {
+                "apellido": "Pértile", 
+                "banca": "DIP", 
+                "distrito": "Chaco", 
+                "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/pertile.png", 
+                "nombre": "Elda ", 
+                "partido": "Chaco Merece Más", 
+                "source": "legisladoresChaco"
+            }, 
+            {
                 "apellido": "Martínez Campos", 
                 "banca": "DIP", 
                 "distrito": "Chaco", 
@@ -1044,15 +1053,6 @@
             }
         ], 
         "candidatosNotFound": [
-            {
-                "apellido": "Pértile", 
-                "banca": "DIP", 
-                "distrito": "Chaco", 
-                "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/pertile.png", 
-                "nombre": "Elda ", 
-                "partido": "Chaco Merece Más", 
-                "source": "empty"
-            }, 
             {
                 "apellido": "Mosqueda", 
                 "banca": "DIP", 
@@ -1844,13 +1844,31 @@
         "boletaId": "Frente Justicialista ", 
         "candidatos": [
             {
+                "apellido": "Medina", 
+                "banca": "DIP", 
+                "distrito": "Tucumán", 
+                "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/", 
+                "nombre": "Gladys", 
+                "partido": "Frente Justicialista ", 
+                "source": "legisladoresTucuman"
+            }, 
+            {
                 "apellido": "Mendoza", 
                 "banca": "DIP", 
                 "distrito": "Tucumán", 
                 "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/", 
                 "nombre": "Sandra ", 
                 "partido": "Frente Justicialista ", 
-                "source": "diputadosNacionales"
+                "source": "legisladoresTucuman"
+            }, 
+            {
+                "apellido": "Mendoza", 
+                "banca": "DIP", 
+                "distrito": "Tucumán", 
+                "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/", 
+                "nombre": "Sandra ", 
+                "partido": "Frente Justicialista ", 
+                "source": "legisladoresTucuman"
             }
         ], 
         "candidatosNotFound": [
@@ -1860,15 +1878,6 @@
                 "distrito": "Tucumán", 
                 "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/jaldo.png", 
                 "nombre": "Osvaldo ", 
-                "partido": "Frente Justicialista ", 
-                "source": "empty"
-            }, 
-            {
-                "apellido": "Medina", 
-                "banca": "DIP", 
-                "distrito": "Tucumán", 
-                "img": "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/", 
-                "nombre": "Gladys", 
                 "partido": "Frente Justicialista ", 
                 "source": "empty"
             }, 
