@@ -51,6 +51,13 @@ Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php
 Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php
 
 
+Estadisticas:
+42 diputados
+0 twitter
+0 senadores
+3 legislaturaPortenia
+10 legislaturaPorteniaHistoricos
+474 not found
 
 <cantidad_exptes_autor>283</cantidad_exptes_autor> autor de proyecti
 <cantidad_exptes_coautor>101</cantidad_exptes_coautor> coauotur de proyectos

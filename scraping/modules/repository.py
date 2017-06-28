@@ -10,10 +10,16 @@ def findCandidates(candidates):
 	notMatches = []
 
 	for candidate in candidates:
-		results = __findIn(candidate, source["diputados"]) + __findIn(candidate, source["senadores"]) + __findIn(candidate, source["twitters"]) + __findIn(candidate, source["legislaturaPorteniaActivos"]) + __findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"])
+		diputados = __findIn(candidate, source["diputados"], "diputadosNacionales")
+		senadores = __findIn(candidate, source["senadores"], "senadoresNacionales")
+		twitters = __findIn(candidate, source["twitters"], "twitter")
+		legisladoresPortenios = __findIn(candidate, source["legislaturaPorteniaActivos"],"legislaturaPortenia")
+		legisladoresPorteniosHistoricos =  __findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"], "legislaturaPorteniaHistoricos")
+		results =  sum([diputados, senadores, twitters, legisladoresPortenios, legisladoresPorteniosHistoricos], [])
 		if(len(results) > 0):
 			matches = matches + results
 		else:
+			candidate["source"] = "empty"
 			notMatches.append(candidate)
 
 	data = {}
@@ -30,22 +36,24 @@ def __loadAllSources():
 	source["legislaturaPorteniaHistoricos"] = files.readJsonFile('sources/legislaturaPorteniaHistoricos.json')
 	return source;	
 
-def __findIn(candidate, sources):
+def __findIn(candidate, sources, tag):
 	results = []
 	for data in sources:		
 		if(matcher.match(candidate, data)):
 			#candidate["imgAsb64"] = getImgAsBase64(candidate["img"])
+			candidate["source"] = tag
 			results.append(candidate)
 	return results
 
-def __findInLegislaguraPorteniaHistoricos(candidate, sources):
+def __findInLegislaguraPorteniaHistoricos(candidate, sources, tag):
 	results = []
 	for legisladorPortenio in sources:		
 		if(matcher.match(candidate, legisladorPortenio)):
 			#legisladorHistorico = findInfo(legisladorPortenio["id_legislador"])
 			#legisladorPortenio["imgAsb64"] = getImgAsBase64(legisladorPortenio["img"])
 			#results.append(legisladorHistorico)
-			results.append([])
+			legisladorPortenio["source"] = tag
+			results.append(legisladorPortenio)
 	return results
 
 def __getImgAsBase64(url):
