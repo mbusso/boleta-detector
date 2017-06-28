@@ -10,8 +10,13 @@ def main():
 
 def process(result):
 	data = json.loads(result)
+	filtered = []
 	for candidate in data:
-		candidate["img"] = "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/" + candidate["img"]
-	return data
+		if (candidate["nombre"] != "" and candidate["apellido"] != ""):
+			candidate["nombre"] = candidate["nombre"].strip()
+			candidate["apellido"] = candidate["apellido"].strip()
+			candidate["img"] = "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/" + candidate["img"]
+			filtered.append(candidate)
+	return filtered
 if __name__ == "__main__":
     main()

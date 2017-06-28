@@ -15,8 +15,8 @@ def main():
 	  	boletaData["candidatosNotFound"] = data["notMatches"]
 	  	results.append(boletaData)
 
-	with io.open('sources/boletaSource.json', 'w', encoding='utf-8') as outfile:
-	    outfile.write(unicode(json.dumps(results, ensure_ascii=False)))
+	with io.open('sources/boletasOutput.json', 'w', encoding='utf-8') as outfile:
+	    outfile.write(unicode(json.dumps(results, ensure_ascii=False, indent=4, sort_keys=True)))
 
 if __name__ == "__main__":
     main()

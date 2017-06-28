@@ -1,193 +1,226 @@
-[{
-	"partido": "Bloque De La Concertacion - Forja",
-	"additionalInfo": "diputado.php?dip_id=16008072",
-	"apellido": "Raúl Policarpo",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/acosta(2).jpg",
-	"nombre": "Acosta"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=23011248",
-	"apellido": "Susana Lilián",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/alonso_susana_m.jpg",
-	"nombre": "Alonso"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=28603202",
-	"apellido": "Darío Augusto",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/bacileff_2.jpg",
-	"nombre": "Bacileff Ivanoff"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=14333348",
-	"apellido": "Fermina Beatriz",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/bogado-beatriz_m.jpg",
-	"nombre": "Bogado"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=7737212",
-	"apellido": "Roberto Orlando",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/bracone_m.jpg",
-	"nombre": "Bracone"
-}, {
-	"partido": "Ucr - Nea",
-	"additionalInfo": "diputado.php?dip_id=14799778",
-	"apellido": "Ana Maria Griselda",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/canatta_m.jpg",
-	"nombre": "Canata"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=14735413",
-	"apellido": "Orlando",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/charole.jpg",
-	"nombre": "Charole"
-}, {
-	"partido": "Bloque Ucr - Convergencia Social",
-	"additionalInfo": "diputado.php?dip_id=17960409",
-	"apellido": "Gustavo Silvio",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/corradi_m.jpg",
-	"nombre": "Corradi"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=18091920",
-	"apellido": "Lidia Elida",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/cuesta_m.jpg",
-	"nombre": "Cuesta"
-}, {
-	"partido": "Ucr - Somos Parte",
-	"additionalInfo": "diputado.php?dip_id=27377909",
-	"apellido": "Pablo Alberto",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/curin_m.jpg",
-	"nombre": "Curin"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=14190423",
-	"apellido": "Viviana Monica",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/dami.jpg",
-	"nombre": "Damilano Grivarello"
-}, {
-	"partido": "Ucr - Nea",
-	"additionalInfo": "diputado.php?dip_id=22273024",
-	"apellido": "Hugo Dardo",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/dominguez_m.jpg",
-	"nombre": "Dominguez"
-}, {
-	"partido": "Ucr - Crisol",
-	"additionalInfo": "diputado.php?dip_id=12470118",
-	"apellido": "Irene ada",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/dumrauf(1).jpg",
-	"nombre": "Dumrauf"
-}, {
-	"partido": "Pro Chaco",
-	"additionalInfo": "diputado.php?dip_id=12781894",
-	"apellido": "Luis Alberto",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/obeid_m.jpg",
-	"nombre": "El Halli Obeid"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=16008152",
-	"apellido": "Maria Lilian",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/fotofonseca_m.jpg",
-	"nombre": "Fonseca"
-}, {
-	"partido": "Ucr - Somos Parte",
-	"additionalInfo": "diputado.php?dip_id=22881807",
-	"apellido": "Claudia Noemi",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/gonzalez_claudia_m.jpg",
-	"nombre": "Gonzalez"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=20252878",
-	"apellido": "Ruben Omar",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/guillon(1).jpg",
-	"nombre": "Guillon"
-}, {
-	"partido": "Bloque Ucr - Convergencia Social",
-	"additionalInfo": "diputado.php?dip_id=20868383",
-	"apellido": "Livio Edgardo",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/gutierrez_m.jpg",
-	"nombre": "Gutierrez"
-}, {
-	"partido": "Bloque Libres Sur",
-	"additionalInfo": "diputado.php?dip_id=16551812",
-	"apellido": "Carlos Omar",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/martinez_m.jpg",
-	"nombre": "Martinez"
-}, {
-	"partido": "Ucr - Somos Parte",
-	"additionalInfo": "diputado.php?dip_id=8494218",
-	"apellido": "Roy Abelardo",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/nikich.jpg",
-	"nombre": "Nikisch"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=25956331",
-	"apellido": "Claudia Lorena",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/panzardi_m.jpg",
-	"nombre": "Panzardi"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=4592438",
-	"apellido": "Enrique",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/paredes(1).jpg",
-	"nombre": "Paredes"
-}, {
-	"partido": "Bloque Ucr - Convergencia Social",
-	"additionalInfo": "diputado.php?dip_id=14799410",
-	"apellido": "Carim Antonio",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/carim_peche_m.jpg",
-	"nombre": "Peche"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=10850119",
-	"apellido": "Elda Aida",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/pertile_m.jpg",
-	"nombre": "Pértile"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=14600184",
-	"apellido": "Hugo Abel",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/sager_m.jpg",
-	"nombre": "Sager"
-}, {
-	"partido": "Bloque Ucr - Convergencia Social",
-	"additionalInfo": "diputado.php?dip_id=17712553",
-	"apellido": "Mariana Fernanda",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/salom_m.jpg",
-	"nombre": "Salom"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=16776101",
-	"apellido": "Ricardo Luis",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/sanchez_m.jpg",
-	"nombre": "Sanchez"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=28660956",
-	"apellido": "Celeste Luz Marina",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/segovia.jpg",
-	"nombre": "Segovia"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=18463301",
-	"apellido": "Mirta Ines",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/tichy_m.jpg",
-	"nombre": "Tichy"
-}, {
-	"partido": "Bloque Frente Grande",
-	"additionalInfo": "diputado.php?dip_id=16367269",
-	"apellido": "Héctor Daniel",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/trabalon(1).jpg",
-	"nombre": "Trabalón"
-}, {
-	"partido": "Ucr - 26 De Junio",
-	"additionalInfo": "diputado.php?dip_id=16551289",
-	"apellido": "Sergio Ariel",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/vallejos_m.jpg",
-	"nombre": "Vallejos"
-}, {
-	"partido": "Bloque Justicialista",
-	"additionalInfo": "diputado.php?dip_id=12120703",
-	"apellido": "Hector Justino",
-	"img": "http://www.legislaturachaco.gov.ar/control/grandes/vega_m.jpg",
-	"nombre": "Vega"
-}]
+[
+    {
+        "additionalInfo": "diputado.php?dip_id=16008072", 
+        "apellido": "Acosta", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/acosta(2).jpg", 
+        "nombre": "Raúl Policarpo", 
+        "partido": "Bloque De La Concertacion - Forja"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=23011248", 
+        "apellido": "Alonso", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/alonso_susana_m.jpg", 
+        "nombre": "Susana Lilián", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=28603202", 
+        "apellido": "Bacileff Ivanoff", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/bacileff_2.jpg", 
+        "nombre": "Darío Augusto", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=14333348", 
+        "apellido": "Bogado", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/bogado-beatriz_m.jpg", 
+        "nombre": "Fermina Beatriz", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=7737212", 
+        "apellido": "Bracone", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/bracone_m.jpg", 
+        "nombre": "Roberto Orlando", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=14799778", 
+        "apellido": "Canata", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/canatta_m.jpg", 
+        "nombre": "Ana Maria Griselda", 
+        "partido": "Ucr - Nea"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=14735413", 
+        "apellido": "Charole", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/charole.jpg", 
+        "nombre": "Orlando", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=17960409", 
+        "apellido": "Corradi", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/corradi_m.jpg", 
+        "nombre": "Gustavo Silvio", 
+        "partido": "Bloque Ucr - Convergencia Social"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=18091920", 
+        "apellido": "Cuesta", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/cuesta_m.jpg", 
+        "nombre": "Lidia Elida", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=27377909", 
+        "apellido": "Curin", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/curin_m.jpg", 
+        "nombre": "Pablo Alberto", 
+        "partido": "Ucr - Somos Parte"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=14190423", 
+        "apellido": "Damilano Grivarello", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/dami.jpg", 
+        "nombre": "Viviana Monica", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=22273024", 
+        "apellido": "Dominguez", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/dominguez_m.jpg", 
+        "nombre": "Hugo Dardo", 
+        "partido": "Ucr - Nea"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=12470118", 
+        "apellido": "Dumrauf", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/dumrauf(1).jpg", 
+        "nombre": "Irene ada", 
+        "partido": "Ucr - Crisol"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=12781894", 
+        "apellido": "El Halli Obeid", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/obeid_m.jpg", 
+        "nombre": "Luis Alberto", 
+        "partido": "Pro Chaco"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=16008152", 
+        "apellido": "Fonseca", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/fotofonseca_m.jpg", 
+        "nombre": "Maria Lilian", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=22881807", 
+        "apellido": "Gonzalez", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/gonzalez_claudia_m.jpg", 
+        "nombre": "Claudia Noemi", 
+        "partido": "Ucr - Somos Parte"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=20252878", 
+        "apellido": "Guillon", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/guillon(1).jpg", 
+        "nombre": "Ruben Omar", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=20868383", 
+        "apellido": "Gutierrez", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/gutierrez_m.jpg", 
+        "nombre": "Livio Edgardo", 
+        "partido": "Bloque Ucr - Convergencia Social"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=16551812", 
+        "apellido": "Martinez", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/martinez_m.jpg", 
+        "nombre": "Carlos Omar", 
+        "partido": "Bloque Libres Sur"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=8494218", 
+        "apellido": "Nikisch", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/nikich.jpg", 
+        "nombre": "Roy Abelardo", 
+        "partido": "Ucr - Somos Parte"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=25956331", 
+        "apellido": "Panzardi", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/panzardi_m.jpg", 
+        "nombre": "Claudia Lorena", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=4592438", 
+        "apellido": "Paredes", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/paredes(1).jpg", 
+        "nombre": "Enrique", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=14799410", 
+        "apellido": "Peche", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/carim_peche_m.jpg", 
+        "nombre": "Carim Antonio", 
+        "partido": "Bloque Ucr - Convergencia Social"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=10850119", 
+        "apellido": "Pértile", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/pertile_m.jpg", 
+        "nombre": "Elda Aida", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=14600184", 
+        "apellido": "Sager", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/sager_m.jpg", 
+        "nombre": "Hugo Abel", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=17712553", 
+        "apellido": "Salom", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/salom_m.jpg", 
+        "nombre": "Mariana Fernanda", 
+        "partido": "Bloque Ucr - Convergencia Social"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=16776101", 
+        "apellido": "Sanchez", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/sanchez_m.jpg", 
+        "nombre": "Ricardo Luis", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=28660956", 
+        "apellido": "Segovia", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/segovia.jpg", 
+        "nombre": "Celeste Luz Marina", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=18463301", 
+        "apellido": "Tichy", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/tichy_m.jpg", 
+        "nombre": "Mirta Ines", 
+        "partido": "Bloque Justicialista"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=16367269", 
+        "apellido": "Trabalón", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/trabalon(1).jpg", 
+        "nombre": "Héctor Daniel", 
+        "partido": "Bloque Frente Grande"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=16551289", 
+        "apellido": "Vallejos", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/vallejos_m.jpg", 
+        "nombre": "Sergio Ariel", 
+        "partido": "Ucr - 26 De Junio"
+    }, 
+    {
+        "additionalInfo": "diputado.php?dip_id=12120703", 
+        "apellido": "Vega", 
+        "img": "http://www.legislaturachaco.gov.ar/control/grandes/vega_m.jpg", 
+        "nombre": "Hector Justino", 
+        "partido": "Bloque Justicialista"
+    }
+]

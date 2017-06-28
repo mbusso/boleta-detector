@@ -15,7 +15,7 @@ def parse(soup):
 		data["img"] = "http://www.legislaturadetucuman.gob.ar/" + child.find("img")["src"] 
 		data["description"] = child.contents[1].text.encode('utf-8')
 		name = child.contents[0].contents[0].encode('utf-8').split(",")
-		data["nombre"] = name[1]
+		data["nombre"] = name[1].strip()
 		data["apellido"] = name[0]
 		data["partido"] = child.contents[0].find("span").text.encode('utf-8')
 	 	candidates.append(data)

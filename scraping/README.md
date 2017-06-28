@@ -51,6 +51,19 @@ Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php
 Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php
 
 
+Estadisticas:
+44 diputadosNacionales
+0 twitter
+0 senadoresNacionales
+6 legislaturaPortenia
+15 legislaturaPorteniaHistoricos
+1 legisladoresChaco
+3 legisladoresTucuman
+1 legisladoresCordoba
+
+471 not found
+
+Fix bug sandra mendoza repetida
 
 <cantidad_exptes_autor>283</cantidad_exptes_autor> autor de proyecti
 <cantidad_exptes_coautor>101</cantidad_exptes_coautor> coauotur de proyectos

@@ -10,10 +10,20 @@ def findCandidates(candidates):
 	notMatches = []
 
 	for candidate in candidates:
-		results = __findIn(candidate, source["diputados"]) + __findIn(candidate, source["senadores"]) + __findIn(candidate, source["twitters"]) + __findIn(candidate, source["legislaturaPorteniaActivos"]) + __findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"])
+		diputados = __findIn(candidate, source["diputados"], "diputadosNacionales")
+		senadores = __findIn(candidate, source["senadores"], "senadoresNacionales")
+		twitters = __findIn(candidate, source["twitters"], "twitter")
+		legisladoresPortenios = __findIn(candidate, source["legislaturaPorteniaActivos"],"legislaturaPortenia")
+		legisladoresPorteniosHistoricos =  __findInLegislaguraPorteniaHistoricos(candidate, source["legislaturaPorteniaHistoricos"], "legislaturaPorteniaHistoricos")
+		legisladoresChaco = __findIn(candidate, source["legisladoresChaco"], "legisladoresChaco")
+		legisladoresTucuman = __findIn(candidate, source["legisladoresTucuman"], "legisladoresTucuman")
+		legisladoresCordoba = __findIn(candidate, source["legisladoresCordoba"], "legisladoresCordoba")
+
+		results =  sum([diputados, senadores, twitters, legisladoresPortenios, legisladoresPorteniosHistoricos, legisladoresChaco, legisladoresCordoba, legisladoresTucuman], [])
 		if(len(results) > 0):
 			matches = matches + results
 		else:
+			candidate["source"] = "empty"
 			notMatches.append(candidate)
 
 	data = {}
@@ -28,24 +38,29 @@ def __loadAllSources():
 	source["twitters"] = files.readJsonFile('sources/twitters.json')
 	source["legislaturaPorteniaActivos"] = files.readJsonFile('sources/legislaturaPorteniaActivos.json')
 	source["legislaturaPorteniaHistoricos"] = files.readJsonFile('sources/legislaturaPorteniaHistoricos.json')
+	source["legisladoresChaco"] = files.readJsonFile('sources/legisladoresChaco.json')
+	source["legisladoresTucuman"] = files.readJsonFile('sources/legisladoresTucuman.json')
+	source["legisladoresCordoba"] = files.readJsonFile('sources/legisladoresCordoba.json')
 	return source;	
 
-def __findIn(candidate, sources):
+def __findIn(candidate, sources, tag):
 	results = []
 	for data in sources:		
 		if(matcher.match(candidate, data)):
 			#candidate["imgAsb64"] = getImgAsBase64(candidate["img"])
+			candidate["source"] = tag
 			results.append(candidate)
 	return results
 
-def __findInLegislaguraPorteniaHistoricos(candidate, sources):
+def __findInLegislaguraPorteniaHistoricos(candidate, sources, tag):
 	results = []
 	for legisladorPortenio in sources:		
 		if(matcher.match(candidate, legisladorPortenio)):
 			#legisladorHistorico = findInfo(legisladorPortenio["id_legislador"])
 			#legisladorPortenio["imgAsb64"] = getImgAsBase64(legisladorPortenio["img"])
 			#results.append(legisladorHistorico)
-			results.append([])
+			legisladorPortenio["source"] = tag
+			results.append(legisladorPortenio)
 	return results
 
 def __getImgAsBase64(url):

@@ -15,7 +15,7 @@ def parse(soup):
 		data = {}
 		a =  child.contents[1]
 		name = a.find("p").text.encode('utf-8').split(",")
-		data["nombre"] = name[1]
+		data["nombre"] = name[1].strip()
 		data["apellido"] = name[0]
 		data["img"] = a.contents[1]["src"].replace("..","http://www.legiscba.gob.ar")
 		data["additionalData"] = a["href"].replace("..","http://www.legiscba.gob.ar")
