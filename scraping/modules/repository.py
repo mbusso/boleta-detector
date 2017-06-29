@@ -31,6 +31,11 @@ def findCandidates(candidates):
 	data["notMatches"] = notMatches
 	return data
 
+def findCandidatesWithoutResources():
+	candidates = files.readJsonFile('sources/boletasOutput.json')
+	return list(map(lambda c: c["candidatosNotFound"] , candidates))
+
+
 def __loadAllSources():
 	source = {}
 	source["diputados"] = files.readJsonFile('sources/diputados.json')
