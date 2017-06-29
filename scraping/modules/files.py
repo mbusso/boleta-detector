@@ -1,5 +1,6 @@
 import json
 import io
+import os.path
 
 def save_as_json(path, data):
 	with open(path, 'w') as outfile:
@@ -13,4 +14,7 @@ def readJsonFile(name):
 	f = io.open(name, 'r', encoding='utf-8')
 	data = json.load(f)
 	f.close()
-	return data	        
+	return data
+
+def exists(name):
+	return os.path.isfile(name) 
