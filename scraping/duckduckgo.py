@@ -5,14 +5,31 @@ import urllib
 import time
 
 def main():
-    candidates = repository.findCandidatesWithoutResources()
-    print candidates
+    initOutputFile(repository.findCandidatesWithoutResources())
+    #levantar archivo
+    #actualizar x registros con search results where "processed": false
+    #guardar archivo
 
     #candidate = findCandidateResources("liliana", "fadul", "tierra del fuego")
     #results = []
     #results.append(candidate)
     #files.save_as_json_2('sources/resultsGoGoDuck.json', results)
     #time.sleep(5)   # delays for 5 seconds. You can Also Use Float Value.
+
+def initOutputFile(candidates):
+    if(files.exists('sources/resultsGoGoDuck.json')):
+        print "File already exists"
+    else:
+        def createInitCandidate(candidate):
+            data = {}
+            print candidate
+            data["nombre"] = candidate["nombre"]
+            data["apellido"] = candidate["apellido"]
+            data["processed"] = False
+            return data
+
+        results = map(lambda x: createInitCandidate(x), candidates)
+        files.save_as_json_2('sources/resultsGoGoDuck.json', results)
 
 
 def findCandidateResources(name, surname, province):
