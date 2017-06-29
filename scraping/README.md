@@ -61,7 +61,7 @@ Estadisticas:
 3 legisladoresTucuman
 1 legisladoresCordoba
 
-471 not found
+463 not found
 
 Fix bug sandra mendoza repetida
 
