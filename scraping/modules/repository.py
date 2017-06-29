@@ -33,7 +33,7 @@ def findCandidates(candidates):
 
 def findCandidatesWithoutResources():
 	candidates = files.readJsonFile('sources/boletasOutput.json')
-	return list(map(lambda c: c["candidatosNotFound"] , candidates))
+	return sum(list(map(lambda c: c["candidatosNotFound"] , candidates)),[])
 
 
 def __loadAllSources():
