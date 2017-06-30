@@ -766,7 +766,7 @@
         "apellido": "Carballo", 
         "distrito": "Corrientes", 
         "nombre": "Natalia", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "View the profiles of people named Natii Carballo. Join Facebook to connect with Natii Carballo and others you may know. Facebook gives people the power...", 
@@ -895,7 +895,7 @@
         "apellido": "Novinscky", 
         "distrito": "Corrientes", 
         "nombre": "M.", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "dnes 17:55 Bouře a lijáky v Německu: Silné přeháňky a lijáky na řadě míst na severu a severovýchodě Německa způsobily vážné komplikace v dopravě.", 
@@ -1024,7 +1024,7 @@
         "apellido": "Yutrovic", 
         "distrito": "Tierra del Fuego", 
         "nombre": "Carolina", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "GUíA PARA EL CULTIVO DE FRUTILLAS EN TIERRA DEL FUEGO ... Gobernadora Carolina Inés Yutrovic Ministro de Industria e Innovación Productiva Lic. Carolina Hernández", 
@@ -1153,7 +1153,7 @@
         "apellido": "Buenader", 
         "distrito": "Catamarca", 
         "nombre": "S. Maris", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Buenader Stella Maris is a legal service located in San Fernando Del Valle De Catamarca, Argentina. View phone number, employees, products, revenue, and more.", 
@@ -1278,7 +1278,7 @@
         "apellido": "Ledesma", 
         "distrito": "Santiago del Estero", 
         "nombre": "C.", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Petrona C. Ledesma. Fonoaudiólogos en Santiago del Estero Capital, ... Petrona C. Ledesma. Santiago del Estero Capital. Reducir mapa. Videollamada. Añadir un telefono.", 
@@ -1403,7 +1403,7 @@
         "apellido": "Infante", 
         "distrito": "Santiago del Estero", 
         "nombre": "Hugo", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Petitioning Intendente de la Ciudad de Santiago Del Estero SR. HUGO INFANTE- INTENDENTE DE LA CIUDAD DE SGO DEL ESTERO. ... Intendente de la Ciudad de Santiago Del ...", 
@@ -1516,7 +1516,7 @@
         "apellido": "Iglesias", 
         "distrito": "CABA", 
         "nombre": "Fernando", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Junto a Julio Bárbaro y José María Poirier, analizaron la visita del Papa Francisco a Cuba en #HoraClave con Pablo Rossi 22|09|2015.", 
@@ -1645,7 +1645,7 @@
         "apellido": "López", 
         "distrito": "CABA", 
         "nombre": "Juan Manuel", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "JUAN MANUEL LÓPEZ MANFRÉ JMLM presenta en vivo su bitácora de canciones la BIOGRAFÌA MUTANTE En esta ... Avepez / Juan Manuel López Manfré en El Quetzal (CABA)", 
@@ -1754,7 +1754,7 @@
         "apellido": "Olivetto", 
         "distrito": "CABA", 
         "nombre": "Paula", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Here is the track list for \"Entrevista A Paula Oliveto Legisladora Caba En El\" we may collect and you can listen to and download. Buy a cassete", 
@@ -1883,7 +1883,7 @@
         "apellido": "García", 
         "distrito": "CABA", 
         "nombre": "Alejandra", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "View Alejandra Garcia's professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Alejandra Garcia discover ...", 
@@ -2012,7 +2012,7 @@
         "apellido": "Suárez Lastra", 
         "distrito": "CABA", 
         "nombre": "Facundo", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Parte 1: Exposición de Facundo Suárez Lastra, ... GBA y CABA, las dos caras de una misma moneda (3/5) 21/06/17 - Duration: 22:22. MSR 17 views. New;", 
@@ -2125,7 +2125,7 @@
         "apellido": "Picetti", 
         "distrito": "CABA", 
         "nombre": "Joanna", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "View joanna picetti's professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like joanna picetti discover inside ...", 
@@ -2254,7 +2254,7 @@
         "apellido": "Holzman", 
         "distrito": "CABA", 
         "nombre": "Patricia", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "View Patricia McCabe-Holzman, PHR'S professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Patricia McCabe ...", 
@@ -2383,7 +2383,7 @@
         "apellido": "Giustinian", 
         "distrito": "CABA", 
         "nombre": "Agustín", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "The latest Tweets from Agustin Giustinian (@AGiustinian). Casado y padre de 6. Participando en política con @pinedofederico en el Senado de la Nacion. Abogado de la ...", 
@@ -2512,7 +2512,7 @@
         "apellido": "Uñac", 
         "distrito": "San Juan", 
         "nombre": "Rubén", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Sergio Mauricio Uñac (Pocito, San Juan, 15 de febrero de 1970) abogado, procurador y político argentino. Actualmente se desempeña como gobernador de la provincia ...", 
@@ -2601,7 +2601,7 @@
         "apellido": "López", 
         "distrito": "San Juan", 
         "nombre": "Cristina", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "We found Cristina Lopez in San Juan, PR. Find out more about Cristina by running a report. Get contact details or run a confidential background check.", 
@@ -5337,7 +5337,7 @@
         "apellido": "Servin", 
         "distrito": "Formosa", 
         "nombre": "Fabián", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Fabian Servin is on Facebook. Join Facebook to connect with Fabian Servin and others you may know. Facebook gives people the power to share and makes the...", 
@@ -5454,7 +5454,7 @@
         "apellido": "Coronel", 
         "distrito": "Formosa", 
         "nombre": "Natalia", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "The latest Tweets from Natalia Coronel (@natalia7548). Militante del Partido Obrero, Formosa Capital. Si la juventud es el PeO , mi futuro esta en buenas manos!.", 
@@ -5575,7 +5575,7 @@
         "apellido": "García", 
         "distrito": "Chaco", 
         "nombre": "Juan", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Juan García, Ciudad de Resistencia (Resistencia, Chaco). 1,326 likes · 312 talking about this. Dirigente del Partido Obrero del Chaco", 
@@ -5704,7 +5704,7 @@
         "apellido": "Salas", 
         "distrito": "Chaco", 
         "nombre": "Samanta", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Over 30 Years Experience - Satisfaction Guaranteed. Shop Top Chaco Styles Today!", 
@@ -5837,7 +5837,7 @@
         "apellido": "Osatinsky", 
         "distrito": "Tucumán", 
         "nombre": "Ariel", 
-        "processed": false, 
+        "processed": true, 
         "resources": [
             {
                 "description": "Ariel Osatinsky - Precanidato a Diputado Nacional Canal 8 Tucuman. Loading ... HOLA SALUD TUCUMAN 25-06-2017 - Duration: 26:15. Canal 8 Tucuman 9 views. New;", 

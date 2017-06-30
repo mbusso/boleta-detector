@@ -11,11 +11,11 @@ def main():
     candidates = files.readJsonFile('sources/resultsGoGoDuck.json')
     processed = []
     for candidate in candidates:
-        if((not candidate["processed"]) and (len(processed) <= 20)):
+        if((not candidate["processed"]) and (len(processed) <= 50)):
             result = findCandidateResources(matcher.normalize(candidate["nombre"]), matcher.normalize(candidate["apellido"]), matcher.normalize(candidate["distrito"]))
             candidate["resources"] = result["resources"]
             candidate["url"] = result["url"]
-            if(len(result["resources"]) == 0):
+            if(len(result["resources"]) > 0):
                 candidate["processed"] = True
             processed.append(candidate)
             print "candidates processed {}: {} ".format(result["url"], len(processed))
