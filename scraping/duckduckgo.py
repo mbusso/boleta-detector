@@ -1,20 +1,24 @@
 from modules import request
 from modules import files
 from modules import repository
+from modules import matcher
 import urllib
 import time
 
 def main():
     initOutputFile(repository.findCandidatesWithoutResources())
-    #levantar archivo
-    #actualizar x registros con search results where "processed": false
-    #guardar archivo
-
-    #candidate = findCandidateResources("liliana", "fadul", "tierra del fuego")
-    #results = []
-    #results.append(candidate)
-    #files.save_as_json_2('sources/resultsGoGoDuck.json', results)
-    #time.sleep(5)   # delays for 5 seconds. You can Also Use Float Value.
+    candidates = files.readJsonFile('sources/resultsGoGoDuck.json')
+    processed = []
+    for candidate in candidates:
+        if((not candidate["processed"]) and (len(processed) <= 50)):
+            result = findCandidateResources(matcher.normalize(candidate["nombre"]), matcher.normalize(candidate["apellido"]), matcher.normalize(candidate["distrito"]))
+            candidate["resources"] = result["resources"]
+            candidate["url"] = result["url"]
+            candidate["processed"] = True
+            processed.append(candidate)
+            print "candidates processed {}".format(len(processed))
+            time.sleep(10) # seconds
+    files.save_as_json_2('sources/resultsGoGoDuck.json', candidates)        
 
 def initOutputFile(candidates):
     if(files.exists('sources/resultsGoGoDuck.json')):
@@ -22,9 +26,9 @@ def initOutputFile(candidates):
     else:
         def createInitCandidate(candidate):
             data = {}
-            print candidate
             data["nombre"] = candidate["nombre"]
             data["apellido"] = candidate["apellido"]
+            data["distrito"] = candidate["distrito"]
             data["processed"] = False
             return data
 
@@ -37,14 +41,11 @@ def findCandidateResources(name, surname, province):
     surnameFormatted = surname.replace(" ", "+")
     provinceFormatted = province.replace(" ", "+")
     url = "https://duckduckgo.com/html/?q={}+{}+{}".format(nameFormatted, surnameFormatted, provinceFormatted)
-    results = parse_results(request.get_content_parsed(url))
-    candidate = {}
-    candidate["nombre"] = name
-    candidate["apellido"] = surname
-    candidate["distrito"] = province
-    candidate["url"] = url
-    candidate["resources"] = results
-    return candidate
+    results =  parse_results(request.get_content_parsed(url))
+    searchedResult = {}
+    searchedResult["url"] = url
+    searchedResult["resources"] = results
+    return searchedResult
 
 def parse_results(soup):
     results = []

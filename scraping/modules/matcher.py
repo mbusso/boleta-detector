@@ -1,11 +1,11 @@
 import unicodedata
 
 def match(candidate, source):
-	if(__normalize(candidate["apellido"]) in __normalize(source["apellido"])):
-		return __normalize(candidate["nombre"]) in __normalize(source["nombre"])
+	if(normalize(candidate["apellido"]) in normalize(source["apellido"])):
+		return normalize(candidate["nombre"]) in normalize(source["nombre"])
 	else:
 		return False		
 
 
-def __normalize(string):
+def normalize(string):
 	return unicodedata.normalize('NFKD', unicode(string)).encode('ASCII', 'ignore').lower()
