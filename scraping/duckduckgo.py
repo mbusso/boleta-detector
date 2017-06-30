@@ -2,6 +2,7 @@ from modules import request
 from modules import files
 from modules import repository
 from modules import matcher
+import subprocess
 import urllib
 import time
 
@@ -10,13 +11,14 @@ def main():
     candidates = files.readJsonFile('sources/resultsGoGoDuck.json')
     processed = []
     for candidate in candidates:
-        if((not candidate["processed"]) and (len(processed) <= 50)):
+        if((not candidate["processed"]) and (len(processed) <= 20)):
             result = findCandidateResources(matcher.normalize(candidate["nombre"]), matcher.normalize(candidate["apellido"]), matcher.normalize(candidate["distrito"]))
             candidate["resources"] = result["resources"]
             candidate["url"] = result["url"]
-            candidate["processed"] = True
+            if(len(result["resources"]) == 0):
+                candidate["processed"] = True
             processed.append(candidate)
-            print "candidates processed {}".format(len(processed))
+            print "candidates processed {}: {} ".format(result["url"], len(processed))
             time.sleep(10) # seconds
     files.save_as_json_2('sources/resultsGoGoDuck.json', candidates)        
 
@@ -41,7 +43,8 @@ def findCandidateResources(name, surname, province):
     surnameFormatted = surname.replace(" ", "+")
     provinceFormatted = province.replace(" ", "+")
     url = "https://duckduckgo.com/html/?q={}+{}+{}".format(nameFormatted, surnameFormatted, provinceFormatted)
-    results =  parse_results(request.get_content_parsed(url))
+    result = subprocess.check_output(['curl', url])
+    results =  parse_results(request.parse(result))
     searchedResult = {}
     searchedResult["url"] = url
     searchedResult["resources"] = results

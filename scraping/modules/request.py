@@ -12,4 +12,6 @@ def get_content_parsed(url):
 	data = get_content(url)
 	return BeautifulSoup(data, 'html.parser')
 
+def parse(data):
+	return BeautifulSoup(data, 'html.parser')
 
