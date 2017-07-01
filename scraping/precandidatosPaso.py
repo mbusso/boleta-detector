@@ -15,7 +15,8 @@ def process(result):
 		if (candidate["nombre"] != "" and candidate["apellido"] != ""):
 			candidate["nombre"] = candidate["nombre"].strip()
 			candidate["apellido"] = candidate["apellido"].strip()
-			candidate["img"] = "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/" + candidate["img"]
+			if (candidate["img"]):
+				candidate["img"] = "http://especiales.lanacion.com.ar/multimedia/proyectos/17/elecciones/elecciones_2017_listas_confirmadas/img/" + candidate["img"]
 			filtered.append(candidate)
 	return filtered
 if __name__ == "__main__":
