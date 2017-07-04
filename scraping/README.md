@@ -61,7 +61,9 @@ Estadisticas:
 3 legisladoresTucuman
 1 legisladoresCordoba
 
-463 not found
+
+463 con links
+143/463 con perfil de twitter para obtener imagen
 
 Fix bug sandra mendoza repetida
 

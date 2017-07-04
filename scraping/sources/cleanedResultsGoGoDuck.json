@@ -192,6 +192,10 @@
     {
         "apellido": "Fernández", 
         "distrito": "Córdoba", 
+        "imageResource": {
+            "description": "The latest Tweets from Eduardo Fernandez (@efernandez2017). Contador Público recibido en la UNC Presidente de APYME NACIONAL Esposo de Cristina, padre de Pablo y ...", 
+            "url": "https://twitter.com/efernandez2017"
+        }, 
         "nombre": " Eduardo", 
         "processed": true, 
         "resources": [
@@ -261,6 +265,10 @@
     {
         "apellido": "Regidor", 
         "distrito": "Corrientes", 
+        "imageResource": {
+            "description": "The latest Tweets from Estela Regidor (@estelaregidor1). Jefa en UDAI ANSES Corrientes. Ex Interventora del Instituto de Previsión Social. Corrientes-Capital", 
+            "url": "https://twitter.com/estelaregidor1"
+        }, 
         "nombre": "Estela", 
         "processed": true, 
         "resources": [
@@ -338,6 +346,10 @@
     {
         "apellido": "Brambilla", 
         "distrito": "Corrientes", 
+        "imageResource": {
+            "description": "The latest Tweets from Sofia Brambilla (@Sofiabrambilla). Gerente de Anses UDAI Goya. Emprendedora social, politóloga, convencida que los argentinos podemos ...", 
+            "url": "https://twitter.com/Sofiabrambilla"
+        }, 
         "nombre": "Sofía", 
         "processed": true, 
         "resources": [
@@ -544,6 +556,10 @@
     {
         "apellido": "Almirón", 
         "distrito": "Corrientes", 
+        "imageResource": {
+            "description": "The latest Tweets from Lisandro Almirón (@lisandroalm). Delegado Nacional del ANMaC Corrientes, Abogado , hincha de Racing. #Seguimeytesigo. CORRIENTES , ARGENTINA", 
+            "url": "https://twitter.com/lisandroalm"
+        }, 
         "nombre": "Lisandro", 
         "processed": true, 
         "resources": [
@@ -1277,6 +1293,10 @@
     {
         "apellido": "García", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "De seneste tweets fra Alejandra Garcia (@garciaalej). Abogada U.B.A. - Radical de Alfonsin. C.A.B.A.", 
+            "url": "https://twitter.com/garciaalej?lang=da"
+        }, 
         "nombre": "Alejandra", 
         "processed": true, 
         "resources": [
@@ -1536,6 +1556,10 @@
     {
         "apellido": "Holzman", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "The latest Tweets from Patricia Holzman (@PatriciaHolzman). Contadora Pública Nacional. Egresada de la UBA, Jefe de Gabinete del Ministerio de Ambiente y Desarrollo ...", 
+            "url": "https://twitter.com/patriciaholzman"
+        }, 
         "nombre": "Patricia", 
         "processed": true, 
         "resources": [
@@ -1653,6 +1677,10 @@
     {
         "apellido": "Giustinian", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "The latest Tweets from Agustin Giustinian (@AGiustinian). Casado y padre de 6. Participando en política con @pinedofederico en el Senado de la Nacion. Abogado de la ...", 
+            "url": "https://twitter.com/agiustinian"
+        }, 
         "nombre": "Agustín", 
         "processed": true, 
         "resources": [
@@ -1957,6 +1985,10 @@
     {
         "apellido": "Del Caño", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Nicolas del Caño ‏ @NicolasdelCano ... Vamos con @ArtachoCarlos en FOETRA Buenos Aires!!! El sindicalismo combativo pisa fuerte en telefónicos. https: ...", 
+            "url": "https://twitter.com/NicolasdelCano/status/864936078687559680"
+        }, 
         "nombre": "Nicolás", 
         "processed": true, 
         "resources": [
@@ -2050,6 +2082,10 @@
     {
         "apellido": "Del Plá", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Romina Del Pla ‏ @RominaDelPla May ... Este Miércoles en SUTEBA seremos miles y miles diciendo #YoVotoMulticolor en toda la Prov. de Buenos Aires. # ...", 
+            "url": "https://twitter.com/RominaDelPla"
+        }, 
         "nombre": "Romina", 
         "processed": true, 
         "resources": [
@@ -2293,6 +2329,10 @@
     {
         "apellido": "Schlotthauer", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Mónica Schlotthauer (@monschlotthauer). ... Buenos Aires, Argentina. izquierdasocialista.org.ar Joined January 2016.", 
+            "url": "https://twitter.com/monschlotthauer"
+        }, 
         "nombre": "Mónica", 
         "processed": true, 
         "resources": [
@@ -2391,6 +2431,10 @@
     {
         "apellido": "Biasi", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "Vanina Biasi @vaninabiasi. PreCandidata a Diputada Nacional por el Frente de Izquierda en CABA. Militante por los derechos de las mujeres. Delegada gremial ...", 
+            "url": "https://twitter.com/vaninabiasi"
+        }, 
         "nombre": "Vanina", 
         "processed": true, 
         "resources": [
@@ -2570,6 +2614,10 @@
     {
         "apellido": "Musso", 
         "distrito": "Córdoba", 
+        "imageResource": {
+            "description": "The latest Tweets from Javier Musso (@musso_javier). candidato a intendente de la ciudad de Córdoba por el Frente de Izquierda", 
+            "url": "https://twitter.com/musso_javier"
+        }, 
         "nombre": "Javier", 
         "processed": true, 
         "resources": [
@@ -2659,6 +2707,10 @@
     {
         "apellido": "Crivaro", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Octavio Crivaro (@OctavioCrivaro). Militante del PTS y referente del Frente de Izquierda de Santa Fe. Sociólogo recibido en la UBA. Trabajador ...", 
+            "url": "https://twitter.com/octaviocrivaro"
+        }, 
         "nombre": "Octavio", 
         "processed": true, 
         "resources": [
@@ -2728,6 +2780,10 @@
     {
         "apellido": "Signa", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Jorgelina Signa (@Jorgelina_Signa). Concejal de Capitan Bermudez por el Frente de Izquierda. Pre candidata a Diputada Nacional por el FIT Santa Fe.", 
+            "url": "https://twitter.com/Jorgelina_Signa"
+        }, 
         "nombre": " Jorgelina", 
         "processed": true, 
         "resources": [
@@ -2806,6 +2862,10 @@
     {
         "apellido": "Barbeito", 
         "distrito": "Mendoza", 
+        "imageResource": {
+            "description": "The latest Tweets from Noelia Barbeito. (@barbeitonoelia). Senadora provincial del @PTSarg en el @Fte_Izquierda de Mendoza. Profesora de Historia, docente", 
+            "url": "https://twitter.com/barbeitonoelia"
+        }, 
         "nombre": "Noelia", 
         "processed": true, 
         "resources": [
@@ -2883,6 +2943,10 @@
     {
         "apellido": "Del Plá", 
         "distrito": "Santa Cruz", 
+        "imageResource": {
+            "description": "The latest Tweets from Miguel del Pla ... acto de repudio a la golpiza de ivovich funcionario k contra jubiladas de santa cruz exigimos separacion del cargopic ...", 
+            "url": "https://twitter.com/MigueldelPla"
+        }, 
         "nombre": "Miguel", 
         "processed": true, 
         "resources": [
@@ -2988,6 +3052,10 @@
     {
         "apellido": "Ramos", 
         "distrito": "Santa Cruz", 
+        "imageResource": {
+            "description": "Elida Liliana Ramos @ElidaLilianaRa3. Soy militante del PO., Sec/Gral CTA.A Reg.Río Turbio, afiliada a A.do.sac, Licenciada en Educ. B, y prof. para la enseñanza ...", 
+            "url": "https://twitter.com/ElidaLilianaRa3/status/864176086984400896"
+        }, 
         "nombre": "Élida", 
         "processed": true, 
         "resources": [
@@ -3041,6 +3109,10 @@
     {
         "apellido": "Latini", 
         "distrito": "Santa Cruz", 
+        "imageResource": {
+            "description": "75% de las mesas de Gregores (Santa Cruz) ... Omar Latini @LatiniOmar. Follow Following Unfollow Blocked Unblock Pending Cancel Tn Río Gallegos @TnRioGallegos.", 
+            "url": "https://twitter.com/LatiniOmar"
+        }, 
         "nombre": "Omar", 
         "processed": true, 
         "resources": [
@@ -3154,6 +3226,10 @@
     {
         "apellido": "Gastón", 
         "distrito": "Jujuy", 
+        "imageResource": {
+            "description": "The latest Tweets from Gastón Remy (@RemyGaston1): \"Cínico (como todo empresario): A la poblaci n le cuesta m s llegar a fin de mes https://t.co/IM2Onwh6cJ\"", 
+            "url": "https://twitter.com/RemyGaston1"
+        }, 
         "nombre": "Remy", 
         "processed": true, 
         "resources": [
@@ -3275,6 +3351,10 @@
     {
         "apellido": "Vilca", 
         "distrito": "Jujuy", 
+        "imageResource": {
+            "description": "The latest Tweets from Alejandro Vilca (@vilcalejandro). Trabajador de recolección municipal de San Salvador de jujuy y dirigente del PTS en el Frente de Izquierda.", 
+            "url": "https://twitter.com/vilcalejandro"
+        }, 
         "nombre": "Alejandro", 
         "processed": true, 
         "resources": [
@@ -3441,6 +3521,10 @@
     {
         "apellido": "Quintana", 
         "distrito": "Salta", 
+        "imageResource": {
+            "description": "The latest Tweets from Julio Oscar Quintana (@JulioOQuintana). Militante obrero, socialista y miembro del Partido Obrero. Actual diputado provincial en Salta", 
+            "url": "https://twitter.com/JulioOQuintana"
+        }, 
         "nombre": "julio", 
         "processed": true, 
         "resources": [
@@ -3635,6 +3719,10 @@
     {
         "apellido": "Coronel", 
         "distrito": "Formosa", 
+        "imageResource": {
+            "description": "The latest Tweets from Natalia Coronel (@natalia7548). Militante del Partido Obrero, Formosa Capital. Si la juventud es el PeO , mi futuro esta en buenas manos!.", 
+            "url": "https://twitter.com/natalia7548"
+        }, 
         "nombre": "Natalia", 
         "processed": true, 
         "resources": [
@@ -3736,6 +3824,10 @@
     {
         "apellido": "García", 
         "distrito": "Chaco", 
+        "imageResource": {
+            "description": "The latest Tweets from juan garcia (@juanelopo). Docente quemero socialista porteño y ahora chaqueño. Resistencia - Chaco", 
+            "url": "https://twitter.com/juanelopo"
+        }, 
         "nombre": "Juan", 
         "processed": true, 
         "resources": [
@@ -3950,6 +4042,10 @@
     {
         "apellido": "Osatinsky", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Ariel Osatinsky (@ArielOsatinsky). Sec. general de la Asociación de Docentes e Investigadores de la Universidad Nacional de Tucumán (Adiunt ...", 
+            "url": "https://twitter.com/ArielOsatinsky"
+        }, 
         "nombre": "Ariel", 
         "processed": true, 
         "resources": [
@@ -4043,6 +4139,10 @@
     {
         "apellido": "Arreguez", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "Alejandra Arreguez @AleArreguezPTS. Referente del Frente de Izquierda en Tucumán. Dirigente del Partido de los Trabajadores Socialistas. ... Twitter stores that ...", 
+            "url": "https://twitter.com/AleArreguezPTS/status/849318420227162118"
+        }, 
         "nombre": "Alejandra", 
         "processed": true, 
         "resources": [
@@ -4221,6 +4321,10 @@
     {
         "apellido": "Grassino", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "Los dirigentes @Aledel_Castillo, Raquel Grassino y @ArielOsatinsky marchan contra #2x1AGenocidas al frente de la columna del @PartidoObrero pic.twitter.com/v91iHTGejE.", 
+            "url": "https://twitter.com/POTucuman/status/862453054548971520"
+        }, 
         "nombre": "Raquel", 
         "processed": true, 
         "resources": [
@@ -4302,6 +4406,10 @@
     {
         "apellido": "Favoretti", 
         "distrito": "Santiago del Estero", 
+        "imageResource": {
+            "description": "Legisladora provincial de Santiago del Estero por el #FrenteDeIzquierda Militante de @IzqSocialista y la @UitCi. ... Anisa Favoretti @FavorettiAnisa.", 
+            "url": "https://twitter.com/favorettianisa"
+        }, 
         "nombre": "Anisa", 
         "processed": true, 
         "resources": [
@@ -4387,6 +4495,10 @@
     {
         "apellido": "Jozami", 
         "distrito": "Santiago del Estero", 
+        "imageResource": {
+            "description": "The latest Tweets from Maximiliano Jozami (@JozamiM). Lic ... Docente. Traductor. Ninja. De Belgrano de Córdoba. Militante del Partido Obrero. Santiago del Estero, ...", 
+            "url": "https://twitter.com/JozamiM"
+        }, 
         "nombre": "Maximiliano", 
         "processed": true, 
         "resources": [
@@ -4581,6 +4693,10 @@
     {
         "apellido": "Gómez", 
         "distrito": "San Luis", 
+        "imageResource": {
+            "description": "The latest Tweets from Johana Gomez (@Johana_Gomez_). Militante del PTS. Ex- Pre-candidata a diputada nacional. San Luis, Argentina", 
+            "url": "https://twitter.com/Johana_Gomez_"
+        }, 
         "nombre": "Johana", 
         "processed": true, 
         "resources": [
@@ -4686,6 +4802,10 @@
     {
         "apellido": "Lupardo", 
         "distrito": "La Pampa ", 
+        "imageResource": {
+            "description": "The latest Tweets from Claudia Lupardo (@ClaudiaLupardo). Militante del PTS y de la Agrupación de Mujeres Pan y Rosas.Trabajadora docente.Candidata del PTS La Pampa ...", 
+            "url": "https://twitter.com/ClaudiaLupardo"
+        }, 
         "nombre": "Claudia", 
         "processed": true, 
         "resources": [
@@ -4985,6 +5105,10 @@
     {
         "apellido": "Naidenoff", 
         "distrito": "Formosa", 
+        "imageResource": {
+            "description": "Luis Naidenoff @luisnaidenoff. ... Legisladores d Formosa y Misiones nos reunimos con Jose Cano para informarnos sobre el avance d obras e inversiones del Plan ...", 
+            "url": "https://twitter.com/luisnaidenoff"
+        }, 
         "nombre": "Luis", 
         "processed": true, 
         "resources": [
@@ -5252,6 +5376,10 @@
     {
         "apellido": "Del Frade", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Mercedes Meier (@Meme_Meier). ... Diputada Provincial por @FrenteSP junto a Carlos Del Frade en Santa Fe. Ingeniera y docente de la UTN.", 
+            "url": "https://twitter.com/Meme_Meier/"
+        }, 
         "nombre": "Carlos", 
         "processed": true, 
         "resources": [
@@ -5349,6 +5477,10 @@
     {
         "apellido": "Arroyo", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Equipo Daniel Arroyo (@EquipoArroyo). Equipo de Daniel Arroyo - Ex Candidato a Vicegobernador de Buenos Aires FR/UNA -Presidente de la Red de ...", 
+            "url": "https://twitter.com/EquipoArroyo"
+        }, 
         "nombre": "Daniel", 
         "processed": true, 
         "resources": [
@@ -5527,6 +5659,10 @@
     {
         "apellido": "Díaz", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Dip. Marcelo E. Diaz (@marceloosodiaz). Presidente del Bloque de Diputados GEN PROGRESISTAS de la Pcia. de Buenos Aires. Argentina", 
+            "url": "https://twitter.com/marceloosodiaz"
+        }, 
         "nombre": "Marcelo", 
         "processed": true, 
         "resources": [
@@ -5640,6 +5776,10 @@
     {
         "apellido": "Hogan", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Cada 8 horas muere una persona, víctima de asesinato en la Provincia de Buenos Aires, ... Patricio Hogan @patriciohogan. Senadora Provincial por el Frente Renovador.", 
+            "url": "https://twitter.com/MicaFerrarom"
+        }, 
         "nombre": " Patricio", 
         "processed": true, 
         "resources": [
@@ -6616,6 +6756,10 @@
     {
         "apellido": "Contigiani", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Luis Contigiani (@LuisContigiani). Ministro de la Producción de la Provincia de Santa Fe. Arequito, Santa Fe. Argentina", 
+            "url": "https://twitter.com/luiscontigiani"
+        }, 
         "nombre": "Luis", 
         "processed": true, 
         "resources": [
@@ -6904,6 +7048,10 @@
     {
         "apellido": "Boyadjián", 
         "distrito": "Tierra del Fuego", 
+        "imageResource": {
+            "description": "Miriam Boyadjian ‏ @BoyadjianMiriam ... A 26 años de la Provincialización de Tierra del Fuego ¡Feliz Día Fueguinos! http:// tl.gd/n_1spts5r pic.twitter.com ...", 
+            "url": "https://twitter.com/BoyadjianMiriam"
+        }, 
         "nombre": "Miriam", 
         "processed": true, 
         "resources": [
@@ -7558,6 +7706,10 @@
     {
         "apellido": "Basualdo", 
         "distrito": "San Juan", 
+        "imageResource": {
+            "description": "The latest Tweets from Roberto Basualdo (@RGBasualdo). Soy Senador Nacional por San Juan. Presidente del partido Producción y Trabajo, y Presidente de la Comisión ...", 
+            "url": "https://twitter.com/RGBasualdo"
+        }, 
         "nombre": "Roberto", 
         "processed": true, 
         "resources": [
@@ -7635,6 +7787,10 @@
     {
         "apellido": "Laciar", 
         "distrito": "San Juan", 
+        "imageResource": {
+            "description": "The latest Tweets from Susana Laciar (@SusanaLaciar). Diputada por la Provincia de San Juan. Presidente Bloque Compromiso con San Juan", 
+            "url": "https://twitter.com/SusanaLaciar"
+        }, 
         "nombre": "Susana", 
         "processed": true, 
         "resources": [
@@ -7878,6 +8034,10 @@
     {
         "apellido": "Martinazzo", 
         "distrito": "San Juan", 
+        "imageResource": {
+            "description": "The latest Tweets from Gimena Martinazzo (@GmMartinazzo). Coordinadora de Desarrollo Social de la Nación en San Juan. Enamorada de mis tres hijos y de mi trabajo.", 
+            "url": "https://twitter.com/GmMartinazzo"
+        }, 
         "nombre": "Gimena", 
         "processed": true, 
         "resources": [
@@ -7967,6 +8127,10 @@
     {
         "apellido": "Sánchez", 
         "distrito": "San Juan", 
+        "imageResource": {
+            "description": "The latest Tweets from Juan Alberto Sanchez (@JuanAlbS). Siervo, Seguidor e Imitador de Nuestro Señor JESÚS. Ingeniero Civil. Intereses: Lectura | Política ...", 
+            "url": "https://twitter.com/juanalbs"
+        }, 
         "nombre": "Alberto", 
         "processed": true, 
         "resources": [
@@ -8121,6 +8285,10 @@
     {
         "apellido": "Vigo", 
         "distrito": "Córdoba", 
+        "imageResource": {
+            "description": "PJ CORDOBA @CBAPJ. Dirigente político y social. ... Alejandra Vigo \"Córdoba es una ciudad maltratada. Quiero convocarlos a que pensemos en la Ciudad\" #DiseñandoCiudad.", 
+            "url": "https://twitter.com/JDViola"
+        }, 
         "nombre": "Alejandra", 
         "processed": true, 
         "resources": [
@@ -8246,6 +8414,10 @@
     {
         "apellido": "Deleonardi", 
         "distrito": "La Rioja", 
+        "imageResource": {
+            "description": "The latest Tweets from Rogelio De Leonardi (@KeloDeLeonardi). Docente. Sindicalista. Defensor de los DD HH. Militante del campo popular. La Rioja, Argentina", 
+            "url": "https://twitter.com/KeloDeLeonardi"
+        }, 
         "nombre": "Rogelio", 
         "processed": true, 
         "resources": [
@@ -9210,6 +9382,10 @@
     {
         "apellido": "Gimenez", 
         "distrito": "Corrientes", 
+        "imageResource": {
+            "description": "The latest Tweets from Arturo Gimenez (@ArturoGimenez). Leal a #CHAVEZ mas allá de la vida, Militante de la esperanza y el Mundo Nuevo, célula Revolucionaria y ...", 
+            "url": "https://twitter.com/ArturoGimenez"
+        }, 
         "nombre": "Arturo", 
         "processed": true, 
         "resources": [
@@ -9267,6 +9443,10 @@
     {
         "apellido": "Payes", 
         "distrito": "Corrientes", 
+        "imageResource": {
+            "description": "The latest Tweets from Agustin Payes (@AgustinPayes). Papá de Federica. Peronista. Hincha del rojo. Ciudad de Corrientes.", 
+            "url": "https://twitter.com/AgustinPayes"
+        }, 
         "nombre": "Agustín", 
         "processed": true, 
         "resources": [
@@ -9777,6 +9957,10 @@
     {
         "apellido": "Bahillo", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from Juan José Bahillo (@JuanjoBahillo). Diputado Provincial y presidente del bloque del FPV. Entre Ríos, Argentina", 
+            "url": "https://twitter.com/Juanjobahillo"
+        }, 
         "nombre": "José", 
         "processed": true, 
         "resources": [
@@ -9870,6 +10054,10 @@
     {
         "apellido": "Cresto", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "Mayda Cresto @MaydaCresto. Entrerriana y de Sangre Peronista. Directora Ejecutiva en Instituto Becario. ... Entre Ríos, Argentina institutobecario.gov.ar", 
+            "url": "https://twitter.com/MaydaCresto"
+        }, 
         "nombre": "Mayda", 
         "processed": true, 
         "resources": [
@@ -9967,6 +10155,10 @@
     {
         "apellido": "Gustavo", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from Gustavo Zavallo (@tavizavallo). Padre, peronista y entrerriano. ... Gustavo E. Bordet, Gob de Entre Rios and Cámara de Diputados.", 
+            "url": "https://twitter.com/tavizavallo"
+        }, 
         "nombre": "Zavallo", 
         "processed": true, 
         "resources": [
@@ -10976,6 +11168,10 @@
     {
         "apellido": "Auspitz", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Ezequiel Auspitz @EzequielAuspitz. Diputado de la Provincia de Buenos Aires. Seguime en hhtp: ... Diputado de la Provincia de Buenos Aires. Seguime en hhtp: ...", 
+            "url": "https://twitter.com/SanPedroMariano"
+        }, 
         "nombre": "Ezequiel", 
         "processed": true, 
         "resources": [
@@ -11446,6 +11642,10 @@
     {
         "apellido": "Solana", 
         "distrito": "La Pampa ", 
+        "imageResource": {
+            "description": "The latest Tweets from Luis Solana (@luisolana). Diputado Provincial del Partido Socialista de La Pampa. Hincha de Independiente. Santa Rosa LP", 
+            "url": "https://twitter.com/luisolana"
+        }, 
         "nombre": "Luis", 
         "processed": true, 
         "resources": [
@@ -12024,6 +12224,10 @@
     {
         "apellido": "Jaldo", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Osvaldo Jaldo (@OsvaldoJaldo). Vicegobernador de Tucuman. De Trancas. Peronista. Contador Publico Nacional. Trabajamos juntos en toda la ...", 
+            "url": "https://twitter.com/OsvaldoJaldo"
+        }, 
         "nombre": "Osvaldo", 
         "processed": true, 
         "resources": [
@@ -12101,6 +12305,10 @@
     {
         "apellido": "Yedlin", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "Pablo Yedlin @pyedlin. Tweets. Pablo Yedlin @pyedlin. Secretario General de la Gobernación de Tucumán. San Miguel de Tucumán, Argenti Joined July 2010. Tweets", 
+            "url": "https://twitter.com/pyedlin/status/878730822228090884"
+        }, 
         "nombre": "Pablo", 
         "processed": true, 
         "resources": [
@@ -12194,6 +12402,10 @@
     {
         "apellido": "Domenichelli", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Mariela Domenichelli (@MarielaMDomenic). 《Dirigente Social y Politica》|Arqta | Embajadora de paz| Pte Partido Fte Renovador Autentico Dto Tuc | Pte Fundacion CERECO. San Miguel de Tucumán", 
+            "url": "https://twitter.com/MarielaMDomenic"
+        }, 
         "nombre": "Mariela", 
         "processed": true, 
         "resources": [
@@ -12413,6 +12625,10 @@
     {
         "apellido": "Arismendi", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Manuel Arismendi (@rismendi). Periodista y analista internacional. Editor de El Boletín y corresponsal de HispanTV en Chile. Twits son ...", 
+            "url": "https://twitter.com/rismendi"
+        }, 
         "nombre": "Manuel", 
         "processed": true, 
         "resources": [
@@ -12676,6 +12892,10 @@
     {
         "apellido": "Cabral", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Hugo Cabral (@UgoCabral). Arquitecto, Magister en planificación y administración del desarrollo regional. Político", 
+            "url": "https://twitter.com/UgoCabral"
+        }, 
         "nombre": "Hugo", 
         "processed": true, 
         "resources": [
@@ -12846,6 +13066,10 @@
     {
         "apellido": "Romano", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Luis Ariel Romano (@luisromanomup). Dirigente del MUP TUCUMAN. Tucumán", 
+            "url": "https://twitter.com/luisromanomup"
+        }, 
         "nombre": "Luis", 
         "processed": true, 
         "resources": [
@@ -13174,6 +13398,10 @@
     {
         "apellido": "Pérez", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Lidia Perez (@FlappyBirdNovel). My political awakening happened after I read ''A People's History of the United States'' by Zinn #BernieWouldaWon", 
+            "url": "https://twitter.com/FlappyBirdNovel"
+        }, 
         "nombre": "Lidia", 
         "processed": true, 
         "resources": [
@@ -14216,6 +14444,10 @@
     {
         "apellido": "Burgos", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from Nadia Burgos (@NadiaGBurgos). Vamos MST-Nueva Izquierda!!!. Entre Rios", 
+            "url": "https://twitter.com/NadiaGBurgos"
+        }, 
         "nombre": "Nadia", 
         "processed": true, 
         "resources": [
@@ -14588,6 +14820,10 @@
     {
         "apellido": "Romero", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from VICTOR ROMERO RIOS (@VipmpGm). Convencido que la libertad de la mujer y del hombre inicia por la producción, mi actuación social es por ...", 
+            "url": "https://twitter.com/@VipmpGm"
+        }, 
         "nombre": "Víctor", 
         "processed": true, 
         "resources": [
@@ -14940,6 +15176,10 @@
     {
         "apellido": "Castañeira", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Precandidata a Diputada Nacional por la provincia de Buenos Aires en 2017 ... manuela-castaneira-gotas ... #IzquierdaAlFrente de Manuela Castañeira ...", 
+            "url": "https://twitter.com/ManuelaC22"
+        }, 
         "nombre": "Manuela", 
         "processed": true, 
         "resources": [
@@ -16099,6 +16339,10 @@
     {
         "apellido": "Guaraz", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "The latest Tweets from Omar guaraz (@Omarguaraz). Mantero. Sec Gral Vendedores libres", 
+            "url": "https://twitter.com/Omarguaraz"
+        }, 
         "nombre": "Omar", 
         "processed": true, 
         "resources": [
@@ -16310,6 +16554,10 @@
     {
         "apellido": "Mulhall", 
         "distrito": "Córdoba", 
+        "imageResource": {
+            "description": "The latest Tweets from Eduardo Mulhall (@EduardoMulhall). Ex-Candidato a Gobernador de Córdoba. Docente y luchador de tradición obrera.", 
+            "url": "https://twitter.com/@EduardoMulhall"
+        }, 
         "nombre": " Eduardo", 
         "processed": true, 
         "resources": [
@@ -16395,6 +16643,10 @@
     {
         "apellido": "Gómez", 
         "distrito": "Córdoba", 
+        "imageResource": {
+            "description": "The latest Tweets from Raúl Gómez (@RaulGomez65). Socialista. Docente Investigador Universitario. Dirigente del MST - Nueva Izquierda en Córdoba. Córdoba, Argentina", 
+            "url": "https://twitter.com/RaulGomez65"
+        }, 
         "nombre": "Raúl", 
         "processed": true, 
         "resources": [
@@ -16512,6 +16764,10 @@
     {
         "apellido": "Di Santi", 
         "distrito": "Córdoba", 
+        "imageResource": {
+            "description": "The latest Tweets from Julia Di Santi (@JuliaDiSanti1). Trabajadora Social - Docente. Referente de la izquierda en el movimiento de mujeres. Dirigente Nacional de ...", 
+            "url": "https://twitter.com/JuliaDiSanti1"
+        }, 
         "nombre": "Julia", 
         "processed": true, 
         "resources": [
@@ -16962,6 +17218,10 @@
     {
         "apellido": "Poliak", 
         "distrito": "Santa Cruz", 
+        "imageResource": {
+            "description": "The latest Tweets from Emilio Poliak (@PoliakEmilio). Dirigente del MST-Nueva Izquierda. Sec de organización de la CTA Sta. Cruz, hincha del Rojo!", 
+            "url": "https://twitter.com/PoliakEmilio"
+        }, 
         "nombre": "Emilio", 
         "processed": true, 
         "resources": [
@@ -17063,6 +17323,10 @@
     {
         "apellido": "Nauto", 
         "distrito": "Santa Cruz", 
+        "imageResource": {
+            "description": "The latest Tweets from Paula Nauto (@PauNauto). Estudiante de Psicología Social - Militante de la Agrupación de mujeres Las Rojas y Nuevo MAS. Rio Gallegos, Santa Cruz", 
+            "url": "https://twitter.com/PauNauto"
+        }, 
         "nombre": "Paula", 
         "processed": true, 
         "resources": [
@@ -17430,6 +17694,10 @@
     {
         "apellido": "Bordagaray", 
         "distrito": "La Rioja", 
+        "imageResource": {
+            "description": "Ismael Bordagaray @ismaBordagaray. Lic en Trabajo Social. De Famatina. El Famatina No Se Toca!!! ... UCR La Rioja @UCRLaRioja. Lic en Trabajo Social. De Famatina.", 
+            "url": "https://twitter.com/ismaBordagaray"
+        }, 
         "nombre": "Ismael", 
         "processed": true, 
         "resources": [
@@ -17564,6 +17832,10 @@
     {
         "apellido": "Filmus", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "Daniel Filmus ‏ Verified account ... 20.000 desocupados mas en la CABA en el último año. Hay q terminar con las políticas d ajuste y destrucción d trabajopic ...", 
+            "url": "https://twitter.com/filmusdaniel/status/879722676822171650"
+        }, 
         "nombre": "Daniel", 
         "processed": true, 
         "resources": [
@@ -17689,6 +17961,10 @@
     {
         "apellido": "Marziotta", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "... Gisela Marziota 5ta en la lista de CFK en CABA Se eligen 13 Entra 1 cada 7,7% Tiene que sacar 38,5% para ... Marziotta arruinó su carrera periodística ...", 
+            "url": "https://twitter.com/bracesco/status/878697064112283649"
+        }, 
         "nombre": "Gisela", 
         "processed": true, 
         "resources": [
@@ -18186,6 +18462,10 @@
     {
         "apellido": "Hagman", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "Itai Hagman ‏ Cuenta verificada ... Patria Grande CABA Cuenta verificada @PatriaGrandeCAP. Estudié economía para entender la realidad. Participo en política ...", 
+            "url": "https://twitter.com/ItaiHagman?lang=es"
+        }, 
         "nombre": "Itaí", 
         "processed": true, 
         "resources": [
@@ -18287,6 +18567,10 @@
     {
         "apellido": "Moreno", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "The latest Tweets from Argentina 2016 (@fabizeta65). PERONISTA,BOSTERO Y AMO EL MERC.CENTRAL,PRESIDENTE DE COMAFRU NAC& POP,A MUERTE CON GUILLERMO MORENO Y CADA DÍA ...", 
+            "url": "https://twitter.com/fabizeta65"
+        }, 
         "nombre": "Guillermo", 
         "processed": true, 
         "resources": [
@@ -19249,6 +19533,10 @@
     {
         "apellido": "Escudero", 
         "distrito": "Salta", 
+        "imageResource": {
+            "description": "The latest Tweets from Sonia Escudero (@soniamescudero). Salteña, Abogada y Buena amiga. Senadora Nacional por la Provincia de Salta. Salta, Argentina", 
+            "url": "https://twitter.com/soniamescudero"
+        }, 
         "nombre": "Sonia", 
         "processed": true, 
         "resources": [
@@ -19310,6 +19598,10 @@
     {
         "apellido": "Posadas", 
         "distrito": "Salta", 
+        "imageResource": {
+            "description": "The latest Tweets from Matías Posadas (@matiasposadas). Candidato a Diputado Nacional por #Salta. Salta - Argentina", 
+            "url": "https://twitter.com/matiasposadas"
+        }, 
         "nombre": "Matías", 
         "processed": true, 
         "resources": [
@@ -19387,6 +19679,10 @@
     {
         "apellido": "Andrés", 
         "distrito": "Salta", 
+        "imageResource": {
+            "description": "The latest Tweets from Andrés Zottos (@AndresZottos). Ex Vicegobernador de la Provincia de Salta. Actual Senador Provincial Departamento San Martín, Salta.", 
+            "url": "https://twitter.com/AndresZottos"
+        }, 
         "nombre": "Zottos", 
         "processed": true, 
         "resources": [
@@ -19549,6 +19845,10 @@
     {
         "apellido": "Peñaloza", 
         "distrito": "San Juan", 
+        "imageResource": {
+            "description": "The latest Tweets from FLORENCIA PEÑALOZA (@Flopenaloza1). Diputada de la Nacion - Abogada. San Juan, Argentina", 
+            "url": "https://twitter.com/Flopenaloza1"
+        }, 
         "nombre": "Florencia", 
         "processed": true, 
         "resources": [
@@ -19895,6 +20195,10 @@
     {
         "apellido": "Viale", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "Najnowsze tweety od Enrique Viale (@EnriqueViale). Asociación Argentina de Abogados Ambientalistas - Colectivo por la Igualdad - Plataforma 2012 - enriqueviale@yahoo ...", 
+            "url": "https://twitter.com/enriqueviale?lang=pl"
+        }, 
         "nombre": "Enrique", 
         "processed": true, 
         "resources": [
@@ -20041,6 +20345,10 @@
     {
         "apellido": "Velázquez", 
         "distrito": "Misiones", 
+        "imageResource": {
+            "description": "The latest Tweets from Adolfo Velazquez (@VelazquezAd). Presidente de la Obra Social Conductores Camioneros y Secretario General Sindicato de Camioneros Misiones.", 
+            "url": "https://twitter.com/VelazquezAd"
+        }, 
         "nombre": "Adolfo", 
         "processed": true, 
         "resources": [
@@ -20361,6 +20669,10 @@
     {
         "apellido": "Arcioni", 
         "distrito": "Chubut", 
+        "imageResource": {
+            "description": "The latest Tweets from Mariano Arcioni (@Arcioni2015ok). Escribano Público. Vicegobernador de Chubut. Presidente de la Honorable Legislatura chubutense. Comodoro ...", 
+            "url": "https://twitter.com/Arcioni2015ok"
+        }, 
         "nombre": "Mariano", 
         "processed": true, 
         "resources": [
@@ -20834,6 +21146,10 @@
     {
         "apellido": "Félix", 
         "distrito": "Mendoza", 
+        "imageResource": {
+            "description": "The latest Tweets from PJ Mendoza (oficial) (@PJ_Mza). Cuenta oficial del Partido Justicialista de Mendoza. mendoza, argentina. ... Omar Felix @omarchafifelix.", 
+            "url": "https://twitter.com/PJ_Mza"
+        }, 
         "nombre": "Omar", 
         "processed": true, 
         "resources": [
@@ -20923,6 +21239,10 @@
     {
         "apellido": "Tanús", 
         "distrito": "Mendoza", 
+        "imageResource": {
+            "description": "The latest Tweets from Jorge Tanús (@JorgeTanus). Mendocino. Ingeniero. Amor por mi familia y el deporte. Boca. Tacurú. Partido Justicialista. Diputado de Mendoza.", 
+            "url": "https://twitter.com/JorgeTanus"
+        }, 
         "nombre": "Jorge", 
         "processed": true, 
         "resources": [
@@ -21033,6 +21353,10 @@
     {
         "apellido": "Juri", 
         "distrito": "Mendoza", 
+        "imageResource": {
+            "description": "The latest Tweets from Cecilia Juri (@CeciJuri_K). Militante del proyecto nacional y de la patria grande. #LaCamporaMza #SiempreLeales", 
+            "url": "https://twitter.com/CeciJuri_K"
+        }, 
         "nombre": "Cecilia", 
         "processed": true, 
         "resources": [
@@ -21130,6 +21454,10 @@
     {
         "apellido": "Giménez", 
         "distrito": "Mendoza", 
+        "imageResource": {
+            "description": "The latest Tweets from Jorge Omar Gimenez (@JorgeGimenezOk). Intendente Municipal del Departamento de General San Martín, Mendoza. San Martín, Mendoza", 
+            "url": "https://twitter.com/JorgeGimenezOk"
+        }, 
         "nombre": "Omar", 
         "processed": true, 
         "resources": [
@@ -22178,6 +22506,10 @@
     {
         "apellido": "De Gennaro", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Víctor De Gennaro (@victordegennaro). Militante de los ... Provincia de Buenos Aires ... frente-popular-victor-de-genaro ...", 
+            "url": "https://twitter.com/VictorDeGennaro"
+        }, 
         "nombre": "Víctor", 
         "processed": true, 
         "resources": [
@@ -22259,6 +22591,10 @@
     {
         "apellido": "Bullrich", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Esteban Bullrich ‏ Verified account ... Me reuní en Campana con intendentes de la provincia de Buenos Aires para planificar la ... Twitter may be over capacity or ...", 
+            "url": "https://twitter.com/estebanbullrich/status/856892246389600256"
+        }, 
         "nombre": "Esteban", 
         "processed": true, 
         "resources": [
@@ -22720,6 +23056,10 @@
     {
         "apellido": "Quetglas", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Fabio Quetglas (@fabiojquetglas). Consultor independiente en planificación, políticas públicas y estrategias de desarrollo territorial.", 
+            "url": "https://twitter.com/fabiojquetglas"
+        }, 
         "nombre": "Fabio", 
         "processed": true, 
         "resources": [
@@ -23173,6 +23513,10 @@
     {
         "apellido": "Mendoza", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Josefina Mendoza ‏ @JosefaMendo Jun ... UCR Buenos Aires @UCRBuenosAires. Presidenta de @lafua. Estudiante de RRII. Militante de la Franja. 25. CARP Viviendo esta ...", 
+            "url": "https://twitter.com/JosefaMendo"
+        }, 
         "nombre": "Josefina", 
         "processed": true, 
         "resources": [
@@ -23270,6 +23614,10 @@
     {
         "apellido": "Berisso", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Hernan Berisso (@hernanberisso). Director Provincial de Consejos Escolares Prov. Buenos Aires. Director Fideicomiso Fuerza Solidaria BAPRO.", 
+            "url": "https://twitter.com/hernanberisso"
+        }, 
         "nombre": "Hernán", 
         "processed": true, 
         "resources": [
@@ -23503,6 +23851,10 @@
     {
         "apellido": "Frizza", 
         "distrito": "Córdoba", 
+        "imageResource": {
+            "description": "The latest Tweets from Gabriel Frizza (@gabrielfrizza). Intendente de la ciudad de Jesús María - Córdoba. Papá y familiero. Jesús María", 
+            "url": "https://twitter.com/gabrielfrizza"
+        }, 
         "nombre": "Gabriel", 
         "processed": true, 
         "resources": [
@@ -23770,6 +24122,10 @@
     {
         "apellido": "Lehman", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Lucila Lehmann (@LucilaLehmann). Humanista. Responsable de @EspacioCarrioSF en la Provincia de Santa Fe. Responsable de @JuventudLAC en Argentina.", 
+            "url": "https://twitter.com/LucilaLehmann"
+        }, 
         "nombre": "Lucila", 
         "processed": true, 
         "resources": [
@@ -23843,6 +24199,10 @@
     {
         "apellido": "Boasso", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "Macri le dio el primer lugar a diputado en Santa Fe a un desconocido por sobre el pro. ... Jorge Boasso: \"Encabezaré un ... Jorge Rosario Boasso ...", 
+            "url": "https://twitter.com/jrboasso"
+        }, 
         "nombre": "Jorge", 
         "processed": true, 
         "resources": [
@@ -23936,6 +24296,10 @@
     {
         "apellido": "Larriera", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Inés Larriera (@virpilin). La disciplina es el nombre cotidiano de la creación(Carlos Fuentes).Directora Fundación Hoy Por Mañana #GESTIÓN", 
+            "url": "https://twitter.com/virpilin"
+        }, 
         "nombre": "Inés", 
         "processed": true, 
         "resources": [
@@ -24013,6 +24377,10 @@
     {
         "apellido": "Marconi", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "Roberto Marconi ‏ @ROBERTOOMUCH 3h 3 ... Una lista construida en el consenso con diversidad y objetivos claros representar todo Santa Fe, coherencia e integridad ...", 
+            "url": "https://twitter.com/ROBERTOOMUCH"
+        }, 
         "nombre": "Roberto", 
         "processed": true, 
         "resources": [
@@ -24442,6 +24810,10 @@
     {
         "apellido": "Neme", 
         "distrito": "Santiago del Estero", 
+        "imageResource": {
+            "description": "Santiago del Estero. Saltar al contenido. Actualizamos nuestra Política de privacidad, la cual entra en vigencia el 18 de junio de 2017. ... Natalia Neme @nataliagneme.", 
+            "url": "https://twitter.com/nataliagneme?lang=es"
+        }, 
         "nombre": "Natalia", 
         "processed": true, 
         "resources": [
@@ -24846,6 +25218,10 @@
     {
         "apellido": "Lacoste", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from Jorge E. Lacoste (@jorgeelacoste). Intendente de SAUCE DE LUNA Entre Ríos - Argentina , desde el 11Dic95, con mandato hasta el 10Dic2019.", 
+            "url": "https://twitter.com/jorgeelacoste"
+        }, 
         "nombre": "Jorge", 
         "processed": true, 
         "resources": [
@@ -25177,6 +25553,10 @@
     {
         "apellido": "Schiavoni", 
         "distrito": "Misiones", 
+        "imageResource": {
+            "description": "Humberto Schiavoni @ SchiavoniH. Misiones, Argentina. Presidente del Consejo Nacional de @proargentina. ... Amanecer en la costanera de Posadas, Misiones.", 
+            "url": "https://mobile.twitter.com/SchiavoniH"
+        }, 
         "nombre": "H.", 
         "processed": true, 
         "resources": [
@@ -25311,6 +25691,10 @@
     {
         "apellido": "Szyszko", 
         "distrito": "Misiones", 
+        "imageResource": {
+            "description": "Misiones, Argentina. Skip to content. ... Gabriela Szyszko @Gabrielaszysz. Somos un equipo de trabajo que queremos y confiamos en un cambio junto a Mauricio Macri", 
+            "url": "https://twitter.com/prensa_obera"
+        }, 
         "nombre": "Gabriela", 
         "processed": true, 
         "resources": [
@@ -25529,6 +25913,10 @@
     {
         "apellido": "Martínez", 
         "distrito": "La Rioja", 
+        "imageResource": {
+            "description": "Not on Twitter? Sign up, tune into ... En Olta, La Rioja, ... Felicitaciones ministro Julio Martinez por tan ardua tarea en distintos puntos del pais.", 
+            "url": "https://twitter.com/JulioMartinezLR/status/849277326441492480"
+        }, 
         "nombre": "Julio", 
         "processed": true, 
         "resources": [
@@ -25691,6 +26079,10 @@
     {
         "apellido": "Berhongaray", 
         "distrito": "La Pampa ", 
+        "imageResource": {
+            "description": "The latest Tweets from Martín Berhongaray (@MBerhongaray). Abogado. Legislador La Pampa. Presidente de la Comisión de Ecología y Ambiente", 
+            "url": "https://twitter.com/MBerhongaray"
+        }, 
         "nombre": "Martín", 
         "processed": true, 
         "resources": [
@@ -25788,6 +26180,10 @@
     {
         "apellido": "Matzen", 
         "distrito": "Río Negro ", 
+        "imageResource": {
+            "description": "The latest Tweets from Lorena matzen (@Lmatzen). Radical desde el alma, fans de Arturo Illia, hincha de Boca hasta el fin! Me preocupa la realidad y trato de aportar ...", 
+            "url": "https://twitter.com/Lmatzen"
+        }, 
         "nombre": "Lorena", 
         "processed": true, 
         "resources": [
@@ -26002,6 +26398,10 @@
     {
         "apellido": "Menna", 
         "distrito": "Chubut", 
+        "imageResource": {
+            "description": "The latest Tweets from Edith Terenzi (@EdithTerenzi). Lic. Ciencia Política - Máster Derecho Electoral - Chubut. Trelew, Argentina. ... Gustavo Menna ...", 
+            "url": "https://twitter.com/EdithTerenzi"
+        }, 
         "nombre": "Gustavo", 
         "processed": true, 
         "resources": [
@@ -26095,6 +26495,10 @@
     {
         "apellido": "Schlereth", 
         "distrito": "Neuquén", 
+        "imageResource": {
+            "description": "The latest Tweets from David Schlereth (@davidnqn2017). Papá de Juanma, Miranda y Benjamín. Casado con Alejandra. Contador Público. Candidato por Cambiemos. https ...", 
+            "url": "https://twitter.com/davidnqn2017"
+        }, 
         "nombre": "David", 
         "processed": true, 
         "resources": [
@@ -26310,6 +26714,10 @@
     {
         "apellido": "Lousteau", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "Martín Lousteau ‏ Verified account ... responden a 1 bandería política opuesta,No es mi caso.Tengo la libertad d elegir y creo es 1buena alternativa p/Caba ...", 
+            "url": "https://twitter.com/gugalusto/status/878058973936726016"
+        }, 
         "nombre": "Martín", 
         "processed": true, 
         "resources": [
@@ -26399,6 +26807,10 @@
     {
         "apellido": "Lamadrid", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "The latest Tweets from Alvaro Lamadrid (@alvarolamadrid): \"Gran partido hoy en casa ! Faltan 90min !! #AguanteAtlas #atlas #rojinegro #milvecesarribaelatlas https://t ...", 
+            "url": "https://twitter.com/alvarolamadrid"
+        }, 
         "nombre": "Álvaro", 
         "processed": true, 
         "resources": [
@@ -26508,6 +26920,10 @@
     {
         "apellido": "Genovesi", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "... siento que nos volvemos visibles, los que vivimos en CABA, ... Mariano Genovesi @GenovesiUCR. Evolución es lo que viene después del cambio ...", 
+            "url": "https://twitter.com/evolucioncaba"
+        }, 
         "nombre": "Mariano", 
         "processed": true, 
         "resources": [
@@ -26655,6 +27071,10 @@
     {
         "apellido": "Pascual", 
         "distrito": "CABA", 
+        "imageResource": {
+            "description": "Parque Patricios, CABA Joined September 2010. 401 ... Josefina Pascual @jopepascual. Economista UBA en progreso. Quemero y Radical Del sur de la ciudad.", 
+            "url": "https://twitter.com/gebarcena"
+        }, 
         "nombre": "Josefina", 
         "processed": true, 
         "resources": [
@@ -26861,6 +27281,10 @@
     {
         "apellido": "Vallejos", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Ni Porota ni Taiana ni Fernanda Vallejos tienen domicilio en Prov. de Buenos Aires y van como candidato a senadores x BA País de hipócritas.", 
+            "url": "https://twitter.com/LaBelgrana/status/878760096825790464"
+        }, 
         "nombre": "Fernanda", 
         "processed": true, 
         "resources": [
@@ -27027,6 +27451,10 @@
     {
         "apellido": "Espinoza", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Fernando Espinoza (@FerEspinozaOK). Ex-Intendente de #LaMatanza, Pte del PJ Bonaerense. Peronista, hincha de @sanlorenzo Vice de @caslajuveniles.", 
+            "url": "https://twitter.com/FerEspinozaOK"
+        }, 
         "nombre": "Fernando", 
         "processed": true, 
         "resources": [
@@ -27124,6 +27552,10 @@
     {
         "apellido": "Siley", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Vanesa Siley (@Vsiley). Trabajadora de la justicia, militante sindical. Secretaria General del Sindicato de Trabajadores Judiciales de la CABA.", 
+            "url": "https://twitter.com/Vsiley"
+        }, 
         "nombre": "Vanesa", 
         "processed": true, 
         "resources": [
@@ -27197,6 +27629,10 @@
     {
         "apellido": "Scioli", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Daniel Scioli Verified account @danielscioli. Militante Peronista, deportista y ex Gobernador de la provincia de Buenos Aires. Vicepresidente del Partido Justicialista.", 
+            "url": "https://twitter.com/danielscioli/status/878964649143803904"
+        }, 
         "nombre": "Daniel", 
         "processed": true, 
         "resources": [
@@ -27266,6 +27702,10 @@
     {
         "apellido": "Hugo", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Los Tweets más recientes de Hugo Yasky (@HugoYasky). Secretario General de la Central de Trabajadores de la Argentina — @CTAok. Buenos Aires, Argentina", 
+            "url": "https://twitter.com/hugoyasky?lang=es"
+        }, 
         "nombre": "Yasky", 
         "processed": true, 
         "resources": [
@@ -27719,6 +28159,10 @@
     {
         "apellido": "Sierra", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Magdalena Sierra (@MSierraFPV). Senadora Provincial FPV-PJ. Militante Peronista, Nacional y Popular de la Agrupacion Eva Perón de AVELLANEDA.", 
+            "url": "https://twitter.com/MSierraFPV"
+        }, 
         "nombre": "Magdalena", 
         "processed": true, 
         "resources": [
@@ -27788,6 +28232,10 @@
     {
         "apellido": "Horacio", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Horacio Pietragalla (@pietragallahora). Secretario de Derechos Humanos de la Provincia de Santa Cruz. y de La Campora, Cuervo de sangre y ...", 
+            "url": "https://twitter.com/pietragallahora"
+        }, 
         "nombre": "Pietragalla", 
         "processed": true, 
         "resources": [
@@ -27865,6 +28313,10 @@
     {
         "apellido": "Russo", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Laura Russo (@LauRussoS). Precandidata a diputada por la provincia de Buenos Aires. @UniCiudadanaAR. Belén de Escobar, Pcia de Bs As", 
+            "url": "https://twitter.com/LauRussoS"
+        }, 
         "nombre": "Laura", 
         "processed": true, 
         "resources": [
@@ -28027,6 +28479,10 @@
     {
         "apellido": "Propato", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets and replies from Agustina Propato (@aguspropatoarg). Subsecretaria de Participación Ciudadana de @minsegargentina. Buenos Aires, Argentina", 
+            "url": "https://twitter.com/aguspropatoarg"
+        }, 
         "nombre": "Agustina", 
         "processed": true, 
         "resources": [
@@ -28129,6 +28585,10 @@
     {
         "apellido": "Lampreabe", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Florencia Lampreabe (@FlorLampreabe). Militante de La Cámpora. Secretaria de Desarrollo Social del Municipio de Hurlingham. Buenos Aires", 
+            "url": "https://twitter.com/FlorLampreabe"
+        }, 
         "nombre": "Florencia", 
         "processed": true, 
         "resources": [
@@ -28162,6 +28622,10 @@
     {
         "apellido": "Bernazza", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets and replies from Claudia Bernazza (@cbernazza). Maestra del Sur del Gran Buenos Aires. recetasypolitica.blogspot", 
+            "url": "https://twitter.com/cbernazza/with_replies"
+        }, 
         "nombre": " Claudia", 
         "processed": true, 
         "resources": [
@@ -28377,6 +28841,10 @@
     {
         "apellido": "Grande", 
         "distrito": "Salta", 
+        "imageResource": {
+            "description": "Lo bueno es q Martin Grande no para de ser pelotudo ni en ocasiones especiales #EquipoDeChantas @gdurandcornejo y el ... , PRO Salta and 7 others. La Politica Salta ...", 
+            "url": "https://twitter.com/LaVerdadEnSalta/status/878947811223494656"
+        }, 
         "nombre": "Martín", 
         "processed": true, 
         "resources": [
@@ -28470,6 +28938,10 @@
     {
         "apellido": "Cutzarida", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Ivo Cutzarida (@ivoesposible). Candidato a Jefe de Gobierno de la Ciudad Autónoma de Buenos Aires por el partido Es Posible - Cuenta Oficial", 
+            "url": "https://twitter.com/ivoesposible"
+        }, 
         "nombre": "Ivo", 
         "processed": true, 
         "resources": [
@@ -29020,6 +29492,10 @@
     {
         "apellido": "Magni", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from Verónica Magni (@VeronicaMagni). Profesora de Filo, Psico, y Pedagogia. Socialista. De Concepción del Uruguay, Entre Ríos. Argentina...", 
+            "url": "https://twitter.com/veronicamagni"
+        }, 
         "nombre": "Verónica", 
         "processed": true, 
         "resources": [
@@ -29109,6 +29585,10 @@
     {
         "apellido": "Haddad", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from Marcelo Haddad (@HaddadMarcelo). Contador y Concejal de Paraná por el Partido Socialista. Trabajando por una ciudad distinta", 
+            "url": "https://twitter.com/HaddadMarcelo"
+        }, 
         "nombre": "Marcelo", 
         "processed": true, 
         "resources": [
@@ -29299,6 +29779,10 @@
     {
         "apellido": "Olivetti", 
         "distrito": "Entre Ríos", 
+        "imageResource": {
+            "description": "The latest Tweets from Alberto Olivetti (@olivetti2015). Candidato a Intendente de la Ciudad de Paraná. Paraná, Entre Ríos", 
+            "url": "https://twitter.com/olivetti2015"
+        }, 
         "nombre": "Alberto", 
         "processed": true, 
         "resources": [
@@ -29376,6 +29860,10 @@
     {
         "apellido": "Fellner", 
         "distrito": "Jujuy", 
+        "imageResource": {
+            "description": "The latest Tweets from Liliana Fellner (@Liliana_Fellner). Senadora por Jujuy. Trabajamos por un país y un Jujuy con mayor Inclusión, Nacional y Popular", 
+            "url": "https://twitter.com/Liliana_Fellner"
+        }, 
         "nombre": "Liliana", 
         "processed": true, 
         "resources": [
@@ -29611,6 +30099,10 @@
     {
         "apellido": "Barrionuevo", 
         "distrito": "Jujuy", 
+        "imageResource": {
+            "description": "The latest Tweets from Walter Barrionuevo (@wbintendente). Candidato a Intendente San Salvador de Jujuy. Por un Barrio Mejor, Mejor Barrionuevo. FPV. Jujuy", 
+            "url": "https://twitter.com/wbintendente"
+        }, 
         "nombre": "Walter", 
         "processed": true, 
         "resources": [
@@ -29732,6 +30224,10 @@
     {
         "apellido": "Bussi", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Ricardo Bussi (@ricardobussi): \"No importa cuantos viajes al exterior haga Macri suplicando inversiones, el problema es interno, y está en sus ...", 
+            "url": "https://twitter.com/ricardobussi"
+        }, 
         "nombre": "Ricardo", 
         "processed": true, 
         "resources": [
@@ -31113,6 +31609,10 @@
     {
         "apellido": "Nediani", 
         "distrito": "Santiago del Estero", 
+        "imageResource": {
+            "description": "Santiago del Estero, Argentina. Skip to content. Home Home Home, current page. ... roger elias nediani @renediani. Intendente de la Ciudad de La Banda", 
+            "url": "https://twitter.com/pablomirolo"
+        }, 
         "nombre": "Roger", 
         "processed": true, 
         "resources": [
@@ -31291,6 +31791,10 @@
     {
         "apellido": "Cano", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "José Cano Verified account @JCanoOK. Twitter Oficial. Responsable del @PlanBelgrano. Ex Diputado nacional del Acuerdo Cívico. Presidente UCR Tucumàn", 
+            "url": "https://twitter.com/JCanoOK"
+        }, 
         "nombre": "José", 
         "processed": true, 
         "resources": [
@@ -31377,6 +31881,10 @@
     {
         "apellido": "Sánchez", 
         "distrito": "Tucumán", 
+        "imageResource": {
+            "description": "The latest Tweets from Roberto Sanchez (@RSanchezOK). Intendente de la Ciudad de Concepción. Provincia de Tucuman. República Argentina. Una Nueva Concepción de Ciudad.", 
+            "url": "https://twitter.com/RSanchezOK"
+        }, 
         "nombre": "Roberto", 
         "processed": true, 
         "resources": [
@@ -31878,6 +32386,10 @@
     {
         "apellido": "Micheli", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "Pablo Micheli ‏ @MicheliPablo Jun ... Hoy inscribimos el Frente CREO en la provincia de Buenos Aires con el Partido Renovador, @MicheliPablo, @mariocafiero y otros ...", 
+            "url": "https://twitter.com/MicheliPablo"
+        }, 
         "nombre": "Pablo", 
         "processed": true, 
         "resources": [
@@ -31967,6 +32479,10 @@
     {
         "apellido": "Cafiero", 
         "distrito": "Buenos Aires", 
+        "imageResource": {
+            "description": "The latest Tweets from Mario Cafiero (@mariocafiero). Casado. 6 hijos. 6 nietos. Ingeniero Industrial UBA. Ex Diputado Nacional. Provincia de Buenos Aires", 
+            "url": "https://twitter.com/mariocafiero"
+        }, 
         "nombre": "Mario", 
         "processed": true, 
         "resources": [
@@ -32121,6 +32637,10 @@
     {
         "apellido": "Giacoppo", 
         "distrito": "Jujuy", 
+        "imageResource": {
+            "description": "The latest Tweets from Silvia Giacoppo (@giacopposilvia). Senadora Nacional por la provincia de Jujuy, Argentina. Jujuy, Argentina", 
+            "url": "https://twitter.com/giacopposilvia"
+        }, 
         "nombre": "Silvia", 
         "processed": true, 
         "resources": [
@@ -32458,6 +32978,10 @@
     {
         "apellido": "Giuliano", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "Diego Giuliano @ DiegoGiuliano. Rosario - Santa Fe - Argentina. Concejal justicialista de la ciudad de Rosario.", 
+            "url": "https://mobile.twitter.com/DiegoGiuliano"
+        }, 
         "nombre": "Diego", 
         "processed": true, 
         "resources": [
@@ -32830,6 +33354,10 @@
     {
         "apellido": "Rioseco", 
         "distrito": "Neuquén", 
+        "imageResource": {
+            "description": "The latest Tweets from Ramon Rioseco (@RiosecoR). Diputado Parlamentario por el Mercosur - Político. Cutral Co, Neuquén, Argentina", 
+            "url": "https://twitter.com/RiosecoR"
+        }, 
         "nombre": "Ramón", 
         "processed": true, 
         "resources": [
@@ -33574,6 +34102,10 @@
     {
         "apellido": "Romero", 
         "distrito": "Corrientes", 
+        "imageResource": {
+            "description": "The latest Tweets from Jose Gabriel Romero (@arq_gromero). Arquitecto. Docente Universitario. Investigador. Actualmente, Pte del Instituto de Cultura de Corrientes, Arg", 
+            "url": "https://twitter.com/arq_gromero"
+        }, 
         "nombre": "Gabriel", 
         "processed": true, 
         "resources": [
@@ -33881,6 +34413,10 @@
     {
         "apellido": "Sánchez", 
         "distrito": "Neuquén", 
+        "imageResource": {
+            "description": "The latest Tweets from Carlos Sanchez (@patosanz_20). Futbolista profesional,ex C.A River Plate!!!actualmente jugador de Rayados de Monterrey y la Selección Uruguaya ...", 
+            "url": "https://twitter.com/patosanz_20"
+        }, 
         "nombre": "Carlos", 
         "processed": true, 
         "resources": [
@@ -34168,6 +34704,10 @@
     {
         "apellido": "Menem", 
         "distrito": "La Rioja", 
+        "imageResource": {
+            "description": "Carlos Saul Menem @CarlosMenem_LR. Abogado. Actual Senador Nacional. Ex Presidente de la Nación Argentina (10 años y medio). Ex Gobernador de La Rioja (3 mandatos ...", 
+            "url": "https://twitter.com/CarlosMenem_LR"
+        }, 
         "nombre": "Carlos", 
         "processed": true, 
         "resources": [
@@ -34269,6 +34809,10 @@
     {
         "apellido": "López", 
         "distrito": "La Rioja", 
+        "imageResource": {
+            "description": "The latest Tweets from Florencia López (@Florelop). Intendenta del Departamento Arauco - La Rioja-. Aimogasta La Rioja, Argentina", 
+            "url": "https://twitter.com/Florelop"
+        }, 
         "nombre": "Florencia", 
         "processed": true, 
         "resources": [
@@ -34451,6 +34995,10 @@
     {
         "apellido": "Gaitán", 
         "distrito": "La Rioja", 
+        "imageResource": {
+            "description": "The latest Tweets from silvia gaitan (@silviagaitan251). Intendente de Chilecito, mamá de Laurita, profundamente católica y Bederista", 
+            "url": "https://twitter.com/silviagaitan251"
+        }, 
         "nombre": "Silvia", 
         "processed": true, 
         "resources": [
@@ -34552,6 +35100,10 @@
     {
         "apellido": "Ianni", 
         "distrito": "Santa Cruz", 
+        "imageResource": {
+            "description": "Santa Cruz - Argentina. Skip to content. We've updated our Privacy Policy, ... Ana María Ianni @AnaMariaIanni. Presidenta del Honorable Concejo Deliberante de El ...", 
+            "url": "https://twitter.com/AnaMariaIanni"
+        }, 
         "nombre": "Ana María", 
         "processed": true, 
         "resources": [
@@ -35367,6 +35919,10 @@
     {
         "apellido": "Godoy", 
         "distrito": "Neuquén", 
+        "imageResource": {
+            "description": "The latest Tweets from Raúl Godoy (@RaulGodoyPTS). Obrero de Zanon. Dirigente del PTS y Diputado del Frente de Izquierda en Neuquén", 
+            "url": "https://twitter.com/RaulGodoyPTS"
+        }, 
         "nombre": "Raúl", 
         "processed": true, 
         "resources": [
@@ -35513,6 +36069,10 @@
     {
         "apellido": "Giachello", 
         "distrito": "Neuquén", 
+        "imageResource": {
+            "description": "The latest Tweets from Pablo Giachello (@pablogiachello). Precandidato a diputado nacional por el Partido Obrero en el Frente de Izquierda. Neuquén Capital, Argentina", 
+            "url": "https://twitter.com/pablogiachello"
+        }, 
         "nombre": "Pablo", 
         "processed": true, 
         "resources": [
@@ -35692,6 +36252,10 @@
     {
         "apellido": "Rossi", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "Agustin Rossi Verified account @RossiAgustinOk. Santafesino de Vera, rosarino por adopción. Militante peronista. ... Santa fe y Argentina necesita a #RossiAlCongreso.", 
+            "url": "https://twitter.com/RossiAgustinOk/status/878671609858588676"
+        }, 
         "nombre": "Agustín", 
         "processed": true, 
         "resources": [
@@ -35789,6 +36353,10 @@
     {
         "apellido": "Mounier", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Patricia Mounier (@patriciamounier). Secretaria General de Sadop Santa Fe. Santa Fe, Argentina", 
+            "url": "https://twitter.com/patriciamounier"
+        }, 
         "nombre": "Patricia", 
         "processed": true, 
         "resources": [
@@ -36211,6 +36779,10 @@
     {
         "apellido": "Barindelli", 
         "distrito": "Santa Fe", 
+        "imageResource": {
+            "description": "The latest Tweets from Lucio Barindelli (@LucioBarindelli). Santafesino y sabalero de cuna, rafaelino por adopción, peronista por conciencia nacional, por ...", 
+            "url": "https://twitter.com/LucioBarindelli"
+        }, 
         "nombre": "Lucio", 
         "processed": true, 
         "resources": [
