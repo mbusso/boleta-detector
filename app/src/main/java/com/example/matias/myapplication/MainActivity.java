@@ -18,6 +18,7 @@ import org.opencv.android.OpenCVLoader;
 import org.opencv.core.Mat;
 import org.opencv.objdetect.CascadeClassifier;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -31,8 +32,6 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private Mat                    mRgba;
     private Mat                    mGray;
-    private List <CascadeClassifier> classifiers = new ArrayList<CascadeClassifier>();
-
     private String[]               mDetectorName;
 
     private float                  mRelativeFaceSize   = 0.2f;
@@ -40,6 +39,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 
     private CameraBridgeViewBase   mOpenCvCameraView;
 
+    private Detector detector;
     private BaseLoaderCallback  mLoaderCallback = new BaseLoaderCallback(this) {
         @Override
         public void onManagerConnected(int status) {
@@ -47,8 +47,9 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
                 case LoaderCallbackInterface.SUCCESS:
                 {
                     Log.i(TAG, "OpenCV loaded successfully");
-                    classifiers.add(Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml"));
-                    classifiers.add(Detector.create(getResources(), getDir("cascade", Context.MODE_PRIVATE), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+
+                    detector = new Detector(MainActivity.this);
+                    detector.loadClassifiers();
                     mOpenCvCameraView.enableFpsMeter();
                     mOpenCvCameraView.setCameraIndex(0);
                     mOpenCvCameraView.enableView();
@@ -146,7 +147,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
         if (mZoomWindow == null || mZoomWindow2 == null)
             CreateAuxiliaryMats();
 
-        Detector.detect(this, TAG, classifiers, mGray, mRgba, mAbsoluteFaceSize);
+        this.detector.detectBoletas(mGray, mRgba, mAbsoluteFaceSize);
 
         return mRgba;
     }
@@ -188,5 +189,9 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
             }
         });
 
+    }
+
+    public File getCascadeDirectory() {
+        return getDir("cascade", Context.MODE_PRIVATE);
     }
 }

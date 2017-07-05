@@ -25,7 +25,9 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 
 /**
@@ -38,9 +40,23 @@ public class Detector {
     private static int count = 0;
     private static Rect[] resultsAux = new Rect[]{};
     private static JSONArray source;
+    private final MainActivity activity;
+    private List <CascadeClassifier> classifiers;
+    private static final String    TAG                 = "Detector";
+
+    public Detector(MainActivity mainActivity) {
+        this.activity = mainActivity;
+        this.classifiers =  new ArrayList<CascadeClassifier>();
+    }
 
 
-    public static CascadeClassifier create(Resources resources, File directory, String TAG, int raw_banana_classifier, String filename) {
+    public void loadClassifiers() {
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+    }
+
+
+    private CascadeClassifier create(Resources resources, File directory, String TAG, int raw_banana_classifier, String filename) {
         try {
             // load cascade file from application resources
             source = loadDataSource(resources);
@@ -88,29 +104,29 @@ public class Detector {
         return null;
     }
 
-    public static void detect(MainActivity mainActivity, String TAG, List<CascadeClassifier> classifiers, Mat mGray, Mat mRgba, int mAbsoluteFaceSize) {
-        MatOfRect faces1 = new MatOfRect();
-        MatOfRect faces2 = new MatOfRect();
-
+    public void detectBoletas(final Mat mGray, Mat mRgba, final int mAbsoluteFaceSize) {
             if (classifiers != null) {
-                double scaleFactor = 1.1;
-                int minNeighbors = 2;
-                int flag = 0;
-
-                classifiers.get(0).detectMultiScale(mGray, faces1, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
-                classifiers.get(1).detectMultiScale(mGray, faces2, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
+                for (CascadeClassifier classifier : classifiers) {
+                    displayResults(detect(classifier, mGray, mAbsoluteFaceSize));
+                }
             }
-
-        bla(mainActivity,faces1, "zamora", new Point(100,100), mRgba);
-        bla(mainActivity, faces2, "lilita", new Point(50, 50), mRgba);
     }
 
-    private static void bla(MainActivity mainActivity, MatOfRect faces, String label, Point point, Mat mRgba) {
+    private MatOfRect detect(CascadeClassifier classifier, Mat mGray, int mAbsoluteFaceSize) {
+        MatOfRect results = new MatOfRect();
+        double scaleFactor = 1.1;
+        int minNeighbors = 2;
+        int flag = 0;
+        classifier.detectMultiScale(mGray, results, scaleFactor, minNeighbors, flag, new Size(mAbsoluteFaceSize, mAbsoluteFaceSize), new Size());
+        return results;
+    }
+
+    private void displayResults(MatOfRect faces) {
         final Scalar FACE_RECT_COLOR     = new Scalar(0, 255, 0, 255);
         Rect[] facesArray = faces.toArray();
         if(facesArray.length >0) {
             try {
-                mainActivity.displayList(source.getJSONObject(0).getJSONArray("candidatos"));
+                this.activity.displayList(source.getJSONObject(0).getJSONArray("candidatos"));
             } catch (JSONException e) {
                 e.printStackTrace();
             }
@@ -127,5 +143,6 @@ public class Detector {
             }
         }
     }
+
 
 }
