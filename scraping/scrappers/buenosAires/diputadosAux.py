@@ -4,8 +4,6 @@ sys.path.append( path.dirname(path.dirname( path.dirname( path.abspath(__file__)
 
 from modules import request
 from modules import files
-import re
-
 
 def main():
 	soup = request.get_content_parsed("https://www.hcdiputados-ba.gov.ar/index.php?id=diputados&id_menu=mandatovigente")
