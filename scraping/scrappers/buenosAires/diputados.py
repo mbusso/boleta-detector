@@ -7,11 +7,11 @@ from modules import files
 
 
 def main():
-	diputados = files.readJsonFile("sources/provinciales/diputadosBuenosAires.aux.json")
+	diputados = files.readJsonFile("sources/buenosAires/diputadosBuenosAires.aux.json")
 	info = []
 	for diputado in diputados:
 		info.append(getAdditionalInfo(diputado))
-	files.save_as_json('sources/provinciales/diputadosBuenosAires.json', info)
+	files.save_as_json('sources/buenosAires/diputadosBuenosAires.json', info)
 
 
 def getAdditionalInfo(diputado):

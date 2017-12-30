@@ -8,7 +8,7 @@ from modules import files
 def main():
 	soup = request.get_content_parsed("https://www.hcdiputados-ba.gov.ar/index.php?id=diputados&id_menu=mandatovigente")
 	candidates = parse(soup)
-	files.save_as_json('sources/provinciales/diputadosBuenosAires.aux.json', candidates)
+	files.save_as_json('sources/buenosAires/diputadosBuenosAires.aux.json', candidates)
 
 def parse(soup):
 	candidates = []
