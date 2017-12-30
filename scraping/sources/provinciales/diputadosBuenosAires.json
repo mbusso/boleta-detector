@@ -1,370 +1,830 @@
 [
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "25910923", 
+        "distrito": "MAR DEL PLATA", 
         "img": "diputados/fotos/f_25910923.jpg", 
-        "nombre": " ABAD\nMAXIMILIANO\n          \n             \r\n                                  \r\n                                         "
+        "nombre": "ABAD MAXIMILIANO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ABAD+MAXIMILIANO+++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "23164658", 
+        "distrito": "SALADILLO", 
         "img": "diputados/fotos/f_23164658.jpg", 
-        "nombre": " ABARCA\nWALTER\nJOSE      \n                \r\n                                  \r\n                                         "
+        "nombre": "ABARCA WALTER JOSE", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ABARCA+WALTER+JOSE+++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "29872386", 
+        "distrito": "SAN FERNANDO", 
         "img": "diputados/fotos/f_29872386.jpg", 
-        "nombre": " ANDREOTTI\nJUAN\nFRANCISCO \n               \r\n                                  \r\n                                         "
+        "nombre": "ANDREOTTI JUAN FRANCISCO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ANDREOTTI+JUAN+FRANCISCO+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "27829790", 
+        "distrito": "TRES ARROYOS", 
         "img": "diputados/fotos/f_27829790.jpg", 
-        "nombre": " ANTINORI\nROSIO\nSOLEDAD   \n               \r\n                                  \r\n                                         "
+        "nombre": "ANTINORI ROSIO SOLEDAD", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ANTINORI+ROSIO+SOLEDAD+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "31096721", 
+        "distrito": "TRES ARROYOS", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " APRILE\nLAURA\nVIRGINIA  \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "APRILE LAURA VIRGINIA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=APRILE+LAURA+VIRGINIA++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "26744980", 
+        "distrito": "JUNIN", 
         "img": "diputados/fotos/f_26744980.jpg", 
-        "nombre": " ARATA\nMARIA\nVALERIA   \n          \n       \r\n                                  \r\n                                         "
+        "nombre": "ARATA MARIA VALERIA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ARATA+MARIA+VALERIA++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "23548088", 
+        "distrito": "SALLIQUELÃ", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BALBÍN\nEMILIANO  \n          \n            \r\n                                  \r\n                                         "
+        "nombre": "BALBÍN EMILIANO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BALB%CDN+EMILIANO++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "33689615", 
+        "distrito": "VICENTE LOPEZ", 
         "img": "diputados/fotos/f_33689615.jpg", 
-        "nombre": " BARBIERI\nVERONICA\nMABEL     \n            \r\n                                  \r\n                                         "
+        "nombre": "BARBIERI VERONICA MABEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BARBIERI+VERONICA+MABEL++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "21428829", 
+        "distrito": "LA PLATA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BARDÓN\nGUILLERMO\nARCADIO   \n             \r\n                                  \r\n                                         "
+        "nombre": "BARDĂN GUILLERMO ARCADIO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BARD%D3N+GUILLERMO+ARCADIO+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "16942985", 
+        "distrito": "MAR CHIQUITA", 
         "img": "diputados/fotos/f_16942985.jpg", 
-        "nombre": " BARRAGAN\nEDUARDO\nALBERTO   \n             \r\n                                  \r\n                                         "
+        "nombre": "BARRAGAN EDUARDO ALBERTO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BARRAGAN+EDUARDO+ALBERTO+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "17628080", 
+        "distrito": "CHACABUCO", 
         "img": "diputados/fotos/f_17628080.jpg", 
-        "nombre": " BARRIENTOS\nMAURICIO\nGABRIEL   \n          \r\n                                  \r\n                                         "
+        "nombre": "BARRIENTOS MAURICIO GABRIEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BARRIENTOS+MAURICIO+GABRIEL++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "21430987", 
+        "distrito": "LA PLATA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BARROS\nSCHELOTTO\nMARÍA\nCAROLINA  \n       \r\n                                  \r\n                                         "
+        "nombre": "BARROS SCHELOTTO MARĂA CAROLINA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BARROS+SCHELOTTO+MAR%CDA+CAROLINA++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PJ - UNIDAD Y RENOVACION", 
+        "codigo": "17454993", 
+        "distrito": "ESTEBAN ECHEVERRIA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BERTINO\nFABIANA\nBEATRIZ   \n              \r\n                                  \r\n                                         "
+        "nombre": "BERTINO FABIANA BEATRIZ", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BERTINO+FABIANA+BEATRIZ++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "28829992", 
+        "distrito": "LANUS", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BESANA\nGABRIELA\nGISEL     \n              \r\n                                  \r\n                                         "
+        "nombre": "BESANA GABRIELA GISEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BESANA+GABRIELA+GISEL++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "34666614", 
+        "distrito": "VILLARINO", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BEVILACQUA\nMARÍA\nFERNANDA  \n             \r\n                                  \r\n                                         "
+        "nombre": "BEVILACQUA MARĂA FERNANDA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BEVILACQUA+MAR%CDA+FERNANDA++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "16862799", 
+        "distrito": "LAPRIDA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BILBAO\nANAHÍ\nSILVINA   \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "BILBAO ANAHĂ SILVINA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BILBAO+ANAH%CD+SILVINA+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "25715028", 
+        "distrito": "SAN NICOLAS", 
         "img": "diputados/fotos/f_25715028.jpg", 
-        "nombre": " BONELLI\nLISANDRO\nEMILIO    \n             \r\n                                  \r\n                                         "
+        "nombre": "BONELLI LISANDRO EMILIO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BONELLI+LISANDRO+EMILIO++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "22025234", 
+        "distrito": "PERGAMINO", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " BOSCO\nANDREA\nCARINA    \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "BOSCO ANDREA CARINA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BOSCO+ANDREA+CARINA++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "17597512", 
+        "distrito": "CHIVILCOY", 
         "img": "diputados/fotos/f_17597512.jpg", 
-        "nombre": " BRITOS\nFABIO\nGUSTAVO   \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "BRITOS FABIO GUSTAVO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=BRITOS+FABIO+GUSTAVO+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "12271009", 
+        "distrito": "PRESIDENTE PERON", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " CANTERO\nBLANCA\nHAYDEÉ    \n               \r\n                                  \r\n                                         "
+        "nombre": "CANTERO BLANCA HAYDEĂ", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=CANTERO+BLANCA+HAYDE%C9++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "16809976", 
+        "distrito": "GENERAL SAN MARTIN", 
         "img": "diputados/fotos/f_16809976.jpg", 
-        "nombre": " CARUSSO\nWALTER\nHECTOR    \n               \r\n                                  \r\n                                         "
+        "nombre": "CARUSSO WALTER HECTOR", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=CARUSSO+WALTER+HECTOR++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "17982177", 
+        "distrito": "MAR DEL PLATA", 
         "img": "diputados/fotos/f_17982177.jpg", 
-        "nombre": " CASTELLO\nGUILLERMO\nRICARDO   \n           \r\n                                  \r\n                                         "
+        "nombre": "CASTELLO GUILLERMO RICARDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=CASTELLO+GUILLERMO+RICARDO+++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PJ - UNIDAD Y RENOVACION", 
+        "codigo": "32668897", 
+        "distrito": "GRAL. PUEYRREDON", 
         "img": "diputados/fotos/f_32668897.jpg", 
-        "nombre": " CHEPPI\nJUAN\nMANUEL    \n          \n       \r\n                                  \r\n                                         "
+        "nombre": "CHEPPI JUAN MANUEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=CHEPPI+JUAN+MANUEL+++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CONVICCION PERONISTA", 
+        "codigo": "29252701", 
+        "distrito": "SAN FERNANDO", 
         "img": "diputados/fotos/f_29252701.jpg", 
-        "nombre": " CUBRIA\nPATRICIA  \n          \n            \r\n                                  \r\n                                         "
+        "nombre": "CUBRIA PATRICIA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=CUBRIA+PATRICIA++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "16181355", 
+        "distrito": "PILAR", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " D ONOFRIO\nJORGE\nALBERTO   \n              \r\n                                  \r\n                                         "
+        "nombre": "D ONOFRIO JORGE ALBERTO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=D+ONOFRIO+JORGE+ALBERTO++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "21673701", 
+        "distrito": "-", 
         "img": "diputados/fotos/f_21673701.jpg", 
-        "nombre": " DALETTO\nMARCELO   \n          \n           \r\n                                  \r\n                                         "
+        "nombre": "DALETTO MARCELO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=DALETTO+MARCELO++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "25251953", 
+        "distrito": "CASEROS", 
         "img": "diputados/fotos/f_25251953.jpg", 
-        "nombre": " DEBANDI\nJUAN\nAGUSTIN   \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "DEBANDI JUAN AGUSTIN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=DEBANDI+JUAN+AGUSTIN+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "12547176", 
+        "distrito": "CHASCOMUS", 
         "img": "diputados/fotos/f_12547176.jpg", 
-        "nombre": " DENOT\nLILIANA   \n          \n             \r\n                                  \r\n                                         "
+        "nombre": "DENOT LILIANA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=DENOT+LILIANA++++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "23259743", 
+        "distrito": "ARRECIFES", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " DI PALMA\nMARCOS    \n          \n          \r\n                                  \r\n                                         "
+        "nombre": "DI PALMA MARCOS", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=DI+PALMA+MARCOS++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "34991029", 
+        "distrito": "COLON", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " DIAZ\nFERNANDA  \n          \n              \r\n                                  \r\n                                         "
+        "nombre": "DIAZ FERNANDA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=DIAZ+FERNANDA++++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "24094963", 
+        "distrito": "NECOCHEA", 
         "img": "diputados/fotos/f_24094963.jpg", 
-        "nombre": " DOMINGUEZ\nYELPO\nSERGIO\nMARTIN    \n       \r\n                                  \r\n                                         "
+        "nombre": "DOMINGUEZ YELPO SERGIO MARTIN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=DOMINGUEZ+YELPO+SERGIO+MARTIN++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "22029239", 
+        "distrito": "LA PLATA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " ESCUDERO\nGUILLERMO\nMARTÍN    \n           \r\n                                  \r\n                                         "
+        "nombre": "ESCUDERO GUILLERMO MARTĂN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ESCUDERO+GUILLERMO+MART%CDN++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "12279120", 
+        "distrito": "SAN MARTIN", 
         "img": "diputados/fotos/f_12279120.jpg", 
-        "nombre": " ESLAIMAN\nRUBEN     \n          \n          \r\n                                  \r\n                                         "
+        "nombre": "ESLAIMAN RUBEN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ESLAIMAN+RUBEN+++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "27441715", 
+        "distrito": "SAN VICENTE", 
         "img": "diputados/fotos/f_27441715.jpg", 
-        "nombre": " ETCHECOIN\nMORO\nMARICEL   \n               \r\n                                  \r\n                                         "
+        "nombre": "ETCHECOIN MORO MARICEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ETCHECOIN+MORO+MARICEL+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "21403087", 
+        "distrito": "GRAL. PUEYRREDON", 
         "img": "diputados/fotos/f_21403087.jpg", 
-        "nombre": " FARONI\nJAVIER\nHORACIO   \n                \r\n                                  \r\n                                         "
+        "nombre": "FARONI JAVIER HORACIO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=FARONI+JAVIER+HORACIO++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "25668960", 
+        "distrito": "CHIVILCOY", 
         "img": "diputados/fotos/f_25668960.jpg", 
-        "nombre": " FUNES\nMIGUEL\nANGEL JOSE\n          \n      \r\n                                  \r\n                                         "
+        "nombre": "FUNES MIGUEL ANGEL JOSE", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=FUNES+MIGUEL+ANGEL+JOSE++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "21589905", 
+        "distrito": "TRES ARROYOS", 
         "img": "diputados/fotos/f_21589905.jpg", 
-        "nombre": " GARATE\nPABLO\nHUMBERTO  \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "GARATE PABLO HUMBERTO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=GARATE+PABLO+HUMBERTO++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PERONISMO KIRCHNERISTA", 
+        "codigo": "28627055", 
+        "distrito": "JUNIN", 
         "img": "diputados/fotos/f_28627055.jpg", 
-        "nombre": " GIACCONE\nROCIO\nSOLEDAD   \n               \r\n                                  \r\n                                         "
+        "nombre": "GIACCONE ROCIO SOLEDAD", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=GIACCONE+ROCIO+SOLEDAD+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "17828722", 
+        "distrito": "BERAZATEGUI", 
         "img": "diputados/fotos/f_17828722.jpg", 
-        "nombre": " GIACOBBE\nMARIO\nPABLO     \n               \r\n                                  \r\n                                         "
+        "nombre": "GIACOBBE MARIO PABLO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=GIACOBBE+MARIO+PABLO+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "24829667", 
+        "distrito": "BAHiA BLANCA", 
         "img": "diputados/fotos/f_24829667.jpg", 
-        "nombre": " GODOY\nGABRIEL\nFERNANDO  \n                \r\n                                  \r\n                                         "
+        "nombre": "GODOY GABRIEL FERNANDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=GODOY+GABRIEL+FERNANDO+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "20440820", 
+        "distrito": "ENSENADA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " GONZALEZ\nSUSANA\nHAYDEÉ    \n              \r\n                                  \r\n                                         "
+        "nombre": "GONZALEZ SUSANA HAYDEĂ", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=GONZALEZ+SUSANA+HAYDE%C9+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "26157364", 
+        "distrito": "SAN MARTIN", 
         "img": "diputados/fotos/f_26157364.jpg", 
-        "nombre": " GRANDE\nLAURO\nMANUEL    \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "GRANDE LAURO MANUEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=GRANDE+LAURO+MANUEL++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "17888287", 
+        "distrito": "DOLORES", 
         "img": "diputados/fotos/f_17888287.jpg", 
-        "nombre": " GUTIERREZ\nCARLOS\nRAMIRO    \n             \r\n                                  \r\n                                         "
+        "nombre": "GUTIERREZ CARLOS RAMIRO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=GUTIERREZ+CARLOS+RAMIRO++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "4525546", 
+        "distrito": "TABLADA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " HALJAN\nJUAN\nCARLOS    \n          \n       \r\n                                  \r\n                                         "
+        "nombre": "HALJAN JUAN CARLOS", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=HALJAN+JUAN+CARLOS+++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "24610407", 
+        "distrito": "GENERAL PUEYRREDON", 
         "img": "diputados/fotos/f_24610407.jpg", 
-        "nombre": " IRIART\nRODOLFO\nADRIAN    \n               \r\n                                  \r\n                                         "
+        "nombre": "IRIART RODOLFO ADRIAN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=IRIART+RODOLFO+ADRIAN++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "23424681", 
+        "distrito": "SAN MARTIN", 
         "img": "diputados/fotos/f_23424681.jpg", 
-        "nombre": " IVOSKUS\nDANIEL\nHERNAN    \n               \r\n                                  \r\n                                         "
+        "nombre": "IVOSKUS DANIEL HERNAN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=IVOSKUS+DANIEL+HERNAN++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FTE.IZQ Y DE LOS TRABAJADORES", 
+        "codigo": "29150442", 
+        "distrito": "LA MATANZA", 
         "img": "diputados/fotos/f_29150442.jpg", 
-        "nombre": " KANE\nCACERES\nGUILLERMO \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "KANE CACERES GUILLERMO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=KANE+CACERES+GUILLERMO+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "27727688", 
+        "distrito": "PRESIDENTE PERON", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " LARROQUE\nMARIANA   \n          \n          \r\n                                  \r\n                                         "
+        "nombre": "LARROQUE MARIANA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=LARROQUE+MARIANA+++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "17665571", 
+        "distrito": "PERGAMINO", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " LAZZARI\nSUSANA\nEMMA\nBEATRIZ   \n          \r\n                                  \r\n                                         "
+        "nombre": "LAZZARI SUSANA EMMA BEATRIZ", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=LAZZARI+SUSANA+EMMA+BEATRIZ++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "20727392", 
+        "distrito": "SALADILLO", 
         "img": "diputados/fotos/f_20727392.jpg", 
-        "nombre": " LISSALDE\nRICARDO   \n          \n          \r\n                                  \r\n                                         "
+        "nombre": "LISSALDE RICARDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=LISSALDE+RICARDO+++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "18007381", 
+        "distrito": "SALADILLO", 
         "img": "diputados/fotos/f_18007381.jpg", 
-        "nombre": " LORDEN\nMARIA\nALEJANDRA \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "LORDEN MARIA ALEJANDRA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=LORDEN+MARIA+ALEJANDRA+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "13730450", 
+        "distrito": "ALMIRANTE BROWN", 
         "img": "diputados/fotos/f_13730450.jpg", 
-        "nombre": " MANCINI\nJORGE OMAR\n          \n           \r\n                                  \r\n                                         "
+        "nombre": "MANCINI JORGE OMAR", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=MANCINI+JORGE+OMAR+++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CONVICCION PERONISTA", 
+        "codigo": "14669073", 
+        "distrito": "GENERAL PUEYRREDON", 
         "img": "diputados/fotos/f_14669073.jpg", 
-        "nombre": " MARTINEZ\nMARIA\nALEJANDRA \n               \r\n                                  \r\n                                         "
+        "nombre": "MARTINEZ MARIA ALEJANDRA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=MARTINEZ+MARIA+ALEJANDRA+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PJ - UNIDAD Y RENOVACION", 
+        "codigo": "27245079", 
+        "distrito": "PIGUE", 
         "img": "diputados/fotos/f_27245079.jpg", 
-        "nombre": " MERQUEL\nMARISOL   \n          \n           \r\n                                  \r\n                                         "
+        "nombre": "MERQUEL MARISOL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=MERQUEL+MARISOL++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "FRENTE RENOVADOR.", 
+        "codigo": "21647816", 
+        "distrito": "GRAL. VIAMONTE", 
         "img": "diputados/fotos/f_21647816.jpg", 
-        "nombre": " MIGNAQUY\nJAVIER\nCARLOS    \n              \r\n                                  \r\n                                         "
+        "nombre": "MIGNAQUY JAVIER CARLOS", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=MIGNAQUY+JAVIER+CARLOS+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "5393549", 
+        "distrito": "TRES ARROYOS", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " MORENO\nCARLOS\nJULIO     \n                \r\n                                  \r\n                                         "
+        "nombre": "MORENO CARLOS JULIO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=MORENO+CARLOS+JULIO++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "29297915", 
+        "distrito": "BOLIVAR", 
         "img": "diputados/fotos/f_29297915.jpg", 
-        "nombre": " MOSCA\nMANUEL    \n          \n             \r\n                                  \r\n                                         "
+        "nombre": "MOSCA MANUEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=MOSCA+MANUEL+++++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PJ - UNIDAD Y RENOVACION", 
+        "codigo": "14559760", 
+        "distrito": "ZARATE", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " MOYANO\nPATRICIA\nMABEL     \n              \r\n                                  \r\n                                         "
+        "nombre": "MOYANO PATRICIA MABEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=MOYANO+PATRICIA+MABEL++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "21449275", 
+        "distrito": "BAHIA BLANCA", 
         "img": "diputados/fotos/f_21449275.jpg", 
-        "nombre": " NARDELLI\nSANTIAGO\nANDRÉS    \n            \r\n                                  \r\n                                         "
+        "nombre": "NARDELLI SANTIAGO ANDRĂS", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=NARDELLI+SANTIAGO+ANDR%C9S+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "12454945", 
+        "distrito": "MALVINAS ARGENTINAS", 
         "img": "diputados/fotos/f_12454945.jpg", 
-        "nombre": " OROÑO HUGO\nFRANCISCO \n          \n        \r\n                                  \r\n                                         "
+        "nombre": "OROﾃ前 HUGO FRANCISCO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ORO%D1O+HUGO+FRANCISCO+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PJ - UNIDAD Y RENOVACION", 
+        "codigo": "31224429", 
+        "distrito": "LOMAS DE ZAMORA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " OTERMIN\nFEDERICO  \n          \n           \r\n                                  \r\n                                         "
+        "nombre": "OTERMIN FEDERICO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=OTERMIN+FEDERICO+++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PERONISMO KIRCHNERISTA", 
+        "codigo": "28231328", 
+        "distrito": "SAN ISIDRO", 
         "img": "diputados/fotos/f_28231328.jpg", 
-        "nombre": " OTTAVIS\nARIAS JOSE\nMARIA     \n           \r\n                                  \r\n                                         "
+        "nombre": "OTTAVIS ARIAS JOSE MARIA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=OTTAVIS+ARIAS+JOSE+MARIA+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "17136175", 
+        "distrito": "ZARATE", 
         "img": "diputados/fotos/f_17136175.jpg", 
-        "nombre": " PARIS\nSANDRA\nSILVINA   \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "PARIS SANDRA SILVINA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=PARIS+SANDRA+SILVINA+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "31153283", 
+        "distrito": "SAN NICOLAS", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " PASSAGLIA\nISMAEL\nSANTIAGO  \n             \r\n                                  \r\n                                         "
+        "nombre": "PASSAGLIA ISMAEL SANTIAGO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=PASSAGLIA+ISMAEL+SANTIAGO++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PJ - UNIDAD Y RENOVACION", 
+        "codigo": "8575107", 
+        "distrito": "FLORENCIO VARELA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " PEREYRA\nJULIO\nCESAR     \n                \r\n                                  \r\n                                         "
+        "nombre": "PEREYRA JULIO CESAR", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=PEREYRA+JULIO+CESAR++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "18792682", 
+        "distrito": "QUILMES", 
         "img": "diputados/fotos/f_18792682.jpg", 
-        "nombre": " PEREZ\nFERNANDO  \n          \n             \r\n                                  \r\n                                         "
+        "nombre": "PEREZ FERNANDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=PEREZ+FERNANDO+++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "21072492", 
+        "distrito": "SAN ANTONIO DE ARECO", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " PINEDO\nMARIANO   \n          \n            \r\n                                  \r\n                                         "
+        "nombre": "PINEDO MARIANO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=PINEDO+MARIANO+++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "25401464", 
+        "distrito": "LA PLATA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " PIPARO\nCAROLINA\nROSANA    \n              \r\n                                  \r\n                                         "
+        "nombre": "PIPARO CAROLINA ROSANA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=PIPARO+CAROLINA+ROSANA+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "32318930", 
+        "distrito": "PILAR", 
         "img": "diputados/fotos/f_32318930.jpg", 
-        "nombre": " PORTOS\nLUCIA     \n          \n            \r\n                                  \r\n                                         "
+        "nombre": "PORTOS LUCIA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=PORTOS+LUCIA+++++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "10101492", 
+        "distrito": "NECOCHEA", 
         "img": "diputados/fotos/f_10101492.jpg", 
-        "nombre": " RAGO\nROBERTO\nOMAR      \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "RAGO ROBERTO OMAR", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=RAGO+ROBERTO+OMAR++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "27457525", 
+        "distrito": "LA MATANZA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " RAMIREZ\nMARIA\nLAURA     \n                \r\n                                  \r\n                                         "
+        "nombre": "RAMIREZ MARIA LAURA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=RAMIREZ+MARIA+LAURA++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "28267772", 
+        "distrito": "ZARATE", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " RANZINI\nMATÍAS\nFERNANDO  \n               \r\n                                  \r\n                                         "
+        "nombre": "RANZINI MATĂAS FERNANDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=RANZINI+MAT%CDAS+FERNANDO++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "8649331", 
+        "distrito": "MORON", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " RESICO\nNÉSTOR\nADRIÁN    \n                \r\n                                  \r\n                                         "
+        "nombre": "RESICO NĂSTOR ADRIĂN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=RESICO+N%C9STOR+ADRI%C1N+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "26271533", 
+        "distrito": "MERCEDES", 
         "img": "diputados/fotos/f_26271533.jpg", 
-        "nombre": " REVORA\nSANTIAGO\nEDUARDO   \n              \r\n                                  \r\n                                         "
+        "nombre": "REVORA SANTIAGO EDUARDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=REVORA+SANTIAGO+EDUARDO++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "32066154", 
+        "distrito": "JUNIN", 
         "img": "diputados/fotos/f_32066154.jpg", 
-        "nombre": " RICCHINI\nMARIA\nLAURA     \n               \r\n                                  \r\n                                         "
+        "nombre": "RICCHINI MARIA LAURA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=RICCHINI+MARIA+LAURA+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "26842713", 
+        "distrito": "CHASCOMUS", 
         "img": "diputados/fotos/f_26842713.jpg", 
-        "nombre": " ROSSI JOSE\nIGNACIO   \n          \n        \r\n                                  \r\n                                         "
+        "nombre": "ROSSI JOSE IGNACIO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ROSSI+JOSE+IGNACIO+++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "14723861", 
+        "distrito": "LA PLATA", 
         "img": "diputados/fotos/f_14723861.jpg", 
-        "nombre": " ROVELLA\nDIEGO\nALEJANDRO \n                \r\n                                  \r\n                                         "
+        "nombre": "ROVELLA DIEGO ALEJANDRO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ROVELLA+DIEGO+ALEJANDRO++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "21463431", 
+        "distrito": "LA PLATA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " SAINTOUT\nFLORENCIA\nJUANA     \n           \r\n                                  \r\n                                         "
+        "nombre": "SAINTOUT FLORENCIA JUANA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=SAINTOUT+FLORENCIA+JUANA+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "20035318", 
+        "distrito": "CARLOS TEJEDOR", 
         "img": "diputados/fotos/f_20035318.jpg", 
-        "nombre": " SANCHEZ \nOSCAR\nALBERTO   \n               \r\n                                  \r\n                                         "
+        "nombre": "SANCHEZ  OSCAR ALBERTO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=SANCHEZ++OSCAR+ALBERTO+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "27354291", 
+        "distrito": "QUILMES", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " SÁNCHEZ\nSTERLI\nGUILLERMO\nMANUEL          \r\n                                  \r\n                                         "
+        "nombre": "SĂNCHEZ STERLI GUILLERMO MANUEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=S%C1NCHEZ+STERLI+GUILLERMO+MANUEL++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "17241434", 
+        "distrito": "9 DE JULIO", 
         "img": "diputados/fotos/f_17241434.jpg", 
-        "nombre": " SILVESTRE\nJORGE LUIS\n          \n         \r\n                                  \r\n                                         "
+        "nombre": "SILVESTRE JORGE LUIS", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=SILVESTRE+JORGE+LUIS+++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "17034620", 
+        "distrito": "SAN MIGUEL", 
         "img": "diputados/fotos/f_17034620.jpg", 
-        "nombre": " TEDESCHI\nMARIA JOSE\n          \n          \r\n                                  \r\n                                         "
+        "nombre": "TEDESCHI MARIA JOSE", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=TEDESCHI+MARIA+JOSE++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "32919718", 
+        "distrito": "LA MATANZA", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " TIGNANELLI\nFACUNDO   \n          \n        \r\n                                  \r\n                                         "
+        "nombre": "TIGNANELLI FACUNDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=TIGNANELLI+FACUNDO+++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "21493387", 
+        "distrito": "VICENTE LOPEZ", 
         "img": "diputados/fotos/f_21493387.jpg", 
-        "nombre": " TORRES\nCESAR\nANGEL     \n          \n      \r\n                                  \r\n                                         "
+        "nombre": "TORRES CESAR ANGEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=TORRES+CESAR+ANGEL+++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "04941880", 
+        "distrito": "LOMAS DE ZAMORA", 
         "img": "diputados/fotos/f_04941880.jpg", 
-        "nombre": " TORRESI\nMARIA\nELENA     \n                \r\n                                  \r\n                                         "
+        "nombre": "TORRESI MARIA ELENA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=TORRESI+MARIA+ELENA++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "PJ - UNIDAD Y RENOVACION", 
+        "codigo": "16810460", 
+        "distrito": "-", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " URQUIAGA\nCARLOS\nNORBERTO  \n              \r\n                                  \r\n                                         "
+        "nombre": "URQUIAGA CARLOS NORBERTO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=URQUIAGA+CARLOS+NORBERTO+++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "23222999", 
+        "distrito": "LANUS", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " URRELI\nADRIÁN\nGONZALO   \n                \r\n                                  \r\n                                         "
+        "nombre": "URRELI ADRIĂN GONZALO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=URRELI+ADRI%C1N+GONZALO++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "26890914", 
+        "distrito": "OLAVARRIA", 
         "img": "diputados/fotos/f_26890914.jpg", 
-        "nombre": " VALICENTI\nCESAR\nDANIEL    \n              \r\n                                  \r\n                                         "
+        "nombre": "VALICENTI CESAR DANIEL", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=VALICENTI+CESAR+DANIEL+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "23118163", 
+        "distrito": "-", 
         "img": "diputados/fotos/sf_logo.jpg", 
-        "nombre": " VÉLEZ\nGUSTAVO\nRUBÉN     \n                \r\n                                  \r\n                                         "
+        "nombre": "VĂLEZ GUSTAVO RUBĂN", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=V%C9LEZ+GUSTAVO+RUB%C9N++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "25153273", 
+        "distrito": "9 DE JULIO", 
         "img": "diputados/fotos/f_25153273.jpg", 
-        "nombre": " VIVANI\nMAURICIO\nANDRES    \n              \r\n                                  \r\n                                         "
+        "nombre": "VIVANI MAURICIO ANDRES", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=VIVANI+MAURICIO+ANDRES+++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "CAMBIEMOS BUENOS AIRES", 
+        "codigo": "25951845", 
+        "distrito": "LINCOLN", 
         "img": "diputados/fotos/f_25951845.jpg", 
-        "nombre": " ZUCCARI\nVANESA    \n          \n           \r\n                                  \r\n                                         "
+        "nombre": "ZUCCARI VANESA", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ZUCCARI+VANESA+++++++++++++++++++++", 
+        "rol": "Diputado"
     }, 
     {
+        "bloque": "UNIDAD CIUDADANA - FPV", 
+        "codigo": "30870973", 
+        "distrito": "PEHUAJO", 
         "img": "diputados/fotos/f_30870973.jpg", 
-        "nombre": " ZURRO\nAVELINO\nRICARDO   \n                \r\n                                  \r\n                                         "
+        "nombre": "ZURRO AVELINO RICARDO", 
+        "proyectosPresentados": "includes/proyectos_presentados.php?d_autor=ZURRO+AVELINO+RICARDO++++++++++++++", 
+        "rol": "Diputado"
     }
 ]

@@ -15,8 +15,7 @@ def parse(soup):
 	children = soup.find_all("div", class_="derecha_un_tercio")
 	for i in range(0, len(children)):
 	 	data = {}
-	 	nombreImagen = children[i].find("img")["src"].split("/")[2]
-	 	data["codigo"] = nombreImagen[2: len(nombreImagen) - 4]
+	 	data["codigo"] = children[i].find("img")["onclick"].split("'")[1]
 	 	data["img"] = children[i].find("img")["src"]
 	 	data["nombre"] = children[i].find("div", class_="nombre_diputado").text.encode('utf-8')
 	  	candidates.append(data)
