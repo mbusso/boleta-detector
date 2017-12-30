@@ -1,0 +1,386 @@
+[
+    {
+        "additionalInfo": "Senador.aspx?idP=2169", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2169.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Ahumada, Aldana Julieta"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2092", 
+        "bloque": "Cambiemos", 
+        "distrito": "La Plata", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2092.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Allan, Juan Pablo"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2107", 
+        "bloque": "Cambiemos", 
+        "distrito": "La Plata", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2107.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Ayllon, Elena Pilar"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2180", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2180.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Bagnato, Francisco Jorge"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2094", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "La Matanza", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2094.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Barrera, Daniel Horacio"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2176", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2176.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Beccar Varela, Felicitas"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=1511", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "Zárate", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/1511.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Berni, Sergio Alejandro"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2175", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2175.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Blanco, Leandro Eduardo"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2024", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "Maipú", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2024.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Bozzano, Gervasio"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2097", 
+        "bloque": "Frente renovador -1pais", 
+        "distrito": "Magdalena", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2097.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Carballo, Fernando Gabriel"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=1707", 
+        "bloque": "Cambiemos", 
+        "distrito": "San Nicolás de los Arroyos", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/1707.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Carca, Elisa Beatriz"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=1516", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "Lomas de Zamora", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/1516.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Carreras, Santiago"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2185", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2185.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Cellillo, Luis Alejandro"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2102", 
+        "bloque": "Cambiemos", 
+        "distrito": "Bahía Blanca", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2102.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Centeno Lascano, Julieta Maria"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=1514", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "San Nicolás de los Arroyos", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/1514.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Comerio, Cecilia Lorena"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=156", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/156.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "COSTA, ROBERTO RAUL"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2101", 
+        "bloque": "Cambiemos", 
+        "distrito": "Bahía Blanca", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2101.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "De Leo, Jose Andres"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2179", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2179.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Defunchio, María Elena"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2181", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2181.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Delmonte, Flavia"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2184", 
+        "bloque": "Partido justicialista unidad y renovación", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2184.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Demaría, Gabriela"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2090", 
+        "bloque": "Partido justicialista unidad y renovación", 
+        "distrito": "Lanús", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2090.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Diaz Perez, Dario Hugo"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2099", 
+        "bloque": "Cambiemos", 
+        "distrito": "San Nicolás de los Arroyos", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2099.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Dileo, Julio Marcelo"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2182", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2182.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Fiorini, Juan Carlos"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2183", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2183.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Fiorini, Lucas"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2172", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2172.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "García, María Teresa"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2174", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2174.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Geloso, Ana Laura"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2187", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2187.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Jáuregui, Dalton"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2105", 
+        "bloque": "Cambiemos", 
+        "distrito": "Ituzaingó", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2105.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Lanaro, Walter Daniel"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2170", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2170.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Lasala Reparaz, Emiliano"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=1529", 
+        "bloque": "Cambiemos", 
+        "distrito": "Puan", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/1529.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Lopez, Horacio Luis"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2177", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2177.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Maspoli, Agustín"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=1530", 
+        "bloque": "Cambiemos", 
+        "distrito": "Bahía Blanca", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/1530.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Moirano, Nidia"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2096", 
+        "bloque": "Cambiemos", 
+        "distrito": "Capital", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2096.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Monzo, Gabriel Bernardo"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2098", 
+        "bloque": "Cambiemos", 
+        "distrito": "Pergamino", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2098.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Pacifico, Marcelo Antonio"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=472", 
+        "bloque": "Frente renovador -1pais", 
+        "distrito": "Lanús", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/472.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Pallares, José Luis"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2095", 
+        "bloque": "Cambiemos", 
+        "distrito": "Lanús", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2095.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Petrovich, Maria Lorena"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2104", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2104.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Pignocco, Juan Manuel"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2168", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2168.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Reich, Daniela Elizabeth"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2188", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2188.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Romero, Jorge Ariel"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2178", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2178.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "San Pedro, Aldo Omar"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2093", 
+        "bloque": "Cambiemos", 
+        "distrito": "Quilmes", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2093.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Schiavo, Eduardo Orlando"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2171", 
+        "bloque": "Partido justicialista unidad y renovación", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2171.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Soos, Gustavo"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2103", 
+        "bloque": "Unidad ciudadana - frente para la victoria", 
+        "distrito": "Bahía Blanca", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2103.jpg", 
+        "mandato": "2015-2019", 
+        "nombre": "Susbielles, Federico Esteban"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2167", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2167.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Tapia, Gabino Mario"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2186", 
+        "bloque": "Cambiemos", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2186.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Tironi, Carolina Isabel"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=2173", 
+        "bloque": "Partido justicialista unidad y renovación", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/2173.jpg", 
+        "mandato": "2017-2021", 
+        "nombre": "Vivona, Luis Omar"
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=0", 
+        "bloque": "", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/0.jpg", 
+        "mandato": "", 
+        "nombre": ""
+    }, 
+    {
+        "additionalInfo": "Senador.aspx?idP=1400", 
+        "bloque": "", 
+        "distrito": "", 
+        "img": "http://prensa.senado-ba.gov.ar/archivos/img_senadores/1400.jpg", 
+        "mandato": "", 
+        "nombre": ""
+    }
+]
