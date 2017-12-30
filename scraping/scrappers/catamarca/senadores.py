@@ -5,26 +5,34 @@ sys.path.append( path.dirname(path.dirname( path.dirname( path.abspath(__file__)
 from modules import request
 from modules import files
 
+
 def main():
-	soup = request.get_content_parsed("http://www.senadodecatamarca.gob.ar/informacion-institucional/senadores")
-	candidates = parse(soup)
-	files.save_as_json('sources/catamarca/senadores.aux.json', candidates)
+	senadores = files.readJsonFile("sources/catamarca/senadores.aux.json")
+	info = []
+	for senador in senadores:
+		info.append(getAdditionalInfo(senador))
+	files.save_as_json('sources/catamarca/senadores.json', info)
+
+
+def getAdditionalInfo(senador):
+	url = "https://www.senadodecatamarca.gob.ar" + senador["additionalInfo"]
+	soup = request.get_content_parsed(url)
+	senadorInfo = parse(soup)
+	senadorInfo["img"] = senador["img"]
+	senadorInfo["additionalInfo"] = senador["additionalInfo"]
+	senadorInfo["bloque"] = senador["bloque"]
+	senadorInfo["distrito"] = senador["distrito"]
+	senadorInfo["nombre"] = senador["nombre"]
+	return senadorInfo
+
 
 def parse(soup):
-	candidates = []
-	children = soup.find("table", class_="table table-striped table-bordered center-table").find("tbody").find_all("tr")
-	for child in children:
-		data = {}
-		data["img"] = child.find("img")["src"]
-		link = child.find("a")
-		data["additionalInfo"] = link["href"]
-		data["nombre"] = link.text.strip()
-		tdElements = child.find_all("td")
-		data["distrito"] = tdElements[1].text.strip()
-		data["bloque"] = tdElements[2].text.strip()
-		candidates.append(data)
-	return candidates
+	candidate = {}
+	div = soup.find_all("div", class_= "col-md-4")[2]
+	pTagSize = len(div.find_all("p"))
+	candidate["mandato"] = "" if pTagSize < 5 else div.find_all("p")[4].text.split(":")[1].strip()
+	return candidate
+
 
 if __name__ == "__main__":
-	main()
-
+    main()
