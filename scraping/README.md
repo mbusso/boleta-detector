@@ -64,12 +64,13 @@ Santiago del Estero (Diputados): http://legislaturasde.gob.ar/diputados/
 Tierra del fuego: http://www.legistdf.gov.ar/lalegislatura/legisladores%202016/
 
 IN PROGRESS
-Buenos Aires(Diputados): https://www.hcdiputados-ba.gov.ar/
+Buenos Aires(Senadores): http://www.senado-ba.gov.ar/Senadores.aspx
 
 DONE
-Cordoba: http://www.legiscba.gob.ar/legisladores/
-Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php
-Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php
+Buenos Aires(Diputados): https://www.hcdiputados-ba.gov.ar/
+Cordoba: http://www.legiscba.gob.ar/legisladores/ - Revisar
+Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php Revisar
+Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php Revisar
 
 
 Estadisticas:
