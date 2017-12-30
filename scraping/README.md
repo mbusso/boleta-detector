@@ -18,7 +18,7 @@ http://www.infoleg.gob.ar/?page_id=95
 DONE -> Buenos Aires(Diputados): https://www.hcdiputados-ba.gov.ar/
 DONE -> Buenos Aires(Senadores): http://www.senado-ba.gov.ar/Senadores.aspx
 
-INPROGRESS -> Catamarca (Senadores): http://www.senadodecatamarca.gob.ar/informacion-institucional/senadores
+DONE -> Catamarca (Senadores): http://www.senadodecatamarca.gob.ar/informacion-institucional/senadores
 Catamarca (Diputados): http://www.diputados-catamarca.gov.ar/institucional.html
 
 Chubut (Diputados): http://www.legischubut2.gov.ar/index.php?option=com_content&view=article&id=1254&Itemid=171 
