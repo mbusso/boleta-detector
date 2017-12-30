@@ -53,6 +53,22 @@ public class Detector {
     public void loadClassifiers() {
         this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
         this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+        //A PARTIR DE ACA SE EMPIEZXA A NOTAR DIFERENCIA
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+        //MAS LENTO
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+        //MUY LENTO
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.autodeterminacion_classifier, "autodeterminacion_classifier_classifier.xml" ));
+        this.classifiers.add(this.create(activity.getResources(), activity.getCascadeDirectory(), TAG, R.raw.ari_classifier, "ari_classifier.xml"));
+
     }
 
 
