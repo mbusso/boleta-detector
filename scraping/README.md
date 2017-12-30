@@ -15,10 +15,10 @@ http://votaciones.lanacion.com.ar/api/senadores/ranking/2014
 http://www.infoleg.gob.ar/?page_id=95
 
 ------LEGISLADORES PROVINCIALES
-Buenos Aires(Diputados): https://www.hcdiputados-ba.gov.ar/
-Buenos Aires(Senadores): http://www.senado-ba.gov.ar/Senadores.aspx
+DONE -> Buenos Aires(Diputados): https://www.hcdiputados-ba.gov.ar/
+DONE -> Buenos Aires(Senadores): http://www.senado-ba.gov.ar/Senadores.aspx
 
-Catamarca (Senadores): http://www.senadodecatamarca.gob.ar/informacion-institucional/senadores
+INPROGRESS -> Catamarca (Senadores): http://www.senadodecatamarca.gob.ar/informacion-institucional/senadores
 Catamarca (Diputados): http://www.diputados-catamarca.gov.ar/institucional.html
 
 Chubut (Diputados): http://www.legischubut2.gov.ar/index.php?option=com_content&view=article&id=1254&Itemid=171 
@@ -63,14 +63,9 @@ Santiago del Estero (Diputados): http://legislaturasde.gob.ar/diputados/
 
 Tierra del fuego: http://www.legistdf.gov.ar/lalegislatura/legisladores%202016/
 
-IN PROGRESS
-Buenos Aires(Senadores): http://www.senado-ba.gov.ar/Senadores.aspx
-
-DONE
-Buenos Aires(Diputados): https://www.hcdiputados-ba.gov.ar/
-Cordoba: http://www.legiscba.gob.ar/legisladores/ - Revisar
-Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php Revisar
-Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php Revisar
+REVIEW -> Cordoba: http://www.legiscba.gob.ar/legisladores/
+REVIEW ->  Tucuman: https://www.legislaturadetucuman.gob.ar/hlt_legisladores.php
+REVIEW -> Chaco: http://www.legislaturachaco.gov.ar/sitio/legisladores.php
 
 
 Estadisticas:
