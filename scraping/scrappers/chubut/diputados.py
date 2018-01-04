@@ -12,12 +12,22 @@ def main():
 
 def parse(soup):
 	candidates = []
-	children = soup.find_all("div", attrs={"align":"center"})
+	bloque = ""
+	children = soup.find_all("td")
 	for child in children:
-		data = {}
-		data["img"] = child.contens[0]["src"]
-		data["nombre"] = child.find("strong").text
-		candidates.append(data)
+		strong = child.find("strong")
+		if(strong):
+			img = child.find("img")
+			if(img):
+				data = {}
+				data["img"] = "http://www.legischubut2.gov.ar" + img["src"]
+				data["nombre"] = strong.text.split("Dip.")[1].strip()
+				data["bloque"] = bloque
+				candidates.append(data)
+			else :
+				tokens = strong.text.split("BLOQUE")
+				if(len(tokens) > 1):
+					bloque = tokens[1].split("Integrado")[0].strip()
 	return candidates
 
 if __name__ == "__main__":
