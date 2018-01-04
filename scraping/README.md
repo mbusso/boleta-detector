@@ -21,7 +21,7 @@ DONE -> Buenos Aires(Senadores): http://www.senado-ba.gov.ar/Senadores.aspx
 DONE -> Catamarca (Senadores): http://www.senadodecatamarca.gob.ar/informacion-institucional/senadores
 DONE -> Catamarca (Diputados): http://www.diputados-catamarca.gov.ar/institucional.html
 
-Chubut (Diputados): http://www.legischubut2.gov.ar/index.php?option=com_content&view=article&id=1254&Itemid=171 
+DONE -> Chubut (Diputados): http://www.legischubut2.gov.ar/index.php?option=com_content&view=article&id=1254&Itemid=171 
 
 Corrientes (Senadores): http://www.senadoctes.gov.ar/senadores.htm
 Corrientes (Diputados): http://www.hcdcorrientes.gov.ar/diputados/diputados.htm
