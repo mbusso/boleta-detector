@@ -14,6 +14,7 @@ def parse(soup):
 	candidates = []
 	bloque = ""
 	children = soup.find_all("td")
+	mandato = soup.find("h1", class_="title").contents[1].text.split(" ")[1]
 	for child in children:
 		strong = child.find("strong")
 		if(strong):
@@ -23,6 +24,7 @@ def parse(soup):
 				data["img"] = "http://www.legischubut2.gov.ar" + img["src"]
 				data["nombre"] = strong.text.split("Dip.")[1].strip()
 				data["bloque"] = bloque
+				data["mandato"] = mandato
 				candidates.append(data)
 			else :
 				tokens = strong.text.split("BLOQUE")
