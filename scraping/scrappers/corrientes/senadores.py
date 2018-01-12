@@ -19,15 +19,16 @@ def parseNombreCandidatos(soup):
 	
 
 def parseCandidato(nombreCandidato):
-	print nombreCandidato
+	print "http://www.senadoctes.gov.ar/" + nombreCandidato
 	data = {}
 	soup = request.get_content_parsed("http://www.senadoctes.gov.ar/" + nombreCandidato)
 	tds= soup.find_all("td", class_="arryabaazul")
 	data["img"] = tds[0].find("img")["src"]
-	strongTags = tds[1].find_all("strong")
-	print strongTags
-	data["nombre"] = strongTags[0].text.encode('utf-8')
-	data["mandato"] = strongTags[1].text.encode('utf-8')
+	strongTags = tds[1].find_all("font")
+	#print strongTags
+	data["nombre"] = strongTags[0].text.replace("\n","").strip()
+	data["mandato"] = strongTags[2].text.replace("\n","")
+	print data
 	return data
 
 
