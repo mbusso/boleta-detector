@@ -23,7 +23,7 @@ DONE -> Catamarca (Diputados): http://www.diputados-catamarca.gov.ar/institucion
 
 DONE -> Chubut (Diputados): http://www.legischubut2.gov.ar/index.php?option=com_content&view=article&id=1254&Itemid=171 
 
-Corrientes (Senadores): http://www.senadoctes.gov.ar/senadores.htm
+DONE -> Corrientes (Senadores): http://www.senadoctes.gov.ar/senadores.htm
 Corrientes (Diputados): http://www.hcdcorrientes.gov.ar/diputados/diputados.htm
 
 Entre rios (Diputados): http://www.hcder.gov.ar/
