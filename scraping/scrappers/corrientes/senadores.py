@@ -6,29 +6,26 @@ from modules import request
 from modules import files
 
 def main():
-	soup = request.get_content_parsed("http://www.senadoctes.gov.ar/senadores.htm")
+	soup = request.get_content_parsed_with_iso_encoding("http://www.senadoctes.gov.ar/senadores.htm")
 	nombreCandidatos = parseNombreCandidatos(soup)
-	candidatos = map(lambda x: parseCandidato(x), nombreCandidatos)
-	print(candidatos)
+	senadores = list(map(lambda x: parseCandidato(x), nombreCandidatos))
+	files.save_as_json('sources/corrientes/senadores.json', senadores)
 
 
 def parseNombreCandidatos(soup):
 	children = soup.find("select").find_all("option")
-	candidates = map(lambda x: x["value"].encode("utf-8"), children)
+	candidates = list(map(lambda x: x["value"], children))
 	return candidates[1:len(candidates)]
 	
 
 def parseCandidato(nombreCandidato):
-	print "http://www.senadoctes.gov.ar/" + nombreCandidato
 	data = {}
 	soup = request.get_content_parsed("http://www.senadoctes.gov.ar/" + nombreCandidato)
 	tds= soup.find_all("td", class_="arryabaazul")
-	data["img"] = tds[0].find("img")["src"]
+	data["img"] = "http://www.senadoctes.gov.ar/" + tds[0].find("img")["src"]
 	strongTags = tds[1].find_all("font")
-	#print strongTags
-	data["nombre"] = strongTags[0].text.replace("\n","").strip()
+	data["nombre"] = strongTags[0].text.replace("\n","").strip().split(":")[1].strip()
 	data["mandato"] = strongTags[2].text.replace("\n","")
-	print data
 	return data
 
 
